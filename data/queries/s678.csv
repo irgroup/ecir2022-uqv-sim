@@ -1,0 +1,501 @@
+topic,rank,qcmcqg_kis_s6,qcmcqg_kis_s7,qcmcqg_kis_s8,qcmcqg_tts_s6,qcmcqg_tts_s7,qcmcqg_tts_s8
+393,1,kevorkian suicid euthanasia,kevorkian suicid euthanasia,kevorkian suicid euthanasia,kill remov merci,kevorkian kill merci,life case murder remov
+393,2,patient doctor die,patient doctor die,patient doctor die,kill murder merci,suicid kill merci,kevorkian kill merci
+393,3,kevorkian euthanasia medic,kevorkian euthanasia medic,kevorkian euthanasia medic,case kill merci,kevorkian kill remov merci,case murder remov
+393,4,suicid patient die,suicid patient die,suicid patient die,life kill merci,kill murder merci,life kill merci
+393,5,kevorkian doctor euthanasia,kevorkian doctor euthanasia,kevorkian doctor euthanasia,kill murder remov merci,kevorkian suicid kill merci,case kill murder remov
+393,6,suicid patient die medic,suicid die medic,suicid patient die medic,life case kill merci,kill remov merci,kevorkian life merci
+393,7,kevorkian euthanasia assist,kevorkian patient euthanasia,kevorkian euthanasia assist,kevorkian kill merci,kevorkian kill murder merci,kill murder remov
+393,8,suicid doctor die,suicid doctor die,suicid patient doctor die,case kill remov merci,case kill merci,life case merci
+393,9,kevorkian patient euthanasia,kevorkian euthanasia assist,kevorkian euthanasia dr,life kill murder merci,kevorkian life kill merci,kill murder remov merci
+393,10,suicid die medic,suicid patient doctor die,suicid doctor die,suicid kill merci,patient kill merci,life case kill
+350,1,comput vdt termin,comput vdt termin,comput vdt termin,comput termin health,comput termin health,comput termin health
+350,2,comput termin carpal,comput termin carpal,comput termin carpal,comput termin health tunnel,vdt termin health,work problem tunnel
+350,3,ergonom comput termin,ergonom vdt termin,ergonom comput vdt,comput termin health problem,ergonom comput health,comput vdt termin health
+350,4,comput repetit termin,comput repetit carpal,repetit termin carpal,comput termin work health,comput vdt termin,comput work problem tunnel
+350,5,comput keyboard termin,ergonom comput vdt termin,ergonom comput termin,termin health tunnel,ergonom termin health,vdt termin health
+350,6,comput termin wrist,comput repetit termin carpal,comput vdt carpal,comput health problem,comput vdt health,comput problem tunnel
+350,7,comput injuri termin,ergonom comput vdt,comput repetit termin,termin work health,ergonom comput termin,termin work health
+350,8,comput termin worker,repetit termin carpal,vdt termin carpal,comput health tunnel,comput vdt termin health,comput vdt problem tunnel
+350,9,comput vdt termin carpal,ergonom comput termin,comput keyboard termin,termin health problem,ergonom comput termin health,comput termin work health
+350,10,ergonom comput repetit termin,vdt termin carpal,ergonom vdt carpal,comput work health,comput keyboard vdt termin health,vdt problem tunnel
+394,1,school home educ,school home schooler,school home educ,school home program,school home schooler,school home program
+394,2,school home children,school home educ,school home children,school home classroom,school home program,children educ classroom
+394,3,school home schooler,school home children schooler,school educ schooler,school home educ,school home schooler classroom,school home schooler program
+394,4,school home children educ,school home teacher,home children teacher,school home children,school home educ,school children educ classroom
+394,5,school home teacher,school home educ schooler,school parent educ,school home classroom program,school home schooler program,home schooler program
+394,6,school home parent,school home children,home children schooler,school home children educ,school home classroom,school educ classroom
+394,7,school home student,school home schooler teacher,school educ teacher,school home schooler,school home educ schooler,home children program
+394,8,school home famili,school home parent,home children parent,school home educ program,school home children,school home educ classroom
+394,9,school home she,school home schooler student,school educ student,school home children classroom,school home parent schooler,school children program
+394,10,school home educ schooler,school home famili,home children famili,school home parent,school home student,home educ classroom
+353,1,antarctica ozon antarct,antarctica ozon antarct,antarctica ozon antarct,antarctica other explor,antarctica antarct explor,antarctica other explor
+353,2,antarctica pole deplet,antarctica pole deplet,antarctica pole deplet,antarctica miner explor,antarctica ozon explor,research scientif miner
+353,3,antarctica antarct atmospher,antarctica antarct atmospher,antarctica antarct atmospher,antarctica scientif explor,antarctica antarct other explor,antarctica antarct other explor
+353,4,antarctica ozon deplet,antarctica ozon deplet,antarctica ozon deplet,antarctica research explor,antarctica miner explor,antarctica research scientif miner
+353,5,antarctica antarct pole,antarctica antarct pole,antarctica antarct pole,antarctica miner other explor,antarctica ozon antarct explor,antarct other explor
+353,6,antarctica ozon atmospher,antarctica ozon atmospher,antarctica ozon atmospher deplet,antarctica research scientif explor,antarctica other explor,antarctica scientif miner
+353,7,antarctica antarct deplet,antarctica antarct deplet,antarctica ic antarct,antarctica antarct explor,ozon antarct explor,research other explor
+353,8,antarctica ozon pole,antarctica ozon pole,antarctica ozon pole,antarctica scientif other explor,antarctica scientif explor,antarctica scientif miner explor
+353,9,antarctica ic antarct,antarctica ic antarct,antarctica antarct deplet,antarctica research miner explor,antarctica ozon antarct,antarctica research other
+353,10,antarctica ozon scientist,antarctica ozon pole deplet,antarctica ozon atmospher,antarctica ozon explor,antarctica research explor,scientif miner explor
+397,1,recal car mitsubishi,recal mitsubishi toyota,recal car mitsubishi,recal automobil reason,recal defect automobil,recal automobil reason
+397,2,recal defect toyota,recal ford defect,recal defect toyota,recal truck automobil,recal ford automobil,car manufactur truck
+397,3,recal car ford,recal motor mitsubishi,recal car ford,recal manufactur automobil,recal automobil reason,recal defect automobil reason
+397,4,recal mitsubishi toyota,recal defect toyota,recal mitsubishi toyota,recal car automobil,recal truck automobil,recal car manufactur truck
+397,5,recal car defect,recal ford mitsubishi,recal car defect,recal truck automobil reason,recal manufactur automobil,defect automobil reason
+397,6,recal ford mitsubishi,recal motor toyota,recal ford mitsubishi,recal car manufactur automobil,recal motor automobil,recal manufactur truck
+397,7,recal car toyota,recal defect mitsubishi,recal car toyota,recal defect automobil,recal car automobil,car automobil reason
+397,8,recal defect mitsubishi,recal ford toyota,recal defect mitsubishi,recal manufactur automobil reason,recal vehicl automobil,recal manufactur truck automobil
+397,9,recal car motor,recal car mitsubishi,recal car motor,recal car truck automobil,recal ford defect automobil,recal car reason
+397,10,recal vehicl mitsubishi,recal vehicl toyota,recal defect mitsubishi toyota,recal ford automobil,recal truck automobil reason,manufactur truck automobil
+310,1,cancer brain phone,cancer electromagnet brain,cancer brain phone,cancer brain found,cancer electromagnet brain,cancer brain found
+310,2,cancer studi brain,cancer brain tumor,cancer studi brain,cancer brain evid,cancer brain tumor,studi phone evid
+310,3,cancer electromagnet brain,cancer radiat brain,cancer electromagnet phone,cancer brain phone,cancer radiat brain,cancer electromagnet brain found
+310,4,cancer studi brain phone,cancer electromagnet brain tumor,studi brain tumor,cancer studi brain,cancer electromagnet brain tumor,cancer studi phone evid
+310,5,cancer brain tumor,cancer brain cell,cancer radiat phone,cancer brain evid found,cancer brain found,electromagnet brain found
+310,6,cancer radiat brain,cancer electromagnet radiat brain,electromagnet studi brain,cancer studi brain phone,cancer electromagnet radiat brain,cancer phone evid
+310,7,cancer brain cell,cancer brain phone,cancer phone tumor,cancer electromagnet brain,cancer brain evid,studi brain found
+310,8,cancer field brain,electromagnet brain tumor,studi radiat brain,cancer brain phone found,electromagnet brain tumor,cancer brain phone evid
+310,9,cancer brain power,cancer studi brain,cancer phone cell,cancer studi brain evid,cancer brain phone,cancer studi found
+310,10,cancer electromagnet brain phone,cancer electromagnet tumor,studi field brain,cancer brain tumor,cancer electromagnet tumor,brain phone evid
+354,1,journalist kill hostag,journalist sheikh pakistani,journalist kill hostag,journalist been arrest,journalist pearl sheikh,journalist been arrest
+354,2,journalist sheikh pakistani,journalist kidnap pakistan,journalist sheikh pakistani,journalist hostag correspond,journalist been arrest,kill hostag correspond
+354,3,journalist hostag kidnap,journalist pearl sheikh,kill hostag kidnap,journalist kill arrest,journalist sheikh correspond,journalist sheikh been arrest
+354,4,journalist kill sheikh,journalist kidnap pakistani,journalist sheikh pakistan,journalist correspond been,journalist pearl arrest,journalist kill hostag correspond
+354,5,journalist hostag pakistani,journalist sheikh pakistan,kill hostag pakistani,journalist hostag arrest,journalist sheikh been,sheikh been arrest
+354,6,journalist kill kidnap,journalist pearl pakistani,journalist sheikh kidnap,journalist kill been,journalist pearl correspond,journalist hostag correspond
+354,7,journalist hostag sheikh,journalist sheikh kidnap,kill hostag pakistan,journalist correspond arrest,journalist sheikh arrest,kill been arrest
+354,8,journalist kill pakistani,journalist pakistani pakistan,journalist pearl sheikh,journalist hostag been,journalist pearl been,journalist hostag sheikh correspond
+354,9,journalist hostag pakistan,journalist hostag sheikh,kill report hostag,journalist kill correspond,journalist hostag sheikh,journalist kill been arrest
+354,10,journalist pearl kill,journalist pearl kidnap,journalist kidnap pakistani,journalist hostag been arrest,journalist pearl kill,hostag sheikh correspond
+355,1,satellit ocean space,ocean climat space,satellit ocean space,ocean scienc geographi,ocean climat geographi,ocean scienc geographi
+355,2,ocean earth climat,satellit ocean earth,ocean earth climat,ocean space radar,ocean radar scienc,satellit space radar
+355,3,ocean ic space,ocean climat ic,satellit ic space,satellit ocean geographi,ocean climat space,ocean climat scienc geographi
+355,4,satellit ocean climat,satellit ocean space,ocean scientist climat,ocean radar scienc,ocean scienc geographi,satellit ocean space radar
+355,5,ocean earth space,ocean earth climat,satellit earth space,ocean space geographi,ocean climat radar,climat scienc geographi
+355,6,satellit ocean ic,ocean ic space,ocean climat ic,satellit ocean scienc,ocean space geographi,ocean space radar
+355,7,ocean climat space,satellit ocean climat,satellit scientist space,ocean radar geographi,ocean climat scienc,satellit scienc geographi
+355,8,satellit ocean earth,ocean earth space,ocean sea climat,ocean space scienc,ocean radar geographi,ocean climat space radar
+355,9,ocean scientist space,ocean scientist climat,satellit data space,satellit ocean radar,satellit ocean climat,satellit ocean scienc geographi
+355,10,satellit ocean sea,satellit ocean ic,ocean earth ic,ocean space scienc geographi,ocean space scienc,climat space radar
+399,1,deep vessel oceanograph,submarin vessel oceanograph,deep vessel oceanograph,deep vessel oceanograph,submarin vessel oceanograph,deep vessel oceanograph
+399,2,sea vessel oceanograph,deep vessel oceanograph,ship ocean sea,sea vessel oceanograph,deep vessel oceanograph,ship ocean sea
+399,3,ocean vessel oceanograph,sea vessel oceanograph,submarin deep vessel oceanograph,ocean vessel oceanograph,sea vessel oceanograph,submarin deep vessel oceanograph
+399,4,ship vessel oceanograph,ocean vessel oceanograph,ship ocean sea vessel,ship vessel oceanograph,ocean vessel oceanograph,ship ocean sea vessel
+399,5,sea deep vessel oceanograph,ship vessel oceanograph,submarin deep oceanograph,sea deep vessel oceanograph,ship vessel oceanograph,submarin deep oceanograph
+399,6,ship ocean vessel oceanograph,scientist vessel oceanograph,ocean sea vessel,ship ocean vessel oceanograph,scientist vessel oceanograph,ocean sea vessel
+399,7,submarin vessel oceanograph,submarin deep vessel oceanograph,ship deep oceanograph,submarin vessel oceanograph,submarin deep vessel oceanograph,ship deep oceanograph
+399,8,ocean deep vessel oceanograph,water vessel oceanograph,ocean sea vessel oceanograph,ocean deep vessel oceanograph,water vessel oceanograph,ocean sea vessel oceanograph
+399,9,ship sea vessel oceanograph,sea submarin vessel oceanograph,ship deep vessel,ship sea vessel oceanograph,sea submarin vessel oceanograph,ship deep vessel
+399,10,scientist vessel oceanograph,vessel oceanograph dr,ocean sea oceanograph,scientist vessel oceanograph,vessel oceanograph dr,ocean sea oceanograph
+356,1,estrogen women therapi,estrogen androgen menopaus,estrogen women therapi,estrogen postmenopaus replac,estrogen androgen postmenopaus,estrogen postmenopaus replac
+356,2,hormon estrogen androgen,estrogen menopaus testosteron,hormon estrogen androgen,estrogen therapi postmenopaus,estrogen menopaus postmenopaus,women therapi postmenopaus
+356,3,estrogen menopaus therapi,estrogen breast androgen,women menopaus therapi,estrogen women postmenopaus,androgen menopaus postmenopaus,hormon estrogen postmenopaus
+356,4,hormon estrogen women,estrogen menopaus testosteron therapi,hormon estrogen menopaus,hormon estrogen postmenopaus,estrogen breast postmenopaus,therapi postmenopaus replac
+356,5,estrogen androgen therapi,estrogen breast androgen menopaus,women androgen therapi,estrogen androgen postmenopaus,estrogen androgen menopaus postmenopaus,estrogen women postmenopaus
+356,6,estrogen women menopaus,estrogen women menopaus testosteron,hormon estrogen testosteron,estrogen menopaus postmenopaus,estrogen postmenopaus replac,hormon postmenopaus replac
+356,7,hormon estrogen therapi,estrogen androgen therapi,breast women therapi,estrogen breast postmenopaus,breast androgen postmenopaus,estrogen therapi postmenopaus
+356,8,estrogen women androgen,estrogen breast menopaus testosteron,hormon estrogen cancer,estrogen therapi postmenopaus replac,estrogen therapi postmenopaus,women postmenopaus replac
+356,9,estrogen testosteron therapi,estrogen women androgen,women testosteron therapi,estrogen cancer postmenopaus,androgen postmenopaus replac,hormon estrogen therapi postmenopaus
+356,10,hormon estrogen women androgen,estrogen breast menopaus,hormon estrogen breast,estrogen women postmenopaus replac,estrogen women postmenopaus,women androgen postmenopaus replac
+433,1,greek philosoph philosophi,greek philosophi epictetu,greek philosoph philosophi,greek philosophi stoicism,greek philosophi stoicism,greek philosophi stoicism
+433,2,greek stoic philosophi,greek stockdal philosophi,stockdal stoic epictetu,greek philosophi stoicism all,stockdal philosophi stoicism,stoic philosoph all
+433,3,greek philosophi epictetu,mee philosophi epictetu,greek philosoph mee philosophi,greek philosoph philosophi stoicism,greek philosophi stoicism all,greek stockdal philosophi stoicism
+433,4,greek stockdal philosophi,greek stockdal philosoph philosophi,greek stoic epictetu,greek stoic philosophi stoicism,greek stockdal stoicism,greek stoic philosoph all
+433,5,greek stoic philosoph philosophi,greek mee epictetu,stockdal philosoph philosophi,philosophi stoicism all,greek philosoph philosophi stoicism,stockdal philosophi stoicism
+433,6,greek mee philosophi,greek stockdal stoic philosophi,greek stoic mee,greek philosoph stoicism,greek stockdal philosophi,greek philosoph all
+433,7,greek novel philosophi,greek mee philosophi epictetu,philosoph philosophi epictetu,stoic philosophi stoicism,greek stoic philosophi stoicism,stoic philosophi stoicism
+433,8,greek univers philosophi,greek novel stockdal philosophi,greek stockdal stoic,greek stoicism all,greek stockdal philosophi stoicism,greek stockdal philosoph all
+433,9,greek life philosophi,greek mee philosophi,philosoph mee philosophi,philosoph philosophi stoicism,greek novel philosophi stoicism,greek stoic philosophi stoicism
+433,10,greek philosoph philosophi epictetu,stockdal philosophi epictetu,greek stoic philosophi,greek stoic stoicism,greek stockdal philosophi stoicism all,stockdal philosoph all
+435,1,popul contracept steril,popul contracept steril,popul contracept steril,popul growth been,popul contracept growth,popul growth been
+435,2,popul birth china,popul birth china,popul birth china,popul growth reduc,popul birth growth,have countri reduc
+435,3,popul contracept child,popul contracept steril child,popul contracept steril child,popul countri growth,popul growth been,popul contracept growth been
+435,4,popul birth steril,popul birth women,popul birth women,popul have growth,popul growth reduc,popul have countri reduc
+435,5,popul contracept china,popul contracept china,popul contracept china steril,popul growth reduc been,popul countri growth,contracept growth been
+435,6,popul steril child,popul birth steril,popul birth child,popul have countri growth,popul have growth,popul countri reduc
+435,7,popul birth contracept,popul contracept child,popul contracept china,popul contracept growth,popul birth contracept growth,have growth been
+435,8,popul china steril,popul china steril,popul birth steril,popul countri growth been,popul famili growth,popul countri growth reduc
+435,9,popul contracept women,popul birth contracept,popul contracept child,popul have growth reduc,popul contracept growth been,popul have been
+435,10,popul children steril,popul steril child,popul china steril,popul birth growth,popul plan growth,countri growth reduc
+677,1,tower pisa lean,lean jamiolkowski granchi,tower pisa lean,tower pisa lean,lean jamiolkowski granchi,tower pisa lean
+677,2,tower pisa lean granchi,tower pisa toniolo,jamiolkowski granchi toniolo,tower pisa lean been,tower pisa pisan,stabil measur been
+677,3,tower pisa lean jamiolkowski,lean jamiolkowski pisan granchi,tower pisa lean pisan,tower pisa lean measur,pisa lean jamiolkowski granchi,tower pisa lean granchi
+677,4,tower pisa lean toniolo,tower pisa toniolo ingot,tower jamiolkowski granchi toniolo,tower pisa lean stabil,tower lean pisan,jamiolkowski stabil measur been
+677,5,tower pisa lean pisan,jamiolkowski pisan granchi,pisa lean pisan,pisa lean been,pisa jamiolkowski granchi,tower pisa lean pisan
+677,6,tower pisa lean ingot,tower pisa lean,tower jamiolkowski granchi,tower lean measur,tower pisa lean,granchi stabil measur been
+677,7,tower pisa lean tilt,jamiolkowski granchi toniolo,pisa lean toniolo,pisa lean stabil,jamiolkowski pisan granchi,tower pisa lean jamiolkowski
+677,8,tower pisa lean reopen,tower pisa lean pisan,tower pisan granchi,tower lean been,tower pisa lean tilt,pisan stabil measur been
+677,9,pisa lean granchi,jamiolkowski granchi ingot,pisa lean jamiolkowski,pisa lean measur,lean jamiolkowski pisan granchi,tower pisa lean tilt
+677,10,tower lean jamiolkowski,pisa lean toniolo,tower granchi toniolo,tower lean stabil,tower pisa tilt,tower stabil measur been
+436,1,accid railroad amtrak,accid derail amtrak,accid railroad amtrak,accid locomot caus,accid derail amtrak,accid locomot caus
+436,2,accid derail passeng,accid railroad passeng,accid derail passeng,accid safeti caus,accid locomot caus,railroad rail safeti caus
+436,3,accid railroad crash,accid crash amtrak,accid railroad crash,accid rail caus,accid amtrak caus,accid amtrak locomot caus
+436,4,accid derail amtrak,accid derail passeng,accid derail amtrak,accid safeti locomot,accid derail caus,rail safeti caus
+436,5,accid railroad passeng,accid railroad amtrak,accid railroad passeng,accid railroad caus,accid amtrak locomot,accid railroad caus
+436,6,accid crash amtrak,accid derail crash,accid crash amtrak,accid rail locomot,accid derail safeti,rail safeti locomot caus
+436,7,accid railroad derail,accid amtrak passeng,accid railroad derail,accid railroad safeti,accid amtrak rail,accid railroad amtrak caus
+436,8,accid amtrak passeng,accid railroad derail,accid amtrak passeng,accid rail locomot caus,accid derail locomot,safeti locomot caus
+436,9,accid railroad track,accid amtrak track,accid railroad track,accid railroad safeti caus,accid amtrak safeti,accid rail caus
+436,10,accid derail crash,accid derail car,accid derail amtrak passeng,accid amtrak caus,accid derail rail,railroad safeti locomot caus
+439,1,patent transistor molecul,laser transistor molecul,patent transistor molecul,invent discoveri scientif,invent discoveri scientif,invent discoveri scientif
+439,2,laser optic silicon,chip optic silicon,laser optic silicon,invent discoveri scientif have,laser invent discoveri scientif,patent made have
+439,3,patent chip transistor,patent transistor molecul,patent chip transistor,invent discoveri scientif made,chip invent discoveri scientif,laser invent discoveri scientif
+439,4,laser molecul optic,laser optic silicon,laser molecul optic,patent invent discoveri scientif,laser discoveri scientif,patent invent made have
+439,5,patent transistor silicon,chip transistor molecul,patent transistor silicon,discoveri scientif have,invent discoveri scientif have,laser discoveri scientif
+439,6,laser chip molecul optic,patent laser optic silicon,laser chip molecul optic,invent scientif made,laser invent scientif,invent made have
+439,7,patent devic transistor,devic transistor molecul,patent devic transistor,patent discoveri scientif,invent discoveri scientif made,patent discoveri scientif
+439,8,laser molecul silicon,laser chip optic silicon,laser molecul silicon,invent scientif have,laser invent discoveri,invent discoveri made have
+439,9,patent transistor optic,dr transistor molecul,patent transistor optic,discoveri scientif made,patent invent discoveri scientif,patent invent scientif
+439,10,laser chip molecul silicon,laser devic optic silicon,laser chip molecul silicon,invent discoveri have,dr invent discoveri scientif,discoveri made have
+362,1,smuggl smuggler mexican,smuggl smuggler mexican,smuggl smuggler mexican,smuggl human be,smuggl human be,smuggl human be
+362,2,immigr smuggl chines,immigr smuggl chines,immigr smuggl chines,smuggl human have,smuggl human have,smuggler peopl have be
+362,3,smuggl smuggler chines,smuggl chines mexican,smuggl smuggler chines,smuggl peopl human,smuggl peopl human,smuggl chines human be
+362,4,smuggl chines mexican,smuggl smuggler chines,smuggl chines mexican,smuggl smuggler human,smuggl smuggler human,peopl have be
+362,5,immigr smuggl smuggler,immigr smuggl mexican,immigr smuggl smuggler,smuggl human have be,smuggl chines human,smuggl smuggler human
+362,6,smuggl mexican ship,smuggl smuggler ship,smuggl mexican ship,smuggl peopl human be,immigr smuggl human,smuggl peopl have be
+362,7,smuggl smuggler illeg,smuggl illeg mexican,smuggl smuggler illeg,smuggl smuggler human be,smuggl illeg human,smuggler human be
+362,8,immigr smuggl mexican,immigr smuggl smuggler,immigr smuggl mexican,smuggl peopl human have,smuggl border human,smuggl have be
+362,9,smuggl smuggler ship,smuggl mexican ship,smuggl smuggler ship,smuggl chines human,smuggl human have be,peopl human be
+362,10,smuggl illeg mexican,smuggl smuggler illeg,smuggl illeg mexican,smuggl smuggler human have,smuggl peopl human be,smuggl smuggler be
+363,1,tunnel fire were,tunnel subwai passeng,tunnel fire were,tunnel caus explos,tunnel subwai passeng,tunnel caus explos
+363,2,tunnel train subwai,tunnel fire were,tunnel train subwai,tunnel were explos,tunnel caus explos,train fire were caus explos
+363,3,tunnel passeng were,tunnel train subwai,fire passeng were,tunnel fire explos,tunnel subwai explos,tunnel subwai caus explos
+363,4,tunnel train fire,tunnel passeng were,tunnel train transit,tunnel were caus,tunnel passeng explos,fire were caus explos
+363,5,tunnel subwai were,tunnel subwai fire,subwai fire were,tunnel fire caus,tunnel subwai caus,tunnel train explos
+363,6,tunnel fire passeng,tunnel train passeng,tunnel train passeng,tunnel train explos,tunnel passeng caus,were caus explos
+363,7,tunnel train were,tunnel subwai were,fire transit were,tunnel fire were,tunnel subwai were,tunnel fire explos
+363,8,tunnel subwai fire,tunnel fire passeng,tunnel train station,tunnel train caus,tunnel fire passeng,train were caus explos
+363,9,tunnel train passeng,tunnel train were,fire car were,tunnel were caus explos,tunnel train subwai,tunnel fire caus
+363,10,tunnel transit were,tunnel subwai transit,tunnel train said,tunnel train fire,tunnel passeng were,train caus explos
+321,1,women polit parliament,women polit parliament,women polit parliament,women parliament issu,women parliament issu,women parliament issu
+321,2,women candid parliament,women candid parliament,women candid parliament,women parliament legislatur,women parliament legislatur,polit femal legislatur
+321,3,women vote parliament,women vote parliament,women polit vote,women parliament femal,women parliament femal,women candid parliament issu
+321,4,women woman parliament,women woman parliament,women woman parliament,women polit parliament,women polit parliament,women polit femal legislatur
+321,5,women elect parliament,women elect parliament,women polit candid,women parliament legislatur issu,women candid parliament,candid parliament issu
+321,6,women democrat parliament,women democrat parliament,women vote parliament,women polit parliament femal,women elect parliament,women femal legislatur
+321,7,women ms parliament,women ms parliament,women polit woman,women candid parliament,women democrat parliament,polit parliament issu
+321,8,women she parliament,women she parliament,women elect parliament,women parliament femal issu,women parliament legislatur issu,women parliament femal legislatur
+321,9,women polit candid parliament,women polit candid parliament,women polit democrat,women polit parliament legislatur,women polit parliament femal,women polit issu
+321,10,women woman vote parliament,women woman vote parliament,women ms parliament,women elect parliament,women she parliament,parliament femal legislatur
+442,1,firefight heroism sergeant,firefight heroism sergeant,firefight heroism sergeant,heroic act small,firefight heroic act,heroic act small
+442,2,medal rescu hero,medal rescu hero,medal rescu hero,heroic act caus,medal heroic act,other selfless caus
+442,3,honor heroism sergeant,honor heroism sergeant,firefight honor heroism sergeant,heroic act selfless,heroic act small,heroic act caus
+442,4,medal firefight rescu,medal firefight rescu,medal fire rescu hero,heroic other act,heroic act caus,other selfless caus small
+442,5,hero heroism sergeant,hero heroism sergeant,honor heroism sergeant,heroic act caus small,heroic act selfless,firefight heroic act caus
+442,6,medal firefight honor,medal firefight honor,medal firefight rescu,heroic act selfless caus,heroic other act,selfless caus small
+442,7,rescu heroism sergeant,rescu heroism sergeant,hero heroism sergeant,heroic other act small,medal firefight heroic act,heroic other act
+442,8,medal firefight hero,medal firefight hero,medal firefight honor,firefight heroic act,fire heroic act,heroic selfless caus small
+442,9,fire heroism sergeant,fire heroism sergeant,rescu heroism sergeant,heroic act selfless small,firefight heroic act small,other act caus
+442,10,medal firefight rescu hero,medal firefight rescu hero,medal firefight hero,heroic other act caus,medal heroic act caus,heroic caus small
+443,1,africa aid invest,africa saharan invest,africa aid invest,africa invest intern,africa saharan invest,africa invest intern
+443,2,africa saharan invest,africa nigeria invest,africa saharan invest,africa invest govern,africa invest intern,aid sub govern
+443,3,africa nigeria invest,africa aid saharan invest,africa aid nigeria,africa invest sub,africa saharan invest govern,africa saharan invest intern
+443,4,africa african invest,africa african invest,africa african invest,africa aid invest,africa invest sub,africa aid sub govern
+443,5,africa debt invest,africa saharan nigeria invest,africa aid saharan,africa invest govern intern,africa saharan invest intern,saharan invest intern
+443,6,africa south invest,africa aid invest,africa nigeria invest,africa aid invest sub,africa invest govern,africa sub govern
+443,7,africa countri invest,saharan nigeria invest,aid saharan invest,africa saharan invest,africa saharan invest sub,aid invest intern
+443,8,africa world invest,africa debt invest,africa debt invest,africa invest sub intern,africa aid invest,africa invest sub govern
+443,9,africa aid saharan invest,africa saharan nigeria,aid nigeria invest,africa aid invest govern,africa african saharan invest,africa aid intern
+443,10,africa african nigeria invest,africa south invest,africa african saharan,africa african invest,africa south invest,invest sub govern
+367,1,vessel boat piraci,piraci klinghoff blyth,vessel boat piraci,piraci water board,piraci klinghoff blyth,piraci water board
+367,2,ship piraci klinghoff,pirat piraci hijack,ship piraci klinghoff,vessel boat piraci,pirat piraci board,ship vessel boat
+367,3,boat piraci blyth,boat piraci klinghoff blyth,vessel boat blyth,ship piraci board,piraci klinghoff blyth water,piraci klinghoff water board
+367,4,ship vessel piraci,vessel piraci hijack,ship piraci hijack,boat piraci water,pirat boat piraci,ship vessel boat piraci
+367,5,boat piraci klinghoff,pirat piraci klinghoff,vessel boat klinghoff,vessel piraci board,piraci klinghoff blyth board,klinghoff water board
+367,6,vessel piraci blyth,piraci blyth hijack,ship piraci blyth,ship piraci water,pirat piraci water,vessel boat piraci
+367,7,ship boat piraci,boat piraci klinghoff,vessel boat hijack,boat piraci board,boat piraci klinghoff blyth,ship water board
+367,8,vessel piraci klinghoff,pirat piraci blyth,pirat ship piraci,vessel piraci water,pirat vessel piraci,vessel boat piraci klinghoff
+367,9,ship piraci blyth,piraci klinghoff hijack,vessel boat sea,ship boat piraci,ship piraci klinghoff blyth,ship piraci water board
+367,10,vessel boat piraci klinghoff,boat piraci blyth,ship piraci attack,vessel piraci water board,piraci water board,vessel boat klinghoff
+400,1,amazon forest rain,amazon forest rain,amazon forest rain,amazon forest rain,amazon forest rain,amazon forest rain
+400,2,amazon forest rain collor,forest rain collor,amazon forest rain tapper collor,amazon forest rain institut,amazon forest rain deforest,tropic preserv institut
+400,3,amazon forest rain tapper,amazon rain tapper,amazon forest rain deforest,amazon forest rain preserv,amazon forest rain brazilian,amazon forest rain deforest
+400,4,amazon forest rain deforest,amazon forest collor,amazon forest tapper collor,amazon forest rain tropic,forest rain deforest,amazon tropic preserv institut
+400,5,amazon forest rain mend,forest rain tapper,amazon rain deforest,forest rain institut,amazon rain brazilian,forest rain deforest
+400,6,amazon forest rain brazilian,amazon rain collor,amazon forest collor,amazon rain preserv,amazon forest deforest,amazon preserv institut
+400,7,amazon forest brazil rain,amazon forest tapper,amazon rain tapper,forest rain tropic,forest rain brazilian,forest rain tropic
+400,8,amazon forest rain environment,amazon forest rain collor,forest rain collor,amazon rain institut,amazon rain deforest,amazon forest preserv institut
+400,9,forest rain collor,amazon forest rain tapper,amazon forest tapper,forest rain preserv,amazon forest brazilian,amazon rain tropic
+400,10,amazon rain tapper,amazon forest rain deforest collor,amazon rain collor,amazon rain tropic,forest brazil rain,forest preserv institut
+445,1,church women canterburi,anglican women canterburi,church women canterburi,women clergi approv,anglican women clergi,women clergi approv
+445,2,anglican women ordain,archbishop women ordain,anglican women ordain,women clergi member,women ordain clergi,church woman member
+445,3,church archbishop women,women ordin canterburi,church archbishop women,women clergi woman,archbishop women clergi,anglican women clergi approv
+445,4,anglican women canterburi,anglican women ordain,anglican women canterburi,church women clergi,anglican women ordain clergi,church women woman member
+445,5,church women ordain,archbishop women canterburi,church women ordain,women clergi member approv,bishop women clergi,anglican clergi approv
+445,6,archbishop women canterburi,anglican women ordin,anglican archbishop women canterburi,church women clergi woman,anglican archbishop women clergi,women woman member
+445,7,church anglican women,women ordain canterburi,church women ordin,anglican women clergi,bishop women ordain clergi,church clergi approv
+445,8,women ordain canterburi,anglican archbishop women,anglican women ordain canterburi,women clergi woman approv,anglican archbishop clergi,women clergi woman member
+445,9,church women ordin,women ordain ordin canterburi,church bishop women,church women clergi member,women clergi approv,church women approv
+445,10,anglican archbishop women,anglican bishop women,anglican women ordin canterburi,women ordain clergi,archbishop women ordain clergi,clergi woman member
+325,1,cult asahara member,cult asahara shinrikyo,cult asahara member,cult describ about,cult aum asahara,cult describ about
+325,2,cult aum shinrikyo,cult aum koresh,aum koresh shinrikyo,cult other organ,cult sect koresh,member other organ
+325,3,cult koresh member,asahara shinrikyo davidian,cult member davidian,cult member about,cult aum asahara about,cult asahara describ about
+325,4,cult asahara shinrikyo,cult sect aum,aum asahara shinrikyo,cult organ describ,cult koresh describ,aum member other organ
+325,5,cult aum member,koresh asahara shinrikyo,cult koresh member,cult other about,cult sect aum asahara,cult koresh describ about
+325,6,cult koresh asahara,cult aum davidian,cult aum asahara shinrikyo,cult member describ,cult koresh about,asahara member other organ
+325,7,cult member shinrikyo,cult koresh asahara shinrikyo,koresh member davidian,cult organ about,sect aum asahara,cult aum describ about
+325,8,cult aum asahara,cult sect aum davidian,cult asahara shinrikyo,cult other describ,cult koresh organ,koresh member other organ
+325,9,cult member davidian,cult koresh asahara,aum koresh member,cult member organ,cult sect asahara,cult sect describ about
+325,10,cult koresh shinrikyo,cult aum shinrikyo,cult asahara davidian,cult other describ about,cult aum koresh,cult member other organ
+404,1,sinn ireland peac,sinn ireland peac,sinn ireland peac,ireland peac talk,ireland peac talk,ireland peac talk
+404,2,fein ireland peac,fein ireland peac,fein ireland peac,ireland peac talk process,sinn ireland peac talk,violenc were process
+404,3,i.r.a ireland peac,i.r.a ireland peac,i.r.a sinn ireland peac,ireland peac talk were,fein ireland peac talk,sinn ireland peac talk
+404,4,ireland irish peac,sinn fein ireland peac,fein ireland irish peac,ireland peac talk violenc,sinn peac talk,ireland violenc were process
+404,5,ireland peac cathol,ireland irish peac,i.r.a ireland peac,peac talk process,fein ireland talk,sinn peac talk
+404,6,ireland northern peac,i.r.a sinn ireland peac,sinn fein ireland peac,ireland talk were,sinn ireland peac,ireland were process
+404,7,ireland protest peac,fein ireland irish peac,i.r.a ireland irish peac,peac talk violenc,fein peac talk,peac talk violenc
+404,8,ireland british peac,i.r.a sinn peac,sinn fein ireland,ireland talk process,sinn ireland talk,ireland peac were process
+404,9,sinn fein ireland peac,ireland peac cathol,ireland irish peac,peac talk were,fein ireland peac,ireland talk violenc
+404,10,i.r.a ireland irish peac,i.r.a fein ireland peac,i.r.a sinn fein ireland peac,ireland talk violenc,i.r.a peac talk,peac were process
+646,1,stamp food elig,stamp food welfar,stamp food elig,stamp food elig,stamp food welfar,stamp food elig
+646,2,stamp food recipi,stamp food elig,benefit immigr recipi,stamp food recipi,stamp food elig,benefit immigr recipi
+646,3,stamp food immigr,stamp food recipi,stamp food welfar elig,stamp food immigr,stamp food recipi,stamp food welfar elig
+646,4,stamp food benefit,stamp food immigr,stamp benefit immigr recipi,stamp food benefit,stamp food immigr,stamp benefit immigr recipi
+646,5,stamp food recipi elig,stamp food benefit,food welfar elig,stamp food recipi elig,stamp food benefit,food welfar elig
+646,6,stamp food benefit immigr,stamp food feder,stamp immigr recipi,stamp food benefit immigr,stamp food feder,stamp immigr recipi
+646,7,stamp food welfar,stamp food program,food benefit elig,stamp food welfar,stamp food program,food benefit elig
+646,8,stamp food immigr elig,stamp food welfar elig,stamp food immigr recipi,stamp food immigr elig,stamp food welfar elig,stamp food immigr recipi
+646,9,stamp food benefit recipi,stamp food immigr recipi,stamp benefit elig,stamp food benefit recipi,stamp food immigr recipi,stamp benefit elig
+646,10,stamp food feder,stamp food welfar benefit,food immigr recipi,stamp food feder,stamp food welfar benefit,food immigr recipi
+408,1,hurrican storm damag,storm damag flood,hurrican storm damag,storm typhoon tropic,storm flood tropic,storm typhoon tropic
+408,2,storm flood coast,hurrican storm coast,storm flood coast,storm area tropic,storm typhoon tropic,hurrican damag area
+408,3,storm damag wind,storm flood wind,hurrican damag wind,storm damag tropic,storm area tropic,storm flood typhoon tropic
+408,4,hurrican storm flood,hurrican storm damag,storm flood island,hurrican storm tropic,storm damag tropic,hurrican storm damag area
+408,5,storm damag coast,storm flood coast,hurrican damag coast,storm area typhoon tropic,hurrican storm tropic,flood typhoon tropic
+408,6,hurrican storm wind,storm damag wind,storm flood wind,hurrican storm damag tropic,storm wind tropic,storm damag area
+408,7,storm damag flood,hurrican storm flood,hurrican damag island,storm flood tropic,storm island tropic,hurrican typhoon tropic
+408,8,hurrican storm coast,storm damag coast,storm wind coast,storm damag typhoon tropic,storm flood typhoon tropic,storm damag area tropic
+408,9,storm damag island,hurrican storm wind,hurrican damag flood,hurrican storm area tropic,storm damag area tropic,hurrican storm typhoon
+408,10,hurrican storm peopl,storm flood island,storm island coast,storm wind tropic,hurrican storm flood tropic,damag area tropic
+690,1,colleg educ incom,colleg educ economist,colleg educ incom,colleg educ increas,colleg educ economist,colleg educ increas
+690,2,colleg educ graduat,colleg educ incom,colleg job graduat,colleg educ incom,colleg educ increas,job graduat incom increas
+690,3,colleg job educ,colleg educ graduat,educ economist incom,colleg educ graduat,colleg educ incom,colleg educ economist increas
+690,4,colleg educ graduat incom,colleg job educ,colleg job educ graduat,colleg job educ,colleg educ graduat,graduat incom increas
+690,5,colleg educ economist,colleg wage educ,colleg economist incom,colleg educ incom increas,colleg job educ,colleg job educ
+690,6,colleg job educ incom,colleg educ employ,job educ graduat,colleg educ graduat increas,colleg wage educ,colleg graduat incom increas
+690,7,colleg wage educ,colleg worker educ,colleg wage incom,colleg job educ increas,colleg worker educ,job educ increas
+690,8,colleg job educ graduat,colleg educ percent,job educ graduat economist,colleg educ graduat incom,colleg educ percent,colleg incom increas
+690,9,colleg educ employ,colleg educ economist incom,colleg employ incom,colleg educ economist,colleg educ economist increas,educ graduat increas
+690,10,colleg worker educ,colleg job educ graduat,job wage educ graduat,colleg job educ incom,colleg educ incom increas,colleg job increas
+372,1,casino gambl tribal,casino pequot foxwood,casino gambl tribal,casino local nativ,casino pequot nativ,casino local nativ
+372,2,casino pequot foxwood,casino tribe mohawk,casino pequot foxwood,casino legal nativ,casino tribe nativ,gambl tribal legal
+372,3,casino tribal mohawk,casino tribal pequot foxwood,gambl tribal mohawk,casino tribal nativ,casino pequot local nativ,casino pequot local nativ
+372,4,casino gambl foxwood,casino gambl mohawk,casino tribe foxwood,casino gambl nativ,casino legal nativ,casino gambl tribal legal
+372,5,casino tribal pequot,casino tribe pequot foxwood,gambl tribal pequot,casino legal local nativ,casino tribe pequot nativ,pequot local nativ
+372,6,casino gambl mohawk,casino tribal mohawk,casino mohawk foxwood,casino gambl tribal nativ,casino local nativ,casino tribal legal
+372,7,casino tribal foxwood,casino tribe foxwood,tribe gambl tribal,casino pequot nativ,tribe pequot nativ,gambl local nativ
+372,8,casino gambl pequot,casino pequot mohawk,casino pequot mohawk,casino tribal local nativ,casino tribal nativ,casino tribal legal nativ
+372,9,casino tribe tribal,casino tribal foxwood,gambl tribal foxwood,casino gambl legal nativ,casino pequot legal nativ,casino gambl local
+372,10,casino indian gambl,casino tribe pequot,casino tribe pequot,casino tribe nativ,casino gambl nativ,tribal legal nativ
+330,1,iran iraq teheran,iran teheran shiit,iran iraq teheran,iran between militari,iran iranian teheran,iran between militari
+330,2,iran iranian shiit,iran iranian baghdad,iran iranian shiit,iran countri border,iran iraqi militari,iraq countri border
+330,3,iran iraq baghdad,iran teheran ceas,iran iraq baghdad,iran iraq militari,iran teheran between,iran teheran between militari
+330,4,iran teheran shiit,iran iranian shiit,iran teheran shiit,iran border between,iran iranian iraqi,iran iraq countri border
+330,5,iran iraq iranian,iran teheran baghdad,iran iraq iranian,iran countri militari,iran teheran militari,teheran between militari
+330,6,iran teheran baghdad,iran ceas shiit,iran teheran baghdad,iran iraq between,iran iranian between,iran countri border
+330,7,iran iraq shiit,iran iranian teheran,iran iraq shiit,iran border militari,iran iraqi teheran,iraq between militari
+330,8,iran iranian teheran,iran baghdad shiit,iran iranian teheran,iran countri between,iran iranian militari,iran teheran countri border
+330,9,iran iraq ceas,iran iraqi teheran,iran iraq ceas,iran iraq border,iran teheran border,iran iraq between militari
+330,10,iran teheran ceas,iran iranian ceas,iran iranian teheran shiit,iran countri between militari,iran iranian countri,teheran countri border
+375,1,hydrogen energi power,hydrogen energi hybrid,hydrogen energi power,hydrogen energi engin,hydrogen cell energi,hydrogen energi engin
+375,2,hydrogen fusion energi,hydrogen cell energi,hydrogen fuel fusion,hydrogen energi power,hydrogen energi engin,fuel fusion power
+375,3,hydrogen fuel energi,hydrogen energi power,energi power hybrid,hydrogen fusion energi,hydrogen energi power,hydrogen cell energi engin
+375,4,hydrogen fusion energi power,hydrogen fusion energi,hydrogen fuel fusion energi,hydrogen fuel energi,hydrogen fusion energi,hydrogen fuel fusion power
+375,5,hydrogen energi hybrid,hydrogen fuel energi,hydrogen power hybrid,hydrogen energi power engin,hydrogen fuel energi,cell energi engin
+375,6,hydrogen fuel energi power,hydrogen energi vehicl,fuel fusion energi,hydrogen fuel fusion energi,hydrogen energi vehicl,hydrogen fusion power
+375,7,hydrogen cell energi,hydrogen energi electr,hydrogen cell power,hydrogen cell energi,hydrogen energi electr,fuel energi engin
+375,8,hydrogen fuel fusion energi,hydrogen cell energi hybrid,fuel fusion energi hybrid,hydrogen fusion energi engin,hydrogen energi car,hydrogen fusion energi power
+375,9,hydrogen energi vehicl,hydrogen energi car,hydrogen vehicl power,hydrogen fuel energi power,hydrogen cell energi engin,hydrogen fuel engin
+375,10,hydrogen energi electr,hydrogen energi power hybrid,fuel fusion cell energi,hydrogen energi vehicl,hydrogen fusion energi power,fusion energi power
+378,1,euro european currenc,euro monetari blair,euro european currenc,euro it opposit,euro monetari opposit,euro it opposit
+378,2,euro monetari blair,euro currenc treati,euro monetari blair,euro countri opposit,euro treati opposit,european currenc countri it
+378,3,euro currenc treati,euro european blair,european currenc treati,euro currenc opposit,euro it opposit,euro monetari it opposit
+378,4,euro european blair,euro monetari treati,euro britain blair,euro european opposit,euro countri opposit,currenc countri it
+378,5,euro currenc monetari,euro currenc blair,european currenc monetari,euro countri it opposit,euro currenc opposit,euro european opposit
+378,6,euro european treati,euro european monetari,euro treati blair,euro currenc it opposit,euro european opposit,euro currenc countri it
+378,7,euro currenc blair,euro treati blair,european currenc britain,euro european it opposit,euro britain opposit,european it opposit
+378,8,euro european monetari,euro currenc monetari,euro monetari treati,euro currenc countri opposit,euro europ opposit,euro countri it
+378,9,euro currenc britain,euro britain blair,european currenc blair,euro monetari opposit,euro monetari treati opposit,currenc it opposit
+378,10,euro european germani,euro european treati,euro britain monetari,euro european countri opposit,euro countri it opposit,euro european it
+379,1,school children teacher,disabl classroom teacher,school children teacher,mainstream child impair,disabl mainstream impair,mainstream child impair
+379,2,disabl classroom district,school children district,disabl classroom district,children teacher mainstream,teacher mainstream child,school children teacher
+379,3,school children teacher class,disabl classroom teacher class,school children teacher class,school mainstream impair,disabl children mainstream,disabl mainstream child impair
+379,4,student disabl classroom,student school children,student disabl classroom,teacher mainstream child,mainstream child impair,school children teacher mainstream
+379,5,school children teacher district,disabl classroom teacher district,school children teacher district,children mainstream impair,disabl teacher mainstream,disabl child impair
+379,6,disabl classroom class,school children class,disabl classroom class,school mainstream child,children mainstream impair,children teacher mainstream
+379,7,student school children teacher,disabl classroom district,student school children teacher,teacher mainstream impair,disabl mainstream child,school child impair
+379,8,educ disabl classroom,school children teacher,educ disabl classroom,children mainstream child,teacher mainstream impair,disabl children teacher mainstream
+379,9,special school children teacher,disabl classroom class,special school children teacher,school teacher mainstream,school disabl mainstream,school mainstream child impair
+379,10,disabl classroom class district,school children teacher district,disabl classroom class district,children mainstream child impair,children mainstream child,disabl children teacher
+336,1,bear black human,bear grizzli black,bear black human,bear black attack,bear black attack,bear black attack
+336,2,bear wildlif black,bear hunt black,bear wildlif black,bear black food attack,grizzli black attack,wildlif human food
+336,3,bear grizzli black,bear grizzli black human,bear grizzli human,bear black human attack,bear hunt black attack,bear grizzli black attack
+336,4,bear wildlif black human,bear wildlif black,hunt wildlif black,bear wildlif black attack,bear grizzli black attack,bear wildlif human food
+336,5,bear hunt black,bear hunt grizzli black,bear anim human,black food attack,bear black food attack,grizzli black attack
+336,6,bear black anim,bear black human,wildlif grizzli black,bear human attack,bear grizzli attack,bear human food
+336,7,bear black popul,bear wildlif grizzli black,bear hunt human,wildlif black attack,hunt black attack,wildlif black attack
+336,8,bear black kill,bear black anim,wildlif black anim,bear food attack,bear grizzli black,bear black human food
+336,9,bear black state,bear grizzli black popul,bear popul human,black human attack,black food attack,bear wildlif attack
+336,10,wildlif black human,bear black kill,wildlif black kill,bear wildlif attack,bear black human attack,black human food
+414,1,cuba sugar cargil,cuba sugar cargil,cuba sugar cargil,cuba sugar export,cuba sugar export,cuba sugar export
+414,2,cuba castro sugar,cuba castro sugar,cuba castro sugar,cuba sugar export import,cuba castro sugar export,trade countri import
+414,3,cuba sugar fidel,cuba sugar cargil fidel,cuba sugar cargil fidel,cuba sugar countri export,cuba sugar gorbachev export,cuba castro sugar export
+414,4,cuba sugar gorbachev,cuba sugar gorbachev,cuba sugar gorbachev,cuba sugar trade export,cuba cuban sugar export,cuba trade countri import
+414,5,cuba cuban sugar,cuba castro sugar cargil,cuba castro sugar cargil,sugar export import,castro sugar export,castro sugar export
+414,6,cuba soviet sugar,cuba sugar fidel,cuba sugar fidel,cuba countri export,cuba gorbachev export,cuba countri import
+414,7,cuba sugar union,cuba sugar gorbachev cargil,cuba sugar gorbachev cargil,sugar trade export,cuba castro sugar,sugar trade export
+414,8,cuba sugar econom,cuba cuban sugar,cuba cuban sugar,cuba export import,sugar gorbachev export,cuba sugar countri import
+414,9,cuba castro sugar cargil,castro sugar cargil,cuba castro cargil,sugar countri export,cuba castro export,cuba trade export
+414,10,cuba sugar gorbachev fidel,cuba soviet sugar,cuba soviet sugar,cuba trade export,cuban sugar export,sugar countri import
+416,1,gorg project chongq,gorg project chongq,gorg project chongq,gorg project three,gorg project three,gorg project three
+416,2,yangtz gorg project,yangtz gorg project,yangtz gorg project,gorg project three cost,yangtz gorg project three,electr it cost
+416,3,dam gorg project,dam gorg project chongq,dam gorg project chongq,gorg project three it,dam gorg project three,gorg project three it
+416,4,gorg project flood,yangtz gorg project flood,yangtz gorg project flood,gorg project three electr,yangtz project three,yangtz electr it cost
+416,5,gorg project chines,dam project chongq,dam gorg chongq,project three cost,dam gorg three,project three it
+416,6,china gorg project,gorg project flood,yangtz project flood,gorg three it,yangtz gorg project,gorg it cost
+416,7,gorg project river,yangtz project chongq,dam gorg project,project three it,dam project three,project three electr
+416,8,gorg project water,dam gorg project,yangtz gorg chongq,gorg three cost,yangtz gorg three,yangtz gorg it cost
+416,9,yangtz gorg project chongq,yangtz gorg chongq,gorg project flood,project three electr,dam gorg project,project three electr it
+416,10,dam gorg project flood,gorg project chines,yangtz project chongq,gorg project cost,gorg project three cost,gorg project it cost
+614,1,tomato food engin,tomato biotechnolog monsanto,tomato food engin,tomato engin product,tomato biotechnolog monsanto,tomato engin product
+614,2,genet tomato calgen,tomato gene crop,genet tomato calgen,tomato calgen food,tomato gene product,genet calgen food
+614,3,tomato monsanto engin,tomato monsanto engin,food monsanto engin,genet tomato product,tomato monsanto engin,tomato monsanto engin product
+614,4,tomato calgen food,tomato biotechnolog crop,genet tomato calgen biotechnolog,tomato food engin,tomato biotechnolog gene,genet tomato calgen food
+614,5,genet tomato engin,tomato gene monsanto,food engin crop,tomato calgen product,tomato monsanto product,monsanto engin product
+614,6,tomato food monsanto,tomato biotechnolog engin,genet tomato calgen monsanto,genet tomato engin,tomato biotechnolog engin,tomato calgen food
+614,7,tomato calgen engin,tomato monsanto crop,biotechnolog food engin,tomato food product,tomato gene monsanto,genet engin product
+614,8,genet tomato food,tomato biotechnolog gene,genet tomato calgen crop,tomato calgen engin,tomato biotechnolog product,tomato calgen food monsanto
+614,9,tomato calgen monsanto,tomato food monsanto,food gene engin,genet tomato food,tomato food monsanto,genet tomato engin product
+614,10,genet tomato food engin,tomato calgen biotechnolog,genet tomato calgen plant,tomato calgen engin product,tomato calgen biotechnolog,calgen food monsanto
+419,1,tire recycl us,tire recycl seneca,tire recycl us,tire recycl reef,tire recycl landfil,tire recycl reef
+419,2,tire recycl burn,tire recycl landfil,tire rubber burn,tire recycl us,tire recycl reef,rubber burn us
+419,3,tire recycl rubber,tire recycl us seneca,recycl us seneca,tire recycl burn,tire recycl us,tire recycl landfil reef
+419,4,tire recycl burn us,tire recycl burn,tire recycl rubber burn,tire recycl rubber,tire recycl burn,tire rubber burn us
+419,5,tire recycl seneca,tire recycl landfil seneca,tire us seneca,tire recycl us reef,tire recycl rubber,recycl landfil reef
+419,6,tire recycl rubber us,tire recycl us,recycl rubber burn,tire recycl rubber burn,tire recycl environment,tire burn us
+419,7,tire recycl landfil,recycl landfil seneca,tire landfil us,tire recycl landfil,tire recycl landfil reef,recycl rubber reef
+419,8,tire recycl rubber burn,tire recycl rubber,recycl rubber burn seneca,tire recycl burn reef,tire recycl plant,tire recycl burn us
+419,9,tire recycl environment,tire landfil seneca,tire environment us,tire recycl rubber us,tire recycl landfil us,tire rubber reef
+419,10,tire recycl plant,tire recycl environment,recycl rubber landfil burn,tire recycl environment,tire recycl materi,recycl burn us
+341,1,airport secur luggag,airport secur aviat,airport secur luggag,airport secur screen,airport secur screen,airport secur screen
+341,2,airport secur passeng,airport secur luggag,airport secur passeng,airport secur flight,airport secur flight,passeng luggag flight
+341,3,airport secur aviat,airport secur passeng,airport luggag aviat,airport secur luggag,airport secur luggag,airport secur explos screen
+341,4,airport secur passeng luggag,airport secur explos,secur passeng explos,airport secur passeng,airport secur passeng,airport passeng luggag flight
+341,5,airport secur explos,airport secur airlin,airport explos luggag,airport secur flight screen,airport secur explos,secur explos screen
+341,6,airport secur airlin,airport secur bag,secur passeng aviat,airport secur passeng luggag,airport secur airlin,airport luggag flight
+341,7,airport secur bag,airport secur bomb,airport airlin luggag,airport secur explos,airport secur bag,secur passeng screen
+341,8,airport secur bomb,airport secur machin,secur passeng bag,airport secur luggag screen,airport secur machin,airport secur luggag flight
+341,9,airport secur machin,airport secur luggag aviat,airport luggag bomb,airport secur passeng flight,airport secur flight screen,airport passeng screen
+341,10,airport secur luggag aviat,airport secur passeng explos,secur airlin passeng,airport secur airlin,airport secur passeng luggag,secur luggag flight
+344,1,mail e employe,e privaci ethic,mail e employe,e electron job,e privaci job,e electron job
+344,2,e employe privaci,mail e employe,e employe privaci,e employe us,e us electron,mail employe us
+344,3,e employe ethic,e employe privaci,mail employe ethic,e employe job,e employe privaci,e employe job
+344,4,mail e privaci,e employe ethic,e employe monitor,e us electron,e electron job,employe us electron
+344,5,e employe employ,mail e privaci,mail employe privaci,mail e job,e privaci us,mail e job
+344,6,mail e ethic,e employ ethic,e employe ethic,e employe electron,e employe job,e employe us electron
+344,7,e employe monitor,e privaci employ,mail employe monitor,e us job,e privaci electron,mail employe job
+344,8,e employe messag,mail e ethic,e employe messag,mail e electron,e us job,e us electron
+344,9,mail e monitor,e privaci monitor,mail employe comput,e employe us job,mail e privaci,mail e employe job
+344,10,e employe comput,e employe employ,e employe compani,mail e employe,e employe electron,employe privaci us electron
+345,1,tobacco rjr compani,tobacco rjr nabisco,tobacco rjr nabisco,tobacco sale increas,tobacco rjr sale,tobacco sale increas
+345,2,tobacco cigarett nabisco,tobacco cigarett morri,tobacco cigarett compani,tobacco sale health,tobacco cigarett sale,compani market health increas
+345,3,tobacco morri compani,tobacco philip rjr,tobacco morri rjr nabisco,tobacco market sale,tobacco morri sale,tobacco rjr sale increas
+345,4,tobacco rjr nabisco,tobacco cigarett nabisco,tobacco philip compani,tobacco compani sale,tobacco cigarett rjr sale,market health increas
+345,5,tobacco cigarett compani,tobacco morri rjr,tobacco cigarett rjr nabisco,tobacco sale health increas,tobacco philip sale,tobacco compani sale
+345,6,tobacco morri rjr,tobacco philip nabisco,tobacco morri compani,tobacco market sale increas,tobacco sale increas,tobacco market health increas
+345,7,tobacco compani nabisco,tobacco cigarett rjr,tobacco cigarett rjr,tobacco compani sale increas,tobacco sale health,compani sale increas
+345,8,tobacco cigarett rjr,tobacco morri nabisco,tobacco compani nabisco,tobacco market sale health,tobacco market sale,tobacco health increas
+345,9,tobacco philip compani,tobacco rjr compani,tobacco morri rjr,tobacco rjr sale,tobacco compani sale,market sale increas
+345,10,tobacco morri nabisco,tobacco nabisco smoke,tobacco compani smoke,tobacco compani sale health,tobacco morri rjr sale,tobacco compani increas
+389,1,technolog p.r.c compani,toshiba technolog p.r.c,toshiba technolog p.r.c,technolog illeg transfer,technolog illeg transfer,technolog illeg transfer
+389,2,toshiba technolog khan,technolog missil khan,technolog khan compani,technolog illeg transfer us,toshiba technolog illeg transfer,compani violat us
+389,3,technolog missil compani,export technolog p.r.c,technolog missil p.r.c,technolog illeg transfer violat,export technolog illeg transfer,toshiba technolog illeg transfer
+389,4,toshiba technolog p.r.c,toshiba technolog khan,toshiba technolog compani,technolog compani illeg transfer,toshiba illeg transfer,technolog compani violat us
+389,5,technolog khan compani,technolog missil p.r.c,technolog p.r.c khan,illeg transfer us,technolog illeg transfer us,toshiba illeg transfer
+389,6,technolog missil p.r.c,toshiba export technolog,technolog missil compani,technolog transfer violat,toshiba technolog transfer,technolog violat us
+389,7,toshiba technolog compani,technolog p.r.c khan,toshiba technolog p.r.c khan,compani illeg transfer,technolog illeg transfer violat,compani illeg transfer
+389,8,technolog p.r.c khan,toshiba technolog missil,export technolog compani,technolog transfer us,toshiba technolog illeg,technolog illeg violat us
+389,9,export technolog compani,technolog p.r.c compani,toshiba p.r.c khan,illeg transfer violat,technolog compani illeg transfer,technolog compani transfer
+389,10,nuclear technolog p.r.c,toshiba technolog missil khan,nuclear technolog compani,technolog compani transfer,nuclear technolog illeg transfer,illeg violat us
+422,1,stolen art thiev,stolen art thiev,stolen art thiev,stolen art forg,stolen art forg,stolen art forg
+422,2,stolen art artwork,stolen art artwork,stolen art artwork,stolen art forg reproduct,stolen art thiev forg,been have reproduct
+422,3,stolen art theft,stolen art theft,stolen art theft,stolen art forg have,stolen art theft forg,stolen art thiev forg
+422,4,stolen art galleri,stolen art thiev artwork,stolen art thiev artwork,stolen art been forg,art thiev forg,stolen been have reproduct
+422,5,stolen art recov,stolen art galleri,stolen art galleri,art forg reproduct,stolen theft forg,art thiev forg
+422,6,stolen museum art,stolen art theft thiev,stolen art theft thiev,stolen forg have,stolen art thiev,stolen have reproduct
+422,7,stolen art paint,stolen art recov,stolen art recov,art been forg,art theft forg,art been forg
+422,8,stolen art work,stolen art theft artwork,stolen art theft artwork,stolen forg reproduct,stolen thiev forg,stolen art have reproduct
+422,9,stolen art thiev artwork,stolen museum art,stolen art thiev galleri,art forg have,stolen art theft,stolen been forg
+422,10,stolen art theft galleri,stolen art paint,stolen museum art,stolen been forg,stolen art forg reproduct,art have reproduct
+620,1,test nuclear franc,test nuclear franc,test nuclear franc,test nuclear franc,test nuclear franc,test nuclear franc
+620,2,test nuclear franc pacif,franc mururoa polynesia,mururoa pacif polynesia,test nuclear franc south,nuclear franc mururoa,pacif protest south
+620,3,test nuclear franc mururoa,test nuclear atol,test nuclear franc atol,test nuclear franc protest,test franc greenpeac,test nuclear franc mururoa
+620,4,nuclear franc pacif,nuclear franc mururoa,test mururoa pacif,test nuclear franc pacif,test nuclear mururoa,test pacif protest south
+620,5,test nuclear franc polynesia,test franc polynesia,nuclear franc polynesia,nuclear franc south,nuclear franc greenpeac,nuclear franc mururoa
+620,6,test franc pacif,test nuclear mururoa,test nuclear pacif,test franc protest,test franc mururoa,test protest south
+620,7,test nuclear franc atol,nuclear franc polynesia,franc mururoa polynesia,nuclear franc pacif,test nuclear greenpeac,nuclear franc pacif
+620,8,test nuclear pacif,test franc mururoa,test nuclear franc pacif,test franc south,test nuclear franc mururoa,test mururoa protest south
+620,9,test nuclear franc greenpeac,test nuclear polynesia,test nuclear mururoa polynesia,nuclear franc protest,test nuclear franc greenpeac,test nuclear franc pacif
+620,10,test nuclear franc chirac,franc mururoa atol,test franc pacif,test franc pacif,franc chirac mururoa,mururoa protest south
+423,1,milosev serbian markov,milosev markov draskov,milosev serbian markov,milosev markov mirjana,milosev markov mirjana,milosev markov mirjana
+423,2,milosev markov draskov,milosev belgrad markov,milosev markov draskov,milosev markov mirjana wife,milosev belgrad markov mirjana,serbian hi wife
+423,3,milosev belgrad markov,milosev markov yugoslav draskov,milosev serbian belgrad,milosev markov hi mirjana,milosev serbia markov mirjana,milosev belgrad markov mirjana
+423,4,milosev markov yugoslav,milosev serbia markov,markov yugoslav draskov,milosev serbian markov mirjana,milosev kosovo markov mirjana,milosev serbian hi wife
+423,5,milosev serbia markov,milosev belgrad markov draskov,milosev serbia serbian,markov mirjana wife,belgrad markov mirjana,belgrad markov mirjana
+423,6,milosev kosovo markov,milosev markov yugoslav,belgrad markov draskov,milosev hi mirjana,milosev serbia mirjana,milosev hi wife
+423,7,milosev markov serb,milosev serbia markov draskov,milosev serbian yugoslav,serbian markov mirjana,kosovo markov mirjana,serbian markov mirjana
+423,8,milosev mr markov,milosev kosovo markov,milosev belgrad markov,milosev mirjana wife,milosev belgrad mirjana,milosev markov hi wife
+423,9,milosev serbian markov draskov,belgrad markov draskov,milosev serbian draskov,markov hi mirjana,serbia markov mirjana,milosev serbian mirjana
+423,10,milosev belgrad markov yugoslav,milosev markov serb,milosev markov yugoslav,milosev serbian mirjana,milosev belgrad markov,markov hi wife
+347,1,wildlif speci poacher,wildlif poacher panda,wildlif speci poacher,wildlif extinct have,wildlif poacher extinct,wildlif extinct have
+347,2,wildlif rhino panda,wildlif rhino poach,wildlif rhino panda,wildlif extinct save,wildlif rhino extinct,speci countri save
+347,3,wildlif speci poach,wildlif poacher ivori panda,wildlif speci poach,wildlif extinct countri,wildlif eleph poacher extinct,wildlif poacher extinct have
+347,4,wildlif poacher panda,wildlif eleph rhino,wildlif rhino poacher panda,wildlif speci extinct,wildlif rhino tiger extinct,wildlif speci countri save
+347,5,wildlif speci rhino,wildlif poacher panda poach,wildlif speci ivori,wildlif extinct save have,wildlif eleph extinct,poacher extinct have
+347,6,wildlif poacher poach,wildlif rhino ivori,wildlif poacher panda,wildlif speci extinct countri,wildlif rhino poacher extinct,wildlif countri save
+347,7,wildlif speci panda,wildlif poacher poach,wildlif speci rhino,wildlif poacher extinct,wildlif tiger extinct,speci extinct have
+347,8,wildlif rhino poacher,wildlif rhino panda,wildlif poacher panda poach,wildlif extinct countri have,rhino poacher extinct,wildlif extinct countri save
+347,9,wildlif speci ivori,wildlif poacher ivori,wildlif eleph speci,wildlif speci extinct save,wildlif extinct have,wildlif speci have
+347,10,wildlif panda poach,wildlif rhino panda poach,wildlif rhino poacher,wildlif rhino extinct,wildlif rhino poacher,extinct countri save
+426,1,dog snif explos,dog snif explos,dog snif explos,dog enforc law,dog enforc law,dog enforc law
+426,2,dog airport explos,dog airport explos,dog airport explos,dog enforc us law,dog enforc us law,train handler us
+426,3,dog bomb snif,dog bomb snif,dog bomb snif,dog enforc handler law,dog enforc handler law,dog bomb enforc law
+426,4,dog search explos,dog search explos,dog search explos,dog train enforc law,dog train enforc law,dog train handler us
+426,5,dog snif airport,dog snif airport,dog snif airport,enforc us law,dog bomb enforc law,bomb enforc law
+426,6,dog bomb explos,dog bomb explos,dog bomb explos,dog handler law,dog polic enforc law,dog handler us
+426,7,dog snif search,dog snif search,dog snif search,train enforc law,enforc us law,train enforc law
+426,8,dog bomb airport,dog bomb airport,dog bomb airport,dog us law,dog handler law,dog enforc handler us
+426,9,dog polic snif,dog polic snif,dog polic snif,enforc handler law,train enforc law,dog train law
+426,10,dog airport search,dog airport search,dog airport search,dog train law,dog us law,enforc handler us
+427,1,ey radiat sun,ozon ey chlorofluorocarbon,ey radiat sun,ey sun uv,ey chlorofluorocarbon uv,ey sun uv
+427,2,ultraviolet cataract ey,ey skin sunglass,ultraviolet cataract ey,ey radiat uv,ozon ey uv,ultraviolet cataract radiat
+427,3,ey chlorofluorocarbon sun,ey chlorofluorocarbon sun,radiat chlorofluorocarbon sun,cataract ey uv,ey skin chlorofluorocarbon uv,ey chlorofluorocarbon sun uv
+427,4,cataract ey radiat,ozon ey sunglass,ozon ultraviolet cataract ey,ultraviolet ey uv,ey sun uv,ultraviolet cataract ey radiat
+427,5,ultraviolet ey sun,ey skin chlorofluorocarbon,radiat sun sunglass,ey radiat sun uv,ozon ey chlorofluorocarbon uv,chlorofluorocarbon sun uv
+427,6,ey radiat chlorofluorocarbon,ozon ey sun,ultraviolet cataract ey chlorofluorocarbon,ultraviolet cataract ey uv,ey skin uv,cataract ey radiat
+427,7,cataract ey sun,ey chlorofluorocarbon sunglass,ozon radiat sun,ey chlorofluorocarbon uv,ozon chlorofluorocarbon uv,ultraviolet sun uv
+427,8,ultraviolet ey radiat,ozon ey skin,ultraviolet cataract ey sunglass,cataract ey sun uv,ey radiat uv,cataract ey radiat chlorofluorocarbon
+427,9,cataract ey chlorofluorocarbon,ey radiat chlorofluorocarbon,radiat skin sun,ultraviolet ey radiat uv,ozon ey chlorofluorocarbon,ultraviolet ey sun uv
+427,10,ultraviolet ey radiat sun,ozon cataract ey,ultraviolet cataract ey chemic,ozon ey uv,cataract ey uv,cataract radiat chlorofluorocarbon
+307,1,project hydroelectr yangtz,project hydroelectr yangtz,project hydroelectr yangtz,project hydroelectr would,project quebec hydroelectr,project hydroelectr would
+307,2,project hydroelectr hydro,project hydroelectr hydro,project hydroelectr hydro,project hydroelectr reservoir,dam project hydroelectr,environment construct reservoir
+307,3,project hydroelectr gorg,project hydroelectr yangtz gorg,project hydroelectr yangtz gorg,project hydroelectr construct,project hydroelectr would,project hydroelectr environment
+307,4,project quebec hydroelectr,project quebec hydroelectr hydro,project quebec hydroelectr hydro,project hydroelectr environment,dam project quebec hydroelectr,environment construct reservoir would
+307,5,dam project hydroelectr,project hydroelectr gorg,project yangtz gorg,project hydroelectr reservoir would,project hydroelectr reservoir,project quebec hydroelectr environment
+307,6,project china hydroelectr,project hydroelectr yangtz hydro,project quebec hydroelectr,project hydroelectr environment construct,project hydroelectr construct,construct reservoir would
+307,7,project river hydroelectr,project quebec hydroelectr,project hydroelectr yangtz hydro,project hydroelectr environment would,project hydroelectr environment,dam project hydroelectr environment
+307,8,project hydroelectr water,hydroelectr yangtz hydro,project hydroelectr gorg,project hydroelectr construct reservoir,project china hydroelectr,environment reservoir would
+307,9,project hydroelectr yangtz hydro,dam project hydroelectr,project yangtz hydro,project quebec hydroelectr,project river hydroelectr,project hydroelectr construct
+307,10,project quebec hydroelectr gorg,project yangtz hydro,dam project hydroelectr,project hydroelectr construct would,dam quebec hydroelectr,project environment reservoir would
+626,1,stamped peopl kill,stamped pilgrim saudi,stamped peopl kill,stamped event report,stamped pilgrim report,stamped event report
+626,2,stamped pilgrim saudi,stamped peopl kill,stamped pilgrim saudi,stamped kill death,stamped death event,stamped kill death
+626,3,stamped crowd kill,stamped pilgrim crowd,stamped peopl crowd kill,stamped peopl report,stamped pilgrim kill,stamped peopl report
+626,4,stamped pilgrim peopl,stamped kill saudi,stamped pilgrim club,stamped death event,stamped event report,stamped death event
+626,5,stamped kill saudi,stamped pilgrim peopl,stamped peopl kill saudi,stamped kill report,stamped pilgrim death,stamped kill report
+626,6,stamped peopl crowd,stamped crowd saudi,stamped pilgrim crowd,stamped peopl event,stamped kill report,stamped peopl event
+626,7,stamped pilgrim kill,stamped pilgrim kill,stamped peopl kill club,stamped death report,stamped pilgrim event,stamped death report
+626,8,stamped peopl saudi,stamped peopl saudi,stamped pilgrim fire,stamped kill event,stamped death report,stamped kill event
+626,9,stamped kill club,stamped pilgrim club,stamped were peopl kill,stamped peopl death,stamped pilgrim peopl,stamped peopl death
+626,10,stamped peopl fire,stamped fire saudi,stamped crowd saudi,stamped kill event report,stamped kill event,stamped kill event report

@@ -1,0 +1,9 @@
+pyserini
+pytrec-eval
+repro-eval
+matplotlib
+seaborn
+pandas
+beautifulsoup4
+nltk
+flask

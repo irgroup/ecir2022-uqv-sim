@@ -1,0 +1,23 @@
+NAME: 'qcmcqg-kis-s7'
+PATH_IDX: '/anserini/indexes/lucene-index.core17'
+BM: 'data/lm/background.csv'
+TOPIC_MODELS: 'data/lm/cqg.json'
+COLLECTION: 'core17'
+TOPIC: 336
+LAMBDA: 0.4
+TRECTOPIC:
+    STRATEGY: 's1'
+KNOWNITEM:
+    STRATEGY: 's1'
+### A user who keeps previous terms, and includes external terms (from relevant documents)
+QCMCQG:
+    OFFSET_TERMS: 0
+    NUM_TERMS: 10
+    MIN_LENGTH: 3
+    MAX_LENGTH: 6
+    ALPHA: 2.2          # reward theme terms
+    BETA:  .2          # penalize added topic terms
+    EPSILON: 0.25       # reward added terms
+    DELTA: 0.1          # penalize removed terms
+    ADDED_TERMS: 4
+    INCLUDE_TOPIC: False

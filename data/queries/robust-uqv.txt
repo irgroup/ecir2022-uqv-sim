@@ -1,0 +1,3151 @@
+301-1-1;organizations international criminal activity
+301-2-1;international criminal organizations
+301-3-1;international organized crime
+301-4-1;international crime groups
+301-4-2;international drug trades crime group in south america
+301-4-3;international smuggling group
+301-5-1;international criminal organizations
+301-5-2;international illegal drug trade organizations country
+301-5-3;international terrorist groups illegal activity country
+301-5-4;international organizations benefiting from crime country
+301-5-5;international triads money making scheme illegal
+301-6-1;illegal criminal activity international organization
+301-7-1;international criminal activity cartel illegal drug syndicate
+301-8-1;organized crime yakuza
+301-8-2;organized crime mafia
+301-8-3;organized crime groups europe
+302-1-1;polio incidence
+302-1-2;polio prevalence
+302-2-1;polio
+302-3-1;recent polio outbreaks
+302-4-1;polio outbreaks
+302-4-2;polio treatment and post polio problems
+302-4-3;impact of poliomyelitis on public health
+302-5-1;poliomyelitis under control
+302-5-2;polio outbreaks timeline of events
+302-5-3;polio eradicated post polio problems solutions
+302-5-4;severity of polio outbreak
+302-5-5;medical protection against polio disease
+302-5-6;polio disease containment
+302-6-1;polio under control
+302-7-1;poliomyelitis polio outbreak protection cluster control immune
+302-8-1;geographic distribution polio poliomyelitis
+302-8-2;post polio medical advances
+303-1-1;hubble telescope accomplishments
+303-2-1;hubble telescope achievements
+303-3-1;hubble telescope
+303-4-1;hubble telescope research study
+303-4-2;hubble telescope new findings
+303-4-3;impact of hubble telescope space images
+303-5-1;positive hubble telescope accomplishments
+303-5-2;hubble telescope increases human knowledge
+303-5-3;hubble telescope phenomena proved false hypothesis
+303-5-4;hubble telescope what are the benefits of repairing
+303-5-5;hubble telescope list of achievements since launched
+303-6-1;hubble telescope accomplishment
+303-7-1;positive hubble space telescope discovery benefit knowledge universe data
+303-8-1;hubble telescope missions
+303-8-2;discoveries made by hubble telescope
+304-1-1;endangered mammals habitat threat
+304-2-1;endangered mammals
+304-3-1;list endangered mammals
+304-4-1;endangered mammals and their habitats
+304-4-2;population of endangered mammals
+304-4-3;names of endangered mammals
+304-4-4;environmental change and endangered mammals
+304-5-1;endangered mammals by habitat
+304-5-2;endangered mammals threatened by habitat loss deforestation human activity
+304-5-3;endangered mammals threatened by climate change global warming habitat unfit
+304-5-4;endangered mammals threatened by poachers
+304-5-5;endangered mammals threatened by predators natural selection
+304-6-1;endangered mammal threat list
+304-7-1;endangered mammals habitat threat population decline extinction at risk
+304-8-1;list of endangered mammals
+304-8-2;rhinoceros at risk
+304-8-3;elephant poaching
+305-1-1;crashworthy vehicles
+305-1-2;vehicle safety
+305-2-1;cars most fewest crashes
+305-3-1;passenger vehicles crashworthy
+305-4-1;most crashworthy passenger cars
+305-4-2;least crashworthy passenger cars
+305-4-3;crash test report for passenger cars or vehicles
+305-5-1;best and worst car for safety
+305-5-2;car make and model most likely to kill passengers
+305-5-3;car make and model likeliness of fatality in an accident
+305-5-4;deadliest and best safety automobile car
+305-5-5;vehicles accountable for the most amount of deaths death toll
+305-6-1;vehicle crashworthy ratings
+305-7-1;vehicle safety ratings crash safe cars automobile fatalities
+305-8-1;crash fatalities by vehicle most least
+305-8-2;vehicle deaths per crashes
+306-1-1;africa civilian deaths
+306-2-1;civilian casualties african civil war
+306-3-1;africa civil war civilian casualties
+306-4-1;civil wars africa civilian casualties
+306-4-2;arm conflicts africa civilian casualties
+306-5-1;civilians killed in civil wars in africa kill count death toll
+306-5-2;number of unarmed pedestrians killed in african civil wars death toll
+306-5-3;number of innocent bystanders killed in african civil wars death toll
+306-5-4;count of dead civilian non combatants bystanders in african civil wars death toll
+306-5-5;innocent bystanders casualties of african civil wars death toll
+306-6-1;civilian death africa combat
+306-7-1;civilian casualty civil war africa death armed conflict
+306-8-1;civil war africa civilian death
+307-1-1;hydroelectric power
+307-1-2;hydroelectric projects
+307-1-3;planned hydroelectric projects
+307-1-4;proposed hydroelectric projects
+307-1-5;hydroelectric construction
+307-1-6;hydroelectric construction location
+307-1-7;hydroelectric construction country
+307-1-8;hydroelectric construction problems
+307-1-9;hydroelectric project construction location nature extent purpose problems consequences
+307-2-1;hydroelectric projects under construction by country and location
+307-3-1;world hydroelectric project proposal
+307-3-2;construction hydro power plant
+307-3-3;locate water power plant underway
+307-3-4;country hydroelectric power plant project proposal
+307-3-5;water power plant region project proposal
+307-3-6;hydroelectric power plant underway
+307-3-7;consequence hydroelectric projects
+307-3-8;problems water power plant construction
+307-3-9;significance hydroelectric power plant
+307-3-10;proposed hydroelectric projects world
+307-4-1;hydroelectric plants construction in europe
+307-4-2;hydroelectric plants construction in united states
+307-4-3;hydroelectric plants construction in developed countries
+307-4-4;environmental impact of hydroelectric power plant
+307-4-5;hydroelectric dam construction project
+307-5-1;hydroelectric projects by country
+307-5-2;reason for hydroelectric projects worldwide
+307-5-3;hydroelectric projects by region
+307-5-4;hydroelectric projects by location
+307-5-5;purpose of hydroelectric projects
+307-5-6;consequences of hydroelectric projects
+307-5-7;results of hydroelectric projects
+307-5-8;outcomes of hydroelectric projects
+307-5-9;outcomes of hydroelectric projects by region
+307-5-10;hydroelectric projects by region and township
+307-6-1;hydro electric hydroelectric project country
+307-6-2;hydroelectric projects 2018 2017 2016 2015
+307-6-3;hydroelectric project proposed construction
+307-6-4;hydroelectric project proposal 2017 construction
+307-6-5;hydro hydroelectric project problems
+307-6-6;construction hydroelectric power proposed
+307-7-1;hydroelectric dam power planned construction river electricity
+307-8-1;hydroelectric construction
+307-8-2;hydroelectric  geographical construction
+307-8-3;new construction hydroelectric
+307-8-4;new hydro development project
+307-8-5;proposed hydro plans
+307-8-6;hydroelectric project news
+307-8-7;construction news hydroelectric project
+307-8-8;proposed hydroelectric details
+307-8-9;hydroelectric project problem set back
+307-8-10;hydroelectric project purpose
+308-1-1;tooth implants advantages disadvantages
+308-1-2;tooth implants
+308-2-1;tooth implant advantages disadvantages
+308-3-1;tooth implant side effects
+308-4-1;pros and cons of tooth implants
+308-4-2;clinical research on tooth implants
+308-4-3;disadvantage of tooth implants
+308-5-1;tooth implants plus and minus
+308-5-2;tooth implants increased durability and strength
+308-5-3;tooth implants disadvantages cost maintenance
+308-5-4;tooth implants clinical experiments advantages disadvantages
+308-5-5;tooth implants best procedure create and install
+308-6-1;tooth implant advantage disadvantage pro con
+308-7-1;tooth implant pros cons advantages disadvantages titanium post denture clinical study false teeth
+308-8-1;tooth implant procedure favorable
+308-8-2;tooth implant trade off
+309-1-1;rap music bad
+309-1-2;negative effects rap music
+309-1-3;why does rap music suck
+309-2-1;negative effects of rap music
+309-3-1;evidence rap music consequence teenagers
+309-4-1;relation between rap music lyrics and suicidal tendencies
+309-4-2;rap music negative influence on young people
+309-5-1;rap music negative effect on young people
+309-5-2;rap music linked to increase in illegal drug usage in teenagers study
+309-5-3;rap music teenage perception of women altered study
+309-5-4;rap music violence against police young people study
+309-5-5;rap music provoking suicidal thoughts in young people study
+309-5-6;rap music altering the psyche of developing minds study
+309-5-7;rap music changing personality of teenagers
+309-6-1;rap music crime negative influence
+309-7-1;negative effect of rap music young people
+309-8-1;rap music youth bad
+310-1-1;radio waves brain cancer
+310-1-2;mobile phones brain cancer
+310-1-3;brain cancer occurrence radio waves
+310-1-4;radio waves brain cancer evidence
+310-1-5;radio waves brain cancer study
+310-1-6;mobile phones radio waves brain cancer
+310-2-1;brain cancer radio waves mobile phones
+310-3-1;association brain cancer radio frequency
+310-3-2;prevalence brain cancer study radio tower
+310-4-1;brain cancer caused by the use of mobile phone
+310-4-2;brain cancer radio emission from radio tower
+310-5-1;radio wave brain cancer link
+310-5-2;living near phone tower brain cancer
+310-5-3;rf brain cancer radio waves
+310-5-4;radio tower brain cancer evidence
+310-5-5;evidence of brain cancer in people living near phone towers
+310-5-6;cancer associated with phone towers
+310-5-7;nearby phone towers giving people brain cancer
+310-5-8;brain cancer from nearby radio towers
+310-5-9;brain cancer linked to radio waves from close phone towers
+310-5-10;radio towers and brain cancer
+310-6-1;radio wave brain cancer
+310-6-2;cancer radio tower
+310-6-3;mobile phone cancer cause
+310-6-4;cancer mobile tower radiation experiment
+310-6-5;live proximity close radio tower cancer increase
+310-6-6;risk cancer radio wave radio wave
+310-7-1;brain cancer radio waves cluster antenna mobile phone tower
+310-8-1;brain cancer cell phone
+310-8-2;glioma radio waves
+310-8-3;cancer risk cell phone
+310-8-4;cell tower proximity cancer
+310-8-5;brain tumor cell phone
+310-8-6;persons live near radio tower tumor study
+310-8-7;recent experiment cancer cell tower mobile
+310-8-8;brain tumor cell phone clinical trial
+310-8-9;radio frequency energy brain tumor
+310-8-10;animal tests brain cancer radio tower
+311-1-1;theft trade secrets
+311-1-2;stolen trade secrets
+311-2-1;trade secret theft espionage
+311-3-1;trade secrets theft
+311-5-1;theft of trade secrets
+311-5-2;trade secrets leaked in the fashion industry designers
+311-5-3;pharmaceutical companies incurring theft of trade secrets
+311-5-4;freedom of information act used to steal trade secrets
+311-5-5;theft of trade secrets in silicon valley
+311-6-1;trade secret theft example
+311-7-1;trade secrets theft espionage industrial technology fashion computer legal counterespionage
+311-8-1;trade secret siphon
+312-1-1;growing plants in water
+312-2-1;plant growth without soil
+312-3-1;science growing plants water
+312-5-1;growing plants in water
+312-5-2;the science of hydroponics
+312-5-3;advantages of hydroponic installations rate of plant development
+312-5-4;hydroponic installation cost benefit analysis
+312-5-5;nutrition for plants installed in a hydroponic setup
+312-6-1;plant growth hydroponic
+312-7-1;hydroponics nutrients plants grow artificial organic agriculture sustainable
+312-8-1;water plant biological process
+312-8-2;air plant nutrients
+313-1-1;magnetic levitation
+313-1-2;magnetic levitation commercial use
+313-2-1;commercial uses of magnetic levitation
+313-3-1;commercial use magnetic levitation
+313-5-1;magnetic levitation commercial uses
+313-5-2;magnetic levitation transportation trains transit
+313-5-3;magnetic levitation transportation trains transit government plans
+313-5-4;maglev flywheel applications cars automobiles
+313-5-5;maglev superconductivity
+313-5-6;magnetic levitation transportation trains transit fastest train in the world
+313-6-1;magnetic levitation maglev usage uses
+313-7-1;magnetic levitation maglev commercial uses
+313-8-1;maglev train
+314-1-1;marine vegetation commercial
+314-1-2;marine vegetation harvesting
+314-1-3;algae seaweed kelp food drug
+314-2-1;seaweed algae kelp food drugs
+314-3-1;commercial harvest marine vegetation
+314-5-1;commercial harvesting of marine vegetation
+314-5-2;harvesting of algae seaweed kelp food commercial farms
+314-5-3;marine plants harvested for commercial economic gain food
+314-5-4;marine plants harvested pharmaceutical companies algae seaweed kelp coral
+314-5-5;ocean plants harvested farms seaweed coral kelp algae drugs food
+314-6-1;food drug marine vegetation harvesting
+314-7-1;commercial harvesting marine vegetation food drugs benefit algae seaweed kelp
+314-8-1;marine vegetation commercial harvest
+314-8-2;drug uses commercial algae kelp
+314-8-3;seaweed food commercially procured
+315-1-1;mystery fatal highway accidents
+315-2-1;highway fatalities unknown cause
+315-3-1;fatal highway accident
+315-5-1;unresolved fatal highway each year
+315-5-2;fatal highway accidents reason not determined
+315-5-3;unknown who caused the fatal highway accident
+315-5-4;cause of highway accident not determined
+315-5-5;unsure which driver caused highway accident
+315-6-1;fatal highway accident undetermined cause
+315-7-1;fatal highway accident unknown cause mystery death crash
+315-8-1;unanswered fatal highway accidents
+316-1-1;polygamy
+316-2-1;polygamy
+316-3-1;world polygamy
+316-5-1;polygamy polygyny polyandry in the world today
+316-5-2;polygamous relationships cultures worldwide recent years
+316-5-3;social attitudes to sharing multiple husband wife polygamy
+316-5-4;customs culture social beliefs polygamy
+316-5-5;welfare of polygamous relationships child care housing
+316-5-6;love security of polygamous relationships cultural normalities
+316-6-1;polygamy polyandry polygyny common polygamous reason cause roots origin prevalence
+316-7-1;polygamy multiple husband wife wives current origins history
+316-8-1;polygamy origins modern
+317-1-1;junk fax fcc effectiveness
+317-2-1;junk fax laws
+317-3-1;effective fcc banning junk facsimile
+317-5-1;fcc junk fax facsimile regulations passed
+317-5-2;fax facsimile regulations banning junk been passed yet fcc
+317-5-3;when will fcc regulations banning junk fax facsimile be passed
+317-5-4;fcc banning fax facsimile effectiveness
+317-5-5;unsolicited junk fax facsimile invasion of privacy
+317-5-6;cost in ink printer maintenance junk facsimile to individuals and business
+317-6-1;fcc ban junk fax
+317-7-1;junk spam fax facsimile legislation unwanted laws legislation fcc federal communications commission
+317-8-1;effective junk ban facsimile
+318-1-1;us retiree expat
+318-2-1;best places to retire outside of the usa
+318-3-1;best country retiree
+318-5-1;best living conditions and quality of life outside of america
+318-5-2;best places to live retire outside of the us united states
+318-5-3;best quality of life retirement outside of us united states
+318-5-4;where to retire in europe us united states expat
+318-5-5;where to retire in africa us united states expat
+318-5-6;where to retire in asia us united states expat
+318-5-7;where to retire in oceania us united states expat
+318-6-1;us usa united states retire overseas
+318-7-1;quality of life retired retiree country living conditions cost
+318-8-1;americans best living conditions retired outside
+318-8-2;expat living condition best retire
+319-1-1;new fuel sources research
+319-2-1;alternative fuel source research
+319-3-1;alternative fuel sources research
+319-5-1;ongoing research new fuel sources
+319-5-2;study new fuel sources companies universities
+319-5-3;new developments in using nuclear waste as an energy source study companies universities
+319-5-4;new advances in burning coal fuel power sources
+319-5-5;new materials to burn fuel power sources universities companies
+319-6-1;new fuel source research
+319-7-1;fuel sources nuclear research development invention
+319-8-1;research new fuel resources
+320-1-1;fiber optic link around the globe flag project
+320-2-1;undersea fiber optic cable fiber optic link around the globe flag
+320-3-1;longest undersea fiber optic cable
+320-5-1;fiber optic flag project contributors leaders investors
+320-5-2;fiber flag optic link global worldwide undersea cable technology used stakeholders
+320-5-3;fiber flag optic link global worldwide problems encountered complications
+320-5-4;fiber flag optic link landing sites telecommunication cables countries linked
+320-5-5;fiber flag optic link list of countries linked nodes
+320-5-6;fiber flag optic link bandwidth gigabytes per second
+320-6-1;fiber optic cable undersea undersea technology problems
+320-7-1;fiber fibre optic underseas construction telecommunications submarine
+320-8-1;deep undersea cable setbacks
+321-1-1;women in politics
+321-1-2;women representation parliament
+321-1-3;female representation politics
+321-1-4;women representation legislature
+321-1-5;gender balance politics
+321-1-6;gender balance requirements politics
+321-1-7;proportion of women in politics country statistics
+321-1-8;women in politics country statistics
+321-1-9;women in politics representation country statistics
+321-1-10;women representation politics
+321-2-1;gender bias parliaments around the world
+321-3-1;women parliament representation developing countries
+321-3-2;power gap male female ratio developing countries
+321-4-1;gender imbalance in parliament or legislative representatives
+321-4-2;gender imbalance in political power
+321-4-3;gender imbalance in the third world
+321-5-1;third world lack of gender diversity in politics
+321-5-2;gender inequality in third world politics
+321-5-3;female political representation in developing countries
+321-5-4;gender power gap in third world countries
+321-5-5;poor representation of women in developing countries
+321-5-6;gender ratios in politics of the third world
+321-5-7;gender ratios in developing nations politics
+321-5-8;legislative power of women in developing nations
+321-5-9;women parliamentarians in developing nations
+321-5-10;developing nations female representation politics
+321-6-1;women in parliament representation
+321-6-2;no women politics country
+321-6-3;politics mandate women inclusion
+321-6-4;percentage women in parliament representation
+321-6-5;women in parliament by country
+321-7-1;women parliamentarians government equal minimum quota requirement
+321-8-1;sexism in politics
+321-8-2;poor representation of women politics
+321-8-3;gender gap politics
+321-8-4;political gap for women in politics
+321-8-5;gender bias in parliament
+321-8-6;requirement female parliament representation
+321-8-7;no representation of women parliament
+322-1-1;international art trade fraud embezzlement
+322-2-1;international art fraud embezzlement
+322-3-1;international art trade embezzlement
+322-5-1;fraud international art trade jewelry paintings sculptures
+322-5-2;embezzlement international art trade jewelry paintings sculptures
+322-5-3;theft international art trade jewelry paintings sculptures
+322-6-1;international art fraud
+322-6-2;international art scam fraud embezzlement
+322-7-1;art trade fraud embezzlement buying selling auction fake forgery
+322-8-1;fraudulent trade of art works
+323-1-1;plagiarism literature journalism
+323-2-1;plagiarism fiction journalism
+323-3-1;literary plagiarism
+323-5-1;plagiarism books and journalism
+323-5-2;plagiarised doctorate masters honours thesis
+323-5-3;ideas stolen taken from authors without attribution incidences literature
+323-5-4;instances where media outlet has stolen work without permission attribution
+323-6-1;journalistic plagiarism example instance
+323-7-1;plagiarism literature journalism copyright theft copying unethical fraud
+323-8-1;literary plagiarism
+323-8-2;plagiarism doctorate
+323-8-3;phd plagiarism
+324-1-1;argentina britain international relations
+324-2-1;argentina united kingdom falkland islands
+324-3-1;define international relations argentine british
+324-5-1;argentina britain international relations
+324-5-2;falkland islands dispute argentina britain relations
+324-5-3;argentina britain contract relations negative relationship
+324-5-4;argentina britain contract relations positive relationship
+324-5-5;argentina falkland islands trade exchanges
+324-6-1;argentina uk international relations
+324-7-1;argentina britain uk united kingdom falkland islands diplomacy international relations
+324-8-1;argentine united kingdom international relations
+325-1-1;cult member lifestyle
+325-1-2;cult name member lifestyle
+325-1-3;lifestyle requirements cult members
+325-1-4;cult member diet
+325-1-5;cult member clothing
+325-1-6;cult member goals lifestyle requirements
+325-1-7;cult goals requirements
+325-2-1;cult member daily life
+325-3-1;cult organization members lifestyles
+325-3-2;cult organization members eating dressing habit
+325-4-1;religious cults and lifestyle
+325-4-2;cult religious group activities
+325-5-1;cult member lifestyles
+325-5-2;cult members organisation structure
+325-5-3;cult religion lifestyles
+325-5-4;culture of cults by name
+325-5-5;activities performed by cult members
+325-5-6;cult member jobs
+325-5-7;cult member leadership
+325-5-8;cult culture
+325-5-9;cult rituals
+325-5-10;cult member rituals
+325-6-1;cult member tasks
+325-6-2;cult member daily activity
+325-6-3;what do cult members do
+325-6-4;cult member initiation
+325-6-5;cult activity
+325-7-1;cult members and lifestyles goals
+325-8-1;cult dress attire
+325-8-2;view cult belief goal
+325-8-3;cult organization goals
+325-8-4;cult dietary habits
+325-8-5;cult leader
+325-8-6;sinful cult beliefs
+325-8-7;cult dogma
+325-8-8;dangerous religious cults
+325-8-9;extreme beliefs within cults
+325-8-10;sect cult require leader held
+326-1-1;ferry sinking major disaster
+326-2-1;ferry accidents deaths
+326-3-1;ferry sink
+326-5-1;ferry sinking 100 lives lost death toll
+326-5-2;ferry sinking disaster fatalities death toll
+326-5-3;ferry sinking shipwreck high loss of life death toll
+326-5-4;ferry sinking many fatalities deaths drowning death toll
+326-5-5;reasons for ferry capsizing sinking many people drowning death toll
+326-6-1;ferry sinking multiple lives lost over 100
+326-7-1;ferry fatality sinking tragedy storm death ship
+326-8-1;ferry deaths by the numbers
+327-1-1;human slavery
+327-1-2;modern human slavery
+327-2-1;human slavery where
+327-3-1;global slavery index
+327-5-1;modern human slavery hot spots
+327-5-2;places human slavery currently practiced sweatshops hot spots
+327-5-3;human trafficking slavery sex industry exploited for profit hot spots
+327-5-4;human trafficking slavery construction agriculture industry exploited for profit hot spots
+327-5-5;human trafficking involuntary servitude hot spots
+327-6-1;human slavery countries 21st century
+327-7-1;human slavery current modern recent buying selling people trade
+327-8-1;slavery actively practiced
+328-1-1;papal beatification
+328-1-2;beatified by pope
+328-2-1;pope beatification
+328-3-1;vatican abuse
+328-5-1;list of beatified people by the pope
+328-5-2;list of individuals blessed by the pope
+328-5-3;name deeds actions pope recognition beatified blessed year
+328-5-4;name deeds actions pope recognition canonized blessed year
+328-6-1;list pope beatified
+328-7-1;new saint pope beatification miracle
+328-8-1;beatified pope people
+328-8-2;famous for pope beatified
+329-1-1;air pollution mexico
+329-1-2;reduce air pollution mexico
+329-2-1;mexico city air pollution reduction
+329-3-1;mexico city air pollution
+329-5-1;mexico city pollution
+329-5-2;mexico city air pollution problems challenges solutions
+329-5-3;mexico city air pollution reduction in car automotive automobiles public transport
+329-5-4;mexico city air pollution reduction design study to reduce emissions
+329-5-5;mexico city air pollution encouraging public transport
+329-6-1;mexico city pollution prevention
+329-7-1;mexico city air pollution amelioration prevention automobile reduction smog carbon nitrous
+329-8-1;air pollution mexico city measures
+329-8-2;air pollution mexico reduced
+330-1-1;iran iraq ties
+330-1-2;iran iraq allies
+330-1-3;iran iraq cooperation
+330-1-4;iran iraq military cooperation
+330-1-5;iran iraq cooperation border minorities trade military religious
+330-2-1;iran iraq cooperation alliance
+330-3-1;socio economic ties iran iraq
+330-3-2;iran iraq collaboration
+330-4-1;cooperation between iran and iraq
+330-4-2;economic coalition between iran and iraq
+330-4-3;religious commonalities between iran and iraq
+330-5-1;iran iraq collaboration
+330-5-2;iran iraq joint partnership
+330-5-3;iran iraq allegiance
+330-5-4;iran iraq economic strategic partnership
+330-5-5;iran iraq military collaboration
+330-5-6;iran iraq border control cooperation
+330-5-7;iran iraq trade sanctions circumvention
+330-5-8;iran iraq helping each other
+330-5-9;iran iraq treatment of minorities
+330-5-10;iran iraq friendship
+330-6-1;iran iraq allies
+330-6-2;iran iraq cooperation
+330-6-3;iran iraq ties
+330-6-4;friendly iran iraq relations
+330-6-5;relationship iran iraq positive
+330-7-1;cooperation between iran and iraq trade treaty allies border agreement
+330-8-1;restoring borders between iraq iran
+331-1-1;world bank criticism
+331-2-1;world bank criticism
+331-3-1;world bank policy criticism
+331-5-1;criticisms world bank policies activities personnel
+331-5-2;world bank policies unresponsive to needs of countries
+331-5-3;world bank policies too much red tape
+331-6-1;world bank problems issues criticisms
+331-6-2;world bank strict policy problem
+331-7-1;world bank criticism accusation policy politics personnel unhelpful bureaucratic
+331-8-1;strict world bank policies
+331-8-2;strict world bank activities
+332-1-1;income tax evaders us
+332-2-1;us income tax evader investigations
+332-3-1;income tax evader investigation north america
+332-5-1;evaders of united states income tax investigations
+332-5-2;tax evasion united states expats illegal
+332-5-3;revenue from illegal activities avoiding tax
+332-6-1;usa united states us income tax evasion examples
+332-6-2;income tax evasion case
+332-6-3;income tax fraud investigation
+332-7-1;us united states us income tax evasion law criminal revenue illegal justice guilty prosecute
+332-8-1;investigations of us income tax evasion
+332-8-2;cayman islands us tax haven
+332-8-3;us tax havens large corporations
+333-1-1;antibiotics resistant
+333-2-1;antibiotic resistant bacteria
+333-3-1;antibiotics resistance bacteria
+333-5-1;bacteria antibiotic resistance
+333-5-2;antibiotics usage in agriculture contribution to resistance
+333-5-3;bacteria winning against antibiotics why
+333-6-1;bacteria antibiotics reduced effectiveness
+333-6-2;bacteria antibiotics not effective
+333-7-1;drug resistant bacteria antibiotic golden staph
+333-8-1;mutant bacteria antibiotics
+334-1-1;export controls encryption software effectiveness
+334-2-1;encryption software export controls pros and cons
+334-3-1;encryption software export control argument
+334-5-1;export controls encryption software
+334-5-2;encryption backdoors us government export controls
+334-5-3;usefulness export controls encryption united states us us
+334-6-1;encryption software export control
+334-7-1;export controls on encryption software public key
+334-8-1;des nsa export control
+334-8-2;crypto wars 90
+334-8-3;zimmerman crypto legal battle
+334-8-4;phil zimmerman free speech crypto
+334-8-5;printed book zimmerman cryptography
+334-8-6;clipper chip nsa
+334-8-7;skipjack nsa
+334-8-8;clipper chip backdoor
+334-8-9;weak cipher cryptography nsa
+334-8-10;export control on cryptographic software
+335-1-1;biological adoptive parents children problems
+335-2-1;biological parent adoption relationships
+335-3-1;guardianship  litigation case studies
+335-5-1;problems solutions biological parents adoptive parents
+335-5-2;adopted children trying to contact their parents ruling in court
+335-5-3;biological adoptive parents issues
+335-6-1;biological adoptive parent court battle
+335-7-1;adoption biological parents problems issues tensions family blended natural
+335-8-1;biological adoption parents relationships
+336-1-1;black bear attacks
+336-1-2;black bear attacks causes
+336-1-3;how to calm a savage black bear
+336-1-4;hungry black bear
+336-1-5;black bear attacks frequency
+336-2-1;black bear attack causes
+336-3-1;black bear attack
+336-3-2;causes black bear human attack
+336-4-1;black bear attacks
+336-4-2;possible causes of black bear attacks
+336-5-1;reason for black bear attacks
+336-5-2;black bear attacks hunger cosmetics
+336-5-3;black bear peer reviewed literature causes of attack
+336-5-4;black bear attacks feigning death
+336-5-5;black bear attacks causes how to survive
+336-5-6;black bear overcome aggressive attack
+336-5-7;black bear attack survival guide
+336-5-8;black bear attacks worldwide causation
+336-5-9;black bear attacks wildlife officials
+336-5-10;black bear attacks calm down
+336-6-1;black bear black bear attack
+336-6-2;black bear attack cubs
+336-6-3;black bear attack cub savage vicious
+336-6-4;vicious black bear attack territorial
+336-7-1;black bear attack fatality injury prevention wild
+336-8-1;number of savage black bear attacks
+336-8-2;black bear attacks worldwide
+337-1-1;hepatitis treatment
+337-2-1;viral hepatitis treatment
+337-3-1;viral hepatitis research progress
+337-5-1;viral hepatitis research
+337-5-2;medical procedures treating viral hepatitis new research study
+337-5-3;viral hepatitis progress treatment
+337-6-1;viral hepatitis research progress treatment
+337-7-1;viral hepatitis treatment vaccines immune third world country
+337-8-1;viral hepatitis research
+337-8-2;hepatitis treatment research
+337-8-3;new vaccines for hepatitis
+338-1-1;aspirin risks
+338-2-1;aspirin side effects
+338-3-1;adverse effects repeatedly taking aspirin
+338-5-1;aspirin adverse effects repeated use story
+338-5-2;repeated use of aspirin intestinal bleeding inflammation ulcers story
+338-5-3;repeated use aspirin harmful story
+338-6-1;aspirin repeat reaction
+338-7-1;aspirin problems daily frequent overuse bleeding inflammation ulcer adverse effect
+338-8-1;repeated use of aspirin effects
+338-8-2;frequent consumption of aspirin
+339-1-1;alzheimers disease treatment
+339-1-2;alzheimers disease medicine
+339-2-1;alzheimers disease drug treatment
+339-3-1;alzheimers treatment success stories
+339-5-1;drugs alzheimers disease success rates
+339-5-2;pharmaceutical company treating alzheimers disease successfully
+339-5-3;medicine alzheimers disease drug improvement success
+339-6-1;alzheimers disease drug success treatment
+339-7-1;alzheimers disease dementia drugs treatment success rate prognosis delay onset severity
+340-1-1;land mines eliminating problem
+340-2-1;land mine removal icbl treaty
+340-3-1;problems eliminating land mines use
+340-5-1;eliminating the use of landmines problems
+340-5-2;icbl international campaign ban landmines treaty eliminate production transfer use of land mines
+340-5-3;prevention of landmines icbl after treaty
+340-6-1;land mine landmine reduction ban
+340-7-1;landmine ban icbl killed or maimed land mine clearance remove amputee leg foot
+341-1-1;new security international flights
+341-1-2;new security international flights luggage passengers
+341-1-3;security international flights luggage passengers screening
+341-1-4;increased security flights
+341-1-5;increased screening flights
+341-1-6;new security flights
+341-1-7;additional security international flights
+341-1-8;luggage screening flights
+341-1-9;luggage screening flying
+341-1-10;flying safety screening
+341-2-1;baggage inspection and scrutiny international flights
+341-3-1;new luggage restrictions international flights
+341-3-2;terrorism international flights automated baggage screening process
+341-4-1;luggage and carry on baggage safety rules for flight travel
+341-4-2;luggage screening procedure at airports
+341-4-3;flight safety guidelines at airports
+341-5-1;screening luggage for air travel effectiveness
+341-5-2;air travel terrorism screening effectiveness
+341-5-3;preventative measures for terrorism air travel
+341-5-4;international flight transport security effectiveness
+341-5-5;screening carry on luggage for international flights
+341-5-6;additional personnel in international flight security
+341-5-7;automated screening baggage international flights
+341-5-8;whole body imaging security air travel
+341-5-9;exhaustively screening luggage international flights
+341-5-10;novel methods of screening luggage for international flights
+341-6-1;extra precautions airport security
+341-6-2;international flight security measures cutting edge
+341-6-3;cutting edge flight security
+341-6-4;flight security international extra measures precautions
+341-6-5;airport security techniques luggage
+341-6-6;airport passenger screening technology advanced
+341-7-1;travel security luggage airline international domestic flights carry on terrorism screening
+341-8-1;airport security automatic screening
+342-1-1;diplomatic status sensitive information
+342-2-1;diplomat trade secret theft
+342-3-1;diplomatic espionage
+342-5-1;diplomat accessing sensitive classified trade technology information
+342-5-2;diplomat accessing highly classified industrial projects
+342-5-3;diplomat abuse of position power sensitive highly classified information
+342-6-1;diplomatic trade secret spy diplomat
+342-7-1;diplomatic status theft illegal economic deported technology classified industrial
+343-1-1;police killed
+343-2-1;policeman deaths murdered
+343-3-1;policeman casualties
+343-5-1;civilian police officer killed in duty
+343-5-2;ex past police officer killed by association
+343-5-3;civilian police officer killed to keep from testifying
+343-6-1;civilian police officer death killed
+343-7-1;police death on duty criminal trial witness silence payback assassinate kill died
+344-1-1;wasting time on email
+344-1-2;email overload
+344-1-3;email inefficient
+344-1-4;email time sink
+344-1-5;email abuses
+344-1-6;email misuse
+344-1-7;social email
+344-1-8;private email use at work
+344-2-1;email abuse excess cost to system owner
+344-3-1;organization email users abuse
+344-4-1;group email spam
+344-4-2;group emailing abuse
+344-5-1;inappropriate use of email at work
+344-5-2;abuses of email at work
+344-5-3;employees abusing email at work
+344-5-4;opportunities for abuse of email
+344-5-5;cost to employer for email abuse
+344-5-6;email vs mail cost benefit analysis
+344-5-7;preventative measures email abuse
+344-5-8;inappropriate uses of email at school
+344-5-9;school abuses of email
+344-5-10;students abusing email at school
+344-6-1;employee abusing email
+344-6-2;email use wrong reasons
+344-6-3;email cost negative use
+344-7-1;email abuses cost excessive
+344-8-1;email abuse by employees
+345-1-1;tobacco sales outside us
+345-1-2;us tobacco companies overseas sales
+345-1-3;us tobacco sales overseas marketing health findings
+345-1-4;us tobacco sales overseas health economic factors
+345-2-1;international tobacco sales health studies cause and effect
+345-3-1;north america overseas tobacco products sales report
+345-4-1;sales of tobacco products from united states
+345-4-2;marketing strategy of united states tobacco companies
+345-4-3;health issues united states tobacco sales
+345-5-1;united states tobacco international sales health
+345-5-2;us tobacco worldwide sales decrease health factors
+345-5-3;us tobacco international profits increase decrease
+345-5-4;us tobacco international profits health advisory
+345-5-5;international profits of us companies owned by tobacco health
+345-5-6;economic effects health advisory tobacco international sales us companies
+345-5-7;united states international tobacco margins from health
+345-5-8;usa tobacco worldwide profit loss statements health factors
+345-5-9;economic factors of international tobacco sales
+345-5-10;overseas economic health factors tobacco sales
+345-6-1;usa united states tobacco import export
+345-6-2;usa united states tobacco export
+345-6-3;health usa united states tobacco
+345-6-4;government tobacco tax usa
+345-7-1;international tobacco trade costs marketing overseas foreign health dangers
+345-8-1;us tobacco detrimental to foreign health
+345-8-2;united states international tobacco sales
+346-1-1;education standards around the world
+346-2-1;international education standards pre teen
+346-3-1;pre teen education standard
+346-5-1;united states us educational standards pre teen young students
+346-5-2;countries outside of united states us standards pre teen young students
+346-5-3;national curriculum education standards pre teen young students
+346-6-1;education standards primary level countries
+346-7-1;education minimum standards pre teen children curriculum learning superior better
+346-8-1;countries standardized primary students pupils
+347-1-1;efforts to prevent extinction
+347-1-2;prevent wildlife extinction
+347-1-3;protect species
+347-1-4;prevent extinction of wildlife outside us
+347-1-5;prevent extinction of wildlife international
+347-2-1;endangered native species prevention
+347-3-1;worldwide wildlife extinction preservation
+347-4-1;wildlife extinction prevention in europe
+347-4-2;wildlife extinction prevention in australia
+347-4-3;endangered native species protection
+347-5-1;countries preventing extinction of species
+347-5-2;steps taken to save species by country
+347-5-3;preventing extinction of wildlife in europe
+347-5-4;preventing extinction of wildlife in asia
+347-5-5;preventing extinction of wildlife in africa
+347-5-6;preventing extinction of wildlife in south america
+347-5-7;preventing extinction of wildlife in oceania
+347-5-8;preventing extinction of wildlife in antarctica
+347-5-9;countries saving endangered species
+347-5-10;steps to save endangered species government
+347-6-1;wildlife extinction australia
+347-6-2;wildlife wild life extinction worldwide effort
+347-6-3;reduce extinction wildlife
+347-6-4;wildlife endangered help prevent
+347-7-1;endangered species protection extinction plan save
+347-8-1;kea new zealand extinction
+348-1-1;agoraphobia incidence
+348-2-1;agoraphobia
+348-3-1;agoraphobia
+348-5-1;agoraphobia prevalence
+348-5-2;fear of open public places common underreported
+348-5-3;agoraphobia profession occupation story
+348-5-4;coping management agoraphobia
+348-6-1;agoraphobia percent occurrence
+348-7-1;agoraphobia incidence prevalence common dealing coping
+348-8-1;is agoraphobia widespread
+349-1-1;metabolism chemical reactions produce energy
+349-2-1; catabolic anabolic reactions glycolysis krebs cycle metabolic rate
+349-3-1;metabolism
+349-5-1;chemical reactions keep living cells healthy
+349-5-2;catabolic and anabolic reactions of metabolic process
+349-5-3;glycolysis atp energy
+349-6-1;living cell chemical reaction energy production
+349-7-1;chemical reactions living cells metabolic glycolysis krebs cycle disorders
+349-8-1;mitochondria
+349-8-2;adenosine triphosphate
+349-8-3;atp cells
+350-1-1;daily computer use risks
+350-1-2;computer use problems
+350-1-3;computer physical problems
+350-1-4;computer carpal tunnel cataracts fatigue
+350-1-5;computer carpal tunnel
+350-2-1;health hazards daily computer use
+350-3-1;computer terminal health hazards
+350-4-1;physical problems caused by daily use of computer terminals
+350-4-2;eye strain or fatigue caused by using computer terminals
+350-5-1;health risks of sitting in front of a computer daily
+350-5-2;sitting in front of a computer all day health issues
+350-5-3;computer usage back problems
+350-5-4;computer usage wrist health effects
+350-5-5;computer usage costs to individual health
+350-5-6;health hazards of using a computer daily
+350-5-7;occupational health and safety computer usage daily
+350-5-8;public health advisory workers using computers daily
+350-5-9;daily computer usage reducing fatigue
+350-5-10;daily computer usage chronic fatigue
+350-6-1;posture computer desk
+350-6-2;desk job posture health issues
+350-6-3;health problems posture carpal tunnel office desk
+350-6-4;computer posture health problem
+350-6-5;computer eye problem monitor health
+350-7-1;dangers of daily computer use terminal carpal tunnel rsi fatigue overuse
+350-8-1;standing desk computer work
+351-1-1;petroleum exploration falkland islands south atlantic
+351-2-1;petroleum exploration south atlantic falkland islands
+351-3-1;falkland petroleum exploration
+351-5-1;petroleum exploration falkland islands
+351-5-2;petroleum searching south atlantic near falkland islands
+351-5-3;petroleum searching south atlantic near falkland islands argentina tensions
+351-6-1;petroleum exploration south atlantic falkland
+351-7-1;oil gas petrol petroleum exploration south atlantic falkland islands discovery resources
+352-1-1;chunnel channel tunnel impact british
+352-2-1;british chunnel
+352-3-1;impact chunnel british economy
+352-5-1;chunnel british economy
+352-5-2;britain economic impact of tunnel between france chunnel
+352-5-3;britain lifestyle changes of tunnel between france chunnel
+352-6-1;chunnel channel tunnel impact uk economy
+352-7-1;chunnel channel tunnel benefit britain lifestyle continent france
+353-1-1;antarctica scientific exploration
+353-1-2;antarctica scientific exploration current
+353-1-3;antarctica scientific exploration planned
+353-2-1;antarctic expeditions now future
+353-3-1;scientific investigation systematic exploration antarctica
+353-4-1;history of antarctic exploration and scientific investigation
+353-4-2;planned research activities about antarctica
+353-4-3;scientific experiments antarctica
+353-5-1;scientific studies performed in antarctica
+353-5-2;antarctica scientific explorations
+353-5-3;antarctica seismology research
+353-5-4;antarctica ionospheric physics research
+353-5-5;antarctica planned research studies
+353-5-6;antarctica exploration studies banned
+353-5-7;antarctica systematic investigations research
+353-5-8;antarctica studies physics research
+353-5-9;antarctica expeditions research study
+353-5-10;antarctica research observations study
+353-6-1;antarctica scientific experiment
+353-6-2;proposed antarctic experiments antarctica
+353-6-3;antarctica science scientific research experiment
+353-6-4;proposed antarctic experiment
+353-6-5;antarctica experiment science exploration
+353-7-1;antarctica exploration scientific research mining frozen continent
+353-8-1;antarctica methodical investigation science
+354-1-1;journalist at risk
+354-1-2;journalist killed arrested hostage
+354-2-1;journalist hostage arrested killed
+354-3-1;list journalists killed
+354-4-1;journalist killed in action
+354-4-2;journalist hostage situation
+354-4-3;journalist risk in a war zone
+354-5-1;journalist killed in action
+354-5-2;journalist killed at work
+354-5-3;journalist endangered at work
+354-5-4;journalist taken hostage reporting
+354-5-5;journalist arrested field work
+354-5-6;journalist kidnapped during work
+354-5-7;journalist beheaded
+354-5-8;journalist shot at work
+354-5-9;journalist executed murdered terrorism
+354-5-10;journalist tortured at work
+354-6-1;wikileaks killed source journalist
+354-6-2;whistleblower journalist risk
+354-6-3;journalist risk arrest
+354-6-4;journalist killed
+354-6-5;journalist hostage war
+354-7-1;journalist danger risk death fatality arrested hostage correspondent killed
+354-8-1;journalist in the line of fire
+355-1-1;spaceborne ocean remote sensing
+355-2-1;oceanography from space
+355-3-1;spaceborne ocean remote sensing application oceanography
+355-4-1;spaceborne ocean remote sensing
+355-4-2;satellite remote sensing in oceanography
+355-4-3;remote sensing for seabed prospecting
+355-4-4;marine science remote sensing
+355-5-1;ocean remote sensing satellites development
+355-5-2;ocean remote sensing space seabed prospecting
+355-5-3;ocean remote sensing space mining study
+355-5-4;ocean remote sensing marine science space
+355-5-5;space satellites ocean remote sensing synthetic aperture radar
+355-5-6;ocean remote sensing space synthetic aperture radar
+355-5-7;ocean remote sensing space sar applications
+355-5-8;ocean remote sensing satellites sar
+355-5-9;ocean remote sensing oceanography space satellite
+355-5-10;spaceborne ocean remote sensing
+355-6-1;satellite remote sensing ocean
+355-6-2;ocean remote sensing space
+355-6-3;ocean trench remote sensing space satellite
+355-6-4;ocean topography satellite space remote sensing
+355-6-5;ocean topography satellite space
+355-7-1;oceanic remote sensing satellite marine synthetic aperture seabed orbit
+355-8-1;marine remote sensing wildlife
+356-1-1;use of estrogen postmenopausal women britain
+356-1-2;use of oestrogen postmenopausal women britain
+356-2-1;estrogen use by postmenopausal women
+356-3-1;hormone replacement therapy uk
+356-4-1;estrogen therapy for postmenopausal women in united kingdom
+356-4-2;estrogen therapy for postmenopausal women in britain
+356-4-3;estrogen suppressing drugs in united kingdom
+356-5-1;estrogen by postmenopausal women in britain
+356-5-2;estrogen by postmenopausal women in uk
+356-5-3;estrogen by postmenopausal women in united kingdom
+356-5-4;estrogen by postmenopausal women marketing in britain
+356-5-5;estrogen by postmenopausal women marketing in britain
+356-5-6;estrogen by postmenopausal women development in britain
+356-5-7;estrogen by postmenopausal women marketing in uk
+356-5-8;estrogen by postmenopausal women hormone replacement in united kingdom
+356-5-9;estrogen by postmenopausal women hormone replacement in britain
+356-5-10;estrogen suppressing drugs postmenopausal women britain
+356-6-1;estrogen women britain uk united kingdom
+356-6-2;menopause women uk united kingdom estrogen
+356-6-3;hormone replacement uk united kingdom women
+356-6-4;united kingdom estrogen postmenopause
+356-7-1;britain uk united kingdom england menopausal estrogen oestrogen postmenopausal hrt hormone replacement therapy
+356-8-1;britain after menopause hormone supplement
+357-1-1;international boundary disputes international convention on the law of the sea
+357-2-1;international convention on the law of the sea boundary disputes
+357-3-1;international boundary disputes
+357-5-1;international convention on the law of the sea
+357-5-2;international boundary disputes 200 mile special economic zones international convention on the law of the sea
+357-5-3;international boundary disputes 12 mile territorial waters international convention on the law of the sea
+357-6-1;international boundary border dispute 12 mile territorial waters 200 mile special economic zone
+357-7-1;boundary marine resource 200 mile economic zone territorial waters convention
+358-1-1;car accidents blood alcohol level
+358-2-1;drunk driving fatalities blood alcohol level
+358-3-1;blood alcohol level correlation traffic accident
+358-5-1;blood alcohol level car fatalities
+358-5-2;automobile accidents blood alcohol level bac of the driver
+358-5-3;automobile accidents blood alcohol level likelihood probability crash
+358-6-1;bac blood alcohol level content car fatalities rate
+358-6-2;drink driving bac fatal
+358-7-1;intoxication under influence blood alcohol excess death fatality crash accident manslaughter alcohol booze
+359-1-1;mutual fund performance predictors
+359-2-1;mutual fund performance predictors
+359-3-1;mutual fund performance predictors
+359-5-1;mutual fund performance metrics
+359-5-2;mutual fund performance reliable indicators of future performance
+359-5-3;mutual fund performance reliable indicators
+359-6-1;mutual fund performance prediction reliable
+359-7-1;predictors mutual fund performance leading trailing outperform invest manage aggressive
+360-1-1;drug legalization benefits
+360-2-1;drug legalization benefits
+360-3-1;drug legalization
+360-5-1;drug legalization positives
+360-5-2;drug legalization reduction in overdoses injection centers
+360-5-3;drug legalization drug users avoid contact violent drug dealers
+360-5-4;drug legalization purity of drugs regulated avoiding harmful impurities
+360-5-5;drug legalization results in declining use addicts given support treatment public health issue
+360-6-1;drug legalization benefit positive
+360-7-1;drug legalization benefit crime reduction
+361-1-1;clothing sweatshops
+361-2-1;clothing sweatshop
+361-3-1;clothing sweatshops
+361-5-1;clothing sweatshops
+361-5-2;clothing sweatshops working conditions salary countries
+361-5-3;clothing sweatshop trade global asia africa
+361-6-1;sweatshop clothing
+361-7-1;clothing sweatshop sweat shop designer label ethical underpaid underage
+362-1-1;human smuggling incidents
+362-1-2;monetary gain human smuggling
+362-1-3;monetary gain human smuggling large groups
+362-2-1;human smuggling
+362-3-1;human trafficking
+362-4-1;human smuggling and trafficking incidents
+362-5-1;human smuggling operations
+362-5-2;human smuggling operations economic structures
+362-5-3;human trafficking incidents smugglers money
+362-5-4;human trafficking caught economic gain
+362-5-5;human trafficking incidents worldwide
+362-5-6;humans smuggled by ship boat
+362-5-7;humans smuggled trapped in bus
+362-5-8;human smuggling money incident
+362-5-9;human smuggled across border incident
+362-5-10;human smuggling border control incidents
+362-6-1;people smuggling cases
+362-6-2;people smuggling examples
+362-6-3;human trafficking cases
+362-6-4;human trafficking examples
+362-6-5;human trafficking occurrence
+362-6-6;modern day slavery trafficking
+362-7-1;human smuggling people smuggler profit boat trafficker
+362-8-1;boat smugglers pirate
+362-8-2;people smuggling trade
+363-1-1;transportation tunnel disasters
+363-2-1;tunnel disasters trains cars automobiles
+363-3-1;transportation tunnel disaster
+363-4-1;train tunnel disasters
+363-4-2;motorway tunnel disasters
+363-4-3;train or passenger tunnel accidents
+363-5-1;tunnel construction disasters
+363-5-2;tunnel trains collapsing transport link
+363-5-3;tunnel disaster killing workers transport
+363-5-4;tunnel natural disaster threatening lives travel
+363-5-5;tunnel disaster killing workers driving
+363-5-6;tunnel disaster killing commuters train
+363-5-7;tunnel fire endangering lives transport
+363-5-8;tunnel derailed train trapped people
+363-5-9;tunnel collapse trapped drivers people
+363-5-10;tunnel disaster injuries sustained transporting
+363-6-1;transportation tunnel collapse
+363-6-2;tunnel transport accident fatal
+363-6-3;disaster tunnel transport
+363-6-4;train tunnel disaster
+363-6-5;car crash tunnel accident
+363-7-1;tunnel disasters fire earthquake flood death underground train car
+363-8-1;transport tunnel disaster
+363-8-2;channel tunnel construction collapse
+363-8-3;metro tunnel construction accident
+364-1-1;rabies cases
+364-2-1;human rabies
+364-3-1;rabies
+364-5-1;rabies confirmed
+364-5-2;rabies containment strategy after confirmation
+364-5-3;rabies corrective measures to control spread of disease
+364-6-1;rabies examples confirmed prevention
+364-7-1;rabies attack bite incidence recovery treatment rabid animal
+365-1-1;el nino effects
+365-2-1;el nino effects
+365-3-1;el nino
+365-5-1;el nino effects
+365-5-2;el nino effects flooding
+365-5-3;el nino effects droughts
+365-5-4;el nino effects global warming climate change
+365-6-1;el nino impact
+365-7-1;el nino weather warming storm rain wind temperature ocean flood drought
+366-1-1;cyanide industrial commercial uses
+366-2-1;cyanide commercial industrial applications
+366-3-1;cyanide
+366-5-1;industrial commercial cyanide
+366-5-2;cyanide rich waste from industry
+366-5-3;toxic cyanide needed in which industries
+366-6-1;cyanide industrial commercial use
+366-7-1;cyanide uses industry gold mining
+367-1-1;piracy
+367-1-2;boat piracy
+367-2-1;boat piracy
+367-3-1;modern instances piracy
+367-4-1;piracy incidents near africa
+367-4-2;pirates take over or board ships
+367-4-3;international piracy report
+367-5-1;ships being taken over modern pirates
+367-5-2;pirates taking over ships in recent times
+367-5-3;pirates boarding ships piracy worldwide 2000s
+367-5-4;unauthorized boarding of ships in recent times
+367-5-5;taking over ships in recent times pirates
+367-5-6;piracy in the modern era
+367-5-7;stealing and taking over ships modern day pirates
+367-5-8;pirates taking over ships modern
+367-5-9;fishing vessel boarded by pirates 2000s
+367-5-10;vessels boarded by pirates modern
+367-6-1;pirate ship 21st century
+367-6-2;boarded ship pirate
+367-6-3;somali pirates sea
+367-6-4;modern instance pirates piracy sea
+367-7-1;pirate piracy ocean boat ship murder hostage boarding
+367-8-1;coastal pirates crime takeover
+367-8-2;sea pirates crime takeover
+367-8-3;crime at sea
+367-8-4;pirates destroyed boat
+367-8-5;pirate smugglers board
+368-1-1;in vitro fertilization
+368-2-1;in vitro fertilization
+368-3-1;in vitro fertilization
+368-3-2;ivf
+368-5-1;in vitro fertilization
+368-5-2;in vitro fertilization sperm egg artificial environment
+368-5-3;in vitro fertilization freezing eggs sperm embryos
+368-6-1;in vitro fertilization ivf explained
+368-7-1;in vitro in vitro sperm egg ova frozen artificial embryo fertilization
+369-1-1;anorexia nervosa bulimia
+369-2-1;anorexia nervosa bulimia causes treatments
+369-3-1;anorexia nervosa bulimia
+369-5-1;anorexia nervosa bulimia causes
+369-5-2;anorexia nervosa bulimia treatments
+369-5-3;anorexia nervosa bulimia causes laxatives self induced vomiting excessive exercise
+369-6-1;anorexia bulimia eating disorder cause treatment
+369-7-1;causes and treatments of anorexia nervosa and bulimia vomiting laxatives exercise weight illness
+370-1-1;laws quality processing food beverages drugs
+370-2-1;food beverage drug processing laws
+370-3-1;food processing
+370-5-1;food beverages drugs quality safety
+370-5-2;fda usa food beverages drugs
+370-5-3;laws quality control usa fda us additives preservatives
+370-5-4;laws quality control usa fda us impurities poisonous substances
+370-5-5;laws quality control usa fda us spoilage prevention
+370-5-6;laws quality control usa fda us nutritional enrichment
+370-5-7;laws quality control usa fda us grading meat vegetables
+370-6-1;food beverage drug quality processing laws and regulations
+371-1-1;health insurance coverage holistic non traditional medicine treatments
+371-2-1;health insurance coverage acupuncture non traditional medicine treatments
+371-3-1;health insurance coverage
+371-5-1;health insurance non traditional medicine
+371-5-2;health insurance coverage of unproven medical treatments acupuncture
+371-5-3;health insurance coverage of natural therapies
+371-6-1;health insurance cover alternative medicine
+371-7-1;health insurance coverage of alternative medicines therapies preventative wellness
+372-1-1;native american casino gambling
+372-1-2;native american casino gambling social implications
+372-2-1;native american casino gambling growth
+372-3-1;socio economic impact of native american casinos
+372-4-1;growth of indian tribe casino
+372-4-2;tribe casino gambling
+372-4-3;native american casino gambling
+372-5-1;native american casino gambling
+372-5-2;native american casino gambling social implications
+372-5-3;native american casino gambling effects on economies
+372-5-4;native american casino gambling legal issues tribal autonomy
+372-5-5;indigenous peoples of america casino gambling
+372-5-6;indigenous peoples of america casino gambling social issues
+372-5-7;indigenous peoples of america casino gambling effects on economies
+372-5-8;indigenous peoples of america casino gambling legal issues tribal autonomy
+372-5-9;indigenous americans casino gambling issues
+372-5-10;indigenous americans casino gambling destruction of community
+372-6-1;native american casino gamble impact
+372-7-1;native american gambling casino reservation tribal land first nation
+372-8-1;casino gambling native american legal
+372-8-2;casino gambling apache
+372-8-3;cherokee gambling growth
+372-8-4;social issues casino gambling native american
+373-1-1;us export encryption concerns
+373-2-1;export concerns encryption hardware
+373-3-1;encryption equipment export concern
+373-5-1;united states encryption export concerns commercial exploitation
+373-5-2;united states us encryption exportation commercial exploitation
+373-5-3;united states us encryption breaking ciphers counter intelligence anti crime
+373-5-4;united states us hacking weakness in encryption counter intelligence anti crime
+373-6-1;usa united states export encryption equipment device
+374-1-1;nobel prize winners
+374-2-1;nobel prize winner biography
+374-3-1;list nobel prize winners
+374-5-1;background nobel prize winners
+374-5-2;nobel prize field of study name year
+374-5-3;nobel prize winners year of award field of study early career
+374-5-4;nobel prize winners year of award field of study motivation for work
+374-6-1;nobel prize winner list
+375-1-1;hydrogen energy source
+375-2-1;hydrogen as an energy source
+375-3-1;research hydrogen fuel
+375-4-1;hydrogen fusion fuel research
+375-5-1;hydrogen energy research status
+375-5-2;hydrogen energy controlled fusion
+375-5-3;hydrogen energy powering engines
+375-5-4;hydrogen energy safety feasibility
+375-5-5;hydrogen energy source cars
+375-5-6;hydrogen energy powering transport
+375-5-7;hydrogen energy safety concerns
+375-5-8;hydrogen energy feasibility analysis
+375-5-9;hydrogen energy recent research feasibility power engines
+375-5-10;hydrogen energy progress 2017
+375-6-1;hydrogen energy source research
+375-7-1;hydrogen powered car energy fusion fuel water safe
+375-8-1;hydrogen fusion research
+375-8-2;hydrogen fission fusion energy source
+375-8-3;hydrogen fusion energy source
+375-8-4;research controlling hydrogen energy source
+376-1-1;international court of justice cases
+376-2-1;world court international court of justice case types
+376-3-1;international court of justice mandate
+376-3-2;international court of justice case types
+376-3-3;international court of justice case studies
+376-5-1;international court of justice cases
+376-5-2;world court international court of justice cases
+376-5-3;world court international court of justice cases war tribunals
+376-6-1;world court international court of justice icj what cases
+377-1-1;cigar smoking popularity
+377-2-1;renewed interest cigar smoking
+377-3-1;cigar smoking
+377-5-1;cigar smoking popularity on the rise
+377-5-2;cigar smoking popularity increased economic social issues
+377-5-3;cigar smoking popularity increased cigar nights cigar rooms
+377-5-4;cigar smoking popularity increased actors smoking cigars in movies productions
+377-6-1;cigar smoking popularity spike
+378-1-1;euro opposition
+378-1-2;euro currency dislike
+378-1-3;eurosceptic
+378-2-1;euro currency opposition
+378-3-1;euro opposition
+378-4-1;opposition to the use of euro
+378-4-2;currency policy against the use of euro
+378-5-1;opposition to the european currency
+378-5-2;countries that oppose the euro
+378-5-3;countries that do not like the euro reasons
+378-5-4;european currency criticism
+378-5-5;retaliation to the use of the euro currency
+378-5-6;euro currency opposition
+378-5-7;euro currency countries disliking its use
+378-5-8;euro currency outcry
+378-5-9;euro currency backlash
+378-5-10;euro currency dismantle
+378-6-1;euro currency opposition why
+378-7-1;euro currency opposition european union monetary shared economy
+378-8-1;alternative euro currency
+379-1-1;mainstreaming impaired children
+379-1-2;mainstreaming children physical mental impairments
+379-2-1;mainstreaming handicapped children
+379-3-1;children impairment school support
+379-4-1;mainstreaming children with physical or mental impairment
+379-4-2;mainstreaming children pros and cons
+379-4-3;educational study on mainstreaming impaired children
+379-5-1;placing disabled children in normal schools
+379-5-2;placing mentally impaired students in normal schools
+379-5-3;mentally disabled students in public schools
+379-5-4;mentally handicapped in public schools attitude beliefs
+379-5-5;physically disabled children public schooling
+379-5-6;pros and cons mainstreaming children with impairments
+379-5-7;children with special needs in public schools
+379-5-8;normal schools with children of special needs
+379-5-9;attitudes and beliefs of teachers and school administrators working with disabled children
+379-5-10;children with disability in public schooling
+379-6-1;special needs mainstream school education
+379-7-1;disability impairment mainstreaming home schooling intellectual physical teachers schools normal children parents
+379-8-1;mainstream school issues children with disability
+379-8-2;educational sector to incorporate children with physical mental impairments
+380-1-1;obesity medical treatment
+380-2-1;medical treatments for obesity
+380-3-1;obesity treatment
+380-5-1;medical treatment of obesity
+380-5-2;treatment of obesity prescribed medications
+380-5-3;treatment of obesity treatments tummy tuck positive effects
+380-6-1;obesity treatment medical
+380-7-1;obesity morbid treatment management side effects dangers
+381-1-1;alternative medicine success
+381-1-2;alternative medicine effectiveness
+381-2-1;alternative medicine treatment success
+381-3-1;alternative medicine
+381-5-1;alternative medicine illnesses diseases success rates
+381-5-2;alternative medicine treatment disease success rate
+381-5-3;alternative medicine treatment cancer psychology stress
+381-6-1;alternative medicine success
+382-1-1;hydrogen cars
+382-2-1;hydrogen fuel piston driven automobiles hydrogen fuel cells
+382-3-1;hydrogen fuel
+382-5-1;hydrogen fuel piston cars safety
+382-5-2;hydrogen fuel safe storage in vehicle car
+382-5-3;hydrogen fuel cells generating electricity to drive car
+382-6-1;hydrogen fuel car
+382-7-1;hydrogen automotive engine safety fuel cell car energy future
+383-1-1;mental illness drugs
+383-1-2;mental illness medicine
+383-2-1;mental illness medication
+383-3-1;mental illness treatment drugs
+383-5-1;mental illness drugs
+383-5-2;drugs used to treat depression
+383-5-3;drugs used to treat anxiety
+383-5-4;drugs used to treat schizophrenia
+383-5-5;drugs used to treat psychosis
+383-5-6;drugs used to treat ptsd post traumatic stress disorder
+383-6-1;mental illness drug depression
+383-7-1;drugs used to treat mental illness health medication
+384-1-1;space station moon colonization
+384-2-1;space station moon colonization
+384-3-1;colonizing moon
+384-5-1;space station colonizing moon
+384-5-2;plans to colonize moon
+384-5-3;reasons for moon colonization delayed
+384-5-4;planning stage underway to colonize moon
+384-5-5;countries committing resources to establish moon base
+384-6-1;moon colony space base
+385-1-1;hybrid car engines
+385-2-1;hybrid automobiles
+385-2-2;hybrid cars
+385-3-1;hybrid cars
+385-5-1;hybrid car engines
+385-5-2;current status of hybrid automotive automobile car engines
+385-5-3;current status of hybrid automotive automobile car methanol engines
+385-5-4;current status of hybrid automotive automobile car alcohol engines
+385-5-5;current status of hybrid automotive automobile car hydrogen engines
+385-5-6;current status of hybrid automotive automobile car engines cost to consumer
+385-5-7;hybrid automotive automobile car health benefits
+385-5-8;hybrid automotive automobile car shortcomings in passenger comfort
+385-5-9;current status of hybrid automotive automobile car engines research study
+385-5-10;current status of hybrid automotive automobile car engines research study progress
+385-6-1;hybrid car engine status
+386-1-1;teaching disabled children
+386-2-1;tools for teaching disabled children
+386-3-1;current special need methods
+386-5-1;new methods of teaching of disabled children
+386-5-2;teaching of disabled children new pedagogy methodology
+386-5-3;teaching of mentally challenged children new pedagogy methodology
+386-5-4;teaching of physically disabled children new pedagogy methodology
+386-6-1;disabled children teaching method
+387-1-1;radioactive waste handling
+387-2-1;effective handling of radioactive waste
+387-3-1;radioactive wastes
+387-5-1;radioactive waste safe handling
+387-5-2;radioactive waste safe handling incineration
+387-5-3;radioactive waste safe handling cementation
+387-5-4;radioactive waste safe handling bitumenization
+387-5-5;radioactive waste safe handling vitrification
+387-5-6;radioactive waste safe handling underground nuclear explosion
+387-6-1;radioactive waste management techniques
+388-1-1;organic fertilizers
+388-2-1;organic fertilizer
+388-3-1;organic fertilizers
+388-5-1;organic safe fertilizers soil enhancers
+388-5-2;composted sludge organic fertilizers safe soil enhancers
+388-5-3;soil enhancement organic safe fertilizers
+388-5-4;ash vegetable waste organic fertilizers safe soil enhancers
+388-5-5;microorganisms organic fertilizers safe soil enhancers
+388-6-1;compost soil enhancer organic fertilizer
+389-1-1;illegal technology transfer
+389-2-1;illegal technology transfer international
+389-3-1;technology espionage
+389-4-1;accusation of illegal technology transfer
+389-4-2;illegal transfer of military technologies or weapons
+389-5-1;illegal hostile documents sold overseas
+389-5-2;illegal technology sold by company overseas
+389-5-3;illegal technology sold overseas
+389-5-4;illegal products sold to overseas government
+389-5-5;illegal formulas sold to overseas person
+389-5-6;illegal technology sold to overseas buyers
+389-5-7;leaked documents sold to overseas governments
+389-5-8;classified documents sold to overseas companies
+389-5-9;classified documents sold to overseas governments
+389-5-10;top secret documents sold to overseas governments
+389-6-1;illegal technology transfer corruption
+389-7-1;illegal espionage technology transfer embargo boycott sale intellectual property
+389-8-1;cryptography export control
+389-8-2;des nsa export control
+389-8-3;crypto wars
+390-1-1;orphan drugs
+390-2-1;orphan drug act
+390-3-1;orphan drugs
+390-5-1;orphan drugs few people
+390-5-2;drugs treating diseases affecting few people orphan drugs
+390-5-3;orphan drug act orphan diseases conditions
+390-5-4;orphan drug act orphan diseases conditions handled by countries outside us
+390-6-1;orphan drug issues
+391-1-1;rd price of drugs
+391-2-1;research and development drug costs
+391-3-1;drugs price research
+391-5-1;research development price of drugs
+391-5-2;research development pharmaceuticals aspects affecting cost
+391-5-3;research development pharmaceuticals cost of making drug
+391-5-4;research development pharmaceuticals cost of producing drug at scale
+391-6-1;drug price r and d research and development
+392-1-1;robotics applications
+392-2-1;current applications of robotics
+392-3-1;robotics
+392-5-1;robotics applications currently
+392-5-2;robotics applications used in the automotive automobile car industry
+392-5-3;robotics applications used in the construction industry
+392-5-4;robotics applications used in the food industry
+392-5-5;robotics applications used in the hospitality industry
+392-5-6;robotics applications used in every home
+392-6-1;robotics application use
+393-1-1;mercy killings
+393-1-2;euthanasia
+393-2-1;mercy killing
+393-3-1;mercy killing
+393-4-1;mercy killing legal status
+393-4-2;mercy killing in europe
+393-4-3;mercy killing in united states
+393-4-4;mercy killing in australia
+393-5-1;mercy killings discussion
+393-5-2;mercy killings arguments for and against
+393-5-3;mercy killings
+393-5-4;mercy killings case studies
+393-5-5;mercy killings euthanasia
+393-5-6;voluntary euthanasia
+393-5-7;euthanasia debates worldwide
+393-5-8;mercy killings euthanasia debates
+393-5-9;mercy killings morality
+393-5-10;euthanasia legal issues
+393-6-1;mercy killing euthanasia
+393-7-1;mercy killing life support euthanasia terminal illness choice
+393-8-1;euthanasia life support
+393-8-2;mercy killing rise
+393-8-3;mercy killing report
+394-1-1;homeschooling
+394-1-2;education at home
+394-2-1;home schooling quality of education
+394-3-1;homeschooling
+394-4-1;homeschooling methodologies
+394-4-2;home schooling program and reported successes
+394-4-3;social aspect of homeschooling
+394-5-1;home schooling children
+394-5-2;homeschooling outcomes
+394-5-3;educating a child at home
+394-5-4;homeschooling programs disadvantaged children
+394-5-5;home schooling rural children
+394-5-6;mobile vehicle classrooms home schooling
+394-5-7;home schooling disadvantaged children
+394-5-8;homeschooling statistics
+394-5-9;homeschooling worldwide
+394-5-10;homeschooling socialisation
+394-6-1;home schooling benefit pro con
+394-7-1;homeschooling children education
+394-8-1;home schooling study
+394-8-2;home school statistics
+394-8-3;school of life report
+395-1-1;attract tourism to boost economy
+395-2-1;attract tourism to improve local economy
+395-3-1;tourism success stories
+395-5-1;attracting tourism
+395-5-2;tourist traps improve local economy
+395-5-3;tourism attempt improves local economy
+395-6-1;increase tourism economy boost
+395-7-1;tourism boost enhancement policy increase visitors year on year
+396-1-1;sick building syndrome
+396-2-1;building related illnesses
+396-2-2;sick building syndrome
+396-2-3;asbestos
+396-3-1;sick building syndrome
+396-5-1;sick building syndrome
+396-5-2;building related illnesses
+396-5-3;air conditioning sickness
+396-5-4;pollution controls inside of buildings
+396-6-1;sick building syndrome asbestos
+397-1-1;automobile recalls
+397-2-1;automobile recall reason
+397-3-1;automobile recall
+397-4-1;car manufacturer recalls
+397-4-2;car company recalls
+397-4-3;major incident behind car or vehicle recalls
+397-5-1;car recalls
+397-5-2;automobile recalls
+397-5-3;car recalls by manufacturer
+397-5-4;car recalls by company
+397-5-5;car recalls worldwide
+397-5-6;reasons for car recalls
+397-5-7;reasons for automotive recalls
+397-5-8;reasons for automobile recalls
+397-5-9;urgent recalls by car manufacturer
+397-5-10;typical reasons for car recalls
+397-6-1;car van recall defect
+397-7-1;automobile recalls car manufacturer car faults repair fix
+397-8-1;recalls of car models
+397-8-2;vehicle recall malfunction
+397-8-3;automobile recall malfunction
+398-2-1;european conventional arms cut dismantling europes arsenal
+398-3-1;european conventional arms cut
+398-5-1;european conventional arms cut
+398-5-2;reducing forces in europe cfe european conventional arms cut
+398-5-3;number of weapons reduced european conventional arms cut
+398-5-4;number of soldiers retrenched european conventional arms cut
+398-5-5;numbers of reductions made by warsaw pact european conventional arms cut
+398-5-6;numbers of reductions made by nato european conventional arms cut
+398-6-1;european conventional arms cut warsaw pact nato
+399-1-1;oceanographic vessels
+399-1-2;oceanographic vessels activities equipment
+399-2-1;oceanography boat ship vessel equipment activities
+399-3-1;oceanographic vessel
+399-4-1;oceanographic vessels for sea mapping
+399-4-2;equipment used on oceanographic vessels
+399-4-3;survey ship for oceanographic research
+399-5-1;drones in ocean undersea mapping
+399-5-2;unmanned deep sea robots exploration
+399-5-3;drones oceanographic vessel monitoring
+399-5-4;unmanned deep sea sunken ships
+399-5-5;unmanned deep sea global warming observations
+399-5-6;vessels monitoring global warming in the ocean
+399-5-7;robots in the ocean monitoring global warming
+399-5-8;robots in the ocean shipwrecks
+399-5-9;robots mapping the ocean floor
+399-5-10;robot research and development ocean exploration
+399-6-1;oceanographic vessel equipment
+399-7-1;oceanographic vessels research mapping robots underwater submersible survey marine environmental
+399-8-1;oceanography research field equipment
+399-8-2;undersea mapping vessels
+400-1-1;amazon rainforest preservation
+400-1-2;amazon rainforest preservation south american authorities
+400-2-1;amazon rainforest preservation measures
+400-3-1;amazon conservation
+400-4-1;amazon rainforest preservation local organization
+400-4-2;brazil government effort to preserve amazon rainforest
+400-5-1;preserving the amazon tropical rainforest
+400-5-2;preserving the amazon tropical rainforest authorities organizations
+400-5-3;preserving the amazon tropical rainforest official institutions
+400-5-4;preserving the amazon tropical rainforest government policy
+400-5-5;preserving the amazon tropical rainforest government assistance
+400-5-6;amazon tropical rainforest preservation south american government
+400-5-7;south american government assistance amazon rainforest
+400-5-8;success in preserving amazon tropical rainforest south american governments
+400-5-9;study amazon tropical rainforest south american government assistance
+400-5-10;organizations individuals countries amazon tropical rainforest preservation
+400-6-1;amazon rainforest preservation action
+400-7-1;amazon rainforest natives protection tropical indigenous
+400-8-1;amazon forest preservation
+400-8-2;amazon rainforest preservation initiative authorities
+400-8-3;local authorities protection amazon forest
+401-1-1;integration foreign minorities germany
+401-2-1;foreign minorities germany integration issues
+401-3-1;germany foreign minority integration
+401-4-1;language cultural differences immigrants in germany
+401-5-1;foreign minorities in germany cultural language issues
+401-5-2;foreign minorities in germany immigration difficulties causes reasons
+401-5-3;foreign minorities in germany immigration difficulties integration
+401-6-1;language culture foreign minority germany
+402-1-1;behavioral genetics impact behavior personality
+402-2-1;behavioral genetics human personality
+402-3-1;behavioral genetics
+402-4-1;genetic and environmental factors behavioral studies personality
+402-5-1;behavioral genetics research behavior personality
+402-5-2;behavioral genetics substance abuse
+402-5-3;behavioral genetics detecting disposition towards addictive behavior
+402-5-4;behavioral genetics genetic disorders add attention deficit disorder
+402-6-1;behavioural genetics research
+403-1-1;osteoporosis diet potassium magnesium fruits vegetables bone mineral density
+403-1-2;osteoporosis
+403-2-1;effects of the dietary intakes of potassium magnesium and fruits and vegetables as determinants of bone mineral density in elderly men and women thus preventing osteoporosis bone decay
+403-3-1;osteoporosis
+403-4-1;dietary intakes of potassium osteoporosis prevention
+403-5-1;potassium magnesium fruits vegetables bone mineral density osteoporosis
+403-5-2;fruits and vegetables preventing osteoporosis in elderly
+403-5-3;diet nutrition preventing osteoporosis
+403-6-1;osteoporosis prevention potassium magnesium bone mineral density
+404-1-1;ireland peace talks
+404-1-2;ireland peace talks delays
+404-1-3;ireland peace talks disruptions
+404-2-1;ireland peace talk delay violence bombing
+404-3-1;northern ireland peace talk delay
+404-4-1;peace talk disruption in ireland
+404-4-2;ireland peach talk interruption
+404-5-1;peace talks delayed ireland violence
+404-5-2;peace talks delayed ireland violent acts
+404-5-3;number of times peace talks delayed ireland due to violence
+404-5-4;peace talks disrupted ireland violence
+404-5-5;ireland violence disrupted peace talks
+404-5-6;ireland peace talks stopped due to violence how many times
+404-5-7;ireland peace talks halted by violence
+404-5-8;ireland peace process disturbed violence
+404-5-9;ireland peace process delayed violence
+404-5-10;north ireland peace process delayed violence
+404-6-1;ireland peace talk delay disrupt violence
+404-7-1;ireland peace talks disruption broken off violence attack threat fighter ira republican army british ulster
+404-8-1;peace talks ireland violence
+404-8-2;peace talks ireland violent disruption
+404-8-3;peace talks ireland halt siege
+404-8-4;peace talks ireland savage attacks
+405-1-1;unexpected cosmic event radiation supernova outburst new comet
+405-1-2;unexpected cosmic event
+405-2-1;unexpected or unexplained cosmic events or celestial phenomena such as radiation and supernova outbursts or new comets
+405-3-1;cosmic events
+405-3-2;celestial phenomena
+405-4-1;celestial phenomena detection radiation supernova outbursts comets
+405-5-1;unexpected unexplained cosmic events radiation supernova
+405-5-2;cosmic events detected unexplained bewildering bemusing phenomena
+405-5-3;supernova observation unexplained unexpected
+405-6-1;unexplained cosmic celestial event
+405-8-1;cosmic detection of unexplained events
+406-1-1;parkinsons disease treatment
+406-2-1;parkinsons disease
+406-3-1;parkinson treatment
+406-4-1;parkinson disease treatment drugs
+406-5-1;parkinsons disease treatments
+406-5-2;managing the onset development parkinsons disease
+406-5-3;studies drugs programs patient care parkinsons disease success rates
+406-6-1;parkinsons disease treatement
+406-8-1;parkinsons disease treatment
+406-8-2;parkinsons quality of life
+407-1-1;poaching wildlife preserves impact
+407-2-1;poaching wildlife preserves effects
+407-3-1;poaching impact wildlife preserve
+407-4-1;impact of poaching wildlife reserves
+407-5-1;poaching wildlife preserves
+407-5-2;impact of poaching on a preserve
+407-5-3;impact of poaching on a preserve save elephants
+407-5-4;impact of poaching on a preserve save turtles
+407-6-1;wildlife poaching impact
+407-8-1;preserves wildlife poaching affect
+408-1-1;tropical storms
+408-1-2;tropical storm hurricane typhoon property damage life loss
+408-2-1;tropical storm hurricane typhoon damage death
+408-3-1;effects of tropical cyclones
+408-4-1;damage caused by hurricanes
+408-4-2;damage caused by typhoons
+408-5-1;tropical storms hurricanes property damage
+408-5-2;tropical storms typhoons property damage
+408-5-3;tropical storms hurricanes death
+408-5-4;tropical storms typhoons death
+408-5-5;tropical storms death by region
+408-5-6;tropical storms property damage region
+408-5-7;tropical storms death by city
+408-5-8;tropical storms property damage by city
+408-5-9;tropical storms death by state
+408-5-10;tropical storms property damage by state
+408-6-1;hurricane typhoon worst list
+408-6-2;worst tropical storms list
+408-7-1;cyclone hurricane typhoon damage casualty fatality death
+408-8-1;small hurricane major damage
+408-8-2;typhoon deaths worldwide
+408-8-3;typhoon kills stranded
+408-8-4;dead people cyclone
+409-1-1;legal actions pan am 103 lockerbie 1988
+409-2-1;pan am flight 103 legal
+409-3-1;lockerbie legal actions
+409-4-1;legal action destruction of pan am flight 103
+409-4-2;destruction of pan am flight over scotland 1988
+409-5-1;pan am flight 103 lockerbie scotland legal actions
+409-5-2;pan am flight 103 lockerbie scotland legal charges claims
+409-5-3;pan am flight 103 lockerbie scotland legal fines imposed
+409-6-1;pan am flight 103 scotland legal
+409-8-1;legal pan am flight 103
+409-8-2;legal action lockerbie pan am flight 103
+410-1-1;schengen agreement border controls
+410-2-1;schengen agreement
+410-3-1;schengen agreement
+410-4-1;schengen agreement western europe border control visa insurance
+410-5-1;schengen agreement signatures
+410-5-2;schengen border controls which countries involved
+410-5-3;schengen border controls aspirations
+410-6-1;schengen agreement reason who why
+411-1-1;shipwreck salvaging
+411-2-1;shipwreck treasure
+411-3-1;shipwreck
+411-4-1;shipwreck salvaging sunken ships treasure discovery
+411-5-1;shipwreck salvaging recovery treasure sunken ships
+411-5-2;diving to salvage treasure from ships
+411-5-3;maritime finders keepers ship salvaging treasure shipwreck
+411-6-1;shipwreck salvage treasure recovery
+412-1-1;airport security
+412-2-1;airport security
+412-3-1;airport measures
+412-4-1;airport security measures guideline regulation
+412-5-1;airport security measures in place
+412-5-2;airport security measures proposed in airports
+412-5-3;airport security measures proposed in airports cause of tragedy
+412-5-4;airport security measures proposed in airports effectiveness of security
+412-5-5;airport security measures proposed in airports training of staff
+412-6-1;security measures airport
+413-1-1;new steel production methods
+413-2-1;steel production methodology
+413-3-1;new steel production methods
+413-4-1;new steel production method
+413-4-2;mini mills for steel production
+413-5-1;producing steel new methods
+413-5-2;new methods of producing steel minimills blast furnace method entrepreneurs companies
+413-5-3;new methods of producing steel minimills blast furnace method success failures problems solutions criticism
+413-6-1;steel production methods mini mill
+414-1-1;cuba sugar exports
+414-2-1;cuba sugar exports partners
+414-3-1;cuba sugar export
+414-4-1;sugar import from cuba
+414-5-1;cuba sugar export quantities
+414-5-2;importing cuban sugar
+414-5-3;cuban sugar importers
+414-5-4;cuba sugar industry exports per year
+414-5-5;cuban exports from sugar industry
+414-5-6;how much sugar does cuba export
+414-5-7;cuba exports large sugar quantities
+414-5-8;pounds of sugar exported by cuba
+414-5-9;tonnes of sugar imported by cuba
+414-5-10;tonnes of sugar exported by cuba
+414-6-1;cuba sugar export
+414-7-1;cuba sugar imports exports country of origin trade
+414-8-1;cuban sugar exports year
+414-8-2;amount of sugar exported by cuba
+414-8-3;cuba sugar import south america
+414-8-4;cuba sugar import russia
+415-1-1;drug trafficking golden triangle
+415-2-1;golden triangle drug trafficking
+415-3-1;drug trafficking
+415-3-2;golden triangle drug trafficking
+415-4-1;drug trafficking burma thailand laos golden triangle
+415-4-2;drug issue golden triangle
+415-5-1;drug trafficking golden triangle burma thailand laos
+415-5-2;drug trafficking international organised crime groups golden triangle
+415-5-3;drug trafficking international organised crime groups golden triangle california hawaii
+415-6-1;golden triangle drug trafficking
+416-1-1;three gorges project
+416-1-2;three gorges project status
+416-1-3;three gorges project completion
+416-2-1;three gorges project status
+416-3-1;status the three gorges project
+416-4-1;status of three gorges project
+416-4-2;progress report of the three gorges project
+416-5-1;the three gorges project completion status
+416-5-2;the three gorges project completion date
+416-5-3;the three gorges project setbacks
+416-5-4;the three gorges project projected completion date
+416-5-5;the three gorges project estimated total cost completing project
+416-5-6;the three gorges project estimated ongoing electrical output
+416-5-7;the three gorges project estimated further costs
+416-5-8;the three gorges project current timeline of events
+416-5-9;the three gorges project status update
+416-5-10;the three gorges project scope creep status
+416-6-1;three gorges project status
+416-7-1;three gorges dam project status cost electrical output china river
+416-8-1;three gorges project status
+416-8-2;cost estimate three gorges
+416-8-3;estimated electrical output three gorges
+416-8-4;completion date three gorges project
+416-8-5;three gorges
+417-1-1;measure creativity
+417-2-1;measure creativity
+417-3-1;measuring creativity
+417-4-1;creativity characterization and measurement
+417-5-1;creativity measurements metrics
+417-5-2;measuring creativity with personality tests psychological assessments
+417-5-3;measuring creativity guilford measures
+417-6-1;creativity measurement
+418-1-1;quilts generate income
+418-2-1;quilts income
+418-3-1;quilts
+418-4-1;quilts products books classes services
+418-5-1;income from quilts
+418-5-2;quilts generating income quilting classes books lessons
+418-5-3;quilts generating income objects quilted
+418-5-4;quilts generating income museum quilts
+418-5-5;quilts generating income fundraising
+418-6-1;income from quilting
+419-1-1;car tire recycling
+419-1-2;car tyre recycling
+419-2-1;automobile tire recycling
+419-3-1;old automobile tires recycling
+419-4-1;the use of recycled tires
+419-4-2;recycled tires for road construction
+419-5-1;new methods of car tire recycling
+419-5-2;car tire recycling scrap rubber
+419-5-3;automobile tire recycling scrap rubber
+419-5-4;automobile tire recycling reef building
+419-5-5;automobile tire recycling habitats
+419-5-6;car tire recycling asphalt roadway
+419-5-7;car tire recycling new tires
+419-5-8;car tire recycling burning heat generation
+419-5-9;automobile tire recycling advantages
+419-5-10;old automobile tire recycling advantages
+419-6-1;recycle tyres tires use
+419-7-1;recycling automobile car tyres rubber reclaim tires
+419-8-1;uses for recycled tires marine
+419-8-2;used car tire valuable chemicals
+420-1-1;carbon monoxide poisoning global
+420-2-1;international carbon monoxide poisoning
+420-3-1;carbon monoxide poisoning
+420-4-1;carbon monoxide poisoning symptoms causes and prevention
+420-4-2;carbon monoxide poisoning statistics
+420-5-1;carbon monoxide poisoning globally
+420-5-2;carbon monoxide poisoning symptoms causes prevention globally
+420-5-3;carbon monoxide poisoning symptoms globally faulty heater
+420-6-1;carbon monoxide poisoning rate worldwide
+421-1-1;disposal industrial waste
+421-2-1;international industrial waste management
+421-3-1;industrial waste disposal
+421-4-1;industrial waste disposal storage
+421-4-2;hazardous industrial waste management storage
+421-5-1;industrial waste disposal management
+421-5-2;industrial waste management hazardous
+421-5-3;industrial waste management services about
+421-6-1;industrial waste disposal methods
+422-1-1;stolen art
+422-1-2;forged art
+422-2-1;art theft forgery
+422-3-1;art forgery scandal
+422-3-2;art theft scandal
+422-4-1;stolen art pieces
+422-4-2;incidents of forged artworks
+422-4-3;art theft reports
+422-5-1;stolen one of a kind art
+422-5-2;stolen art from museums
+422-5-3;forged art from museums
+422-5-4;art stolen from curators
+422-5-5;art stolen from artists
+422-5-6;forged art from curators
+422-5-7;historic art pieces stolen
+422-5-8;significant artworks stolen
+422-5-9;culturally significant art pieces stolen
+422-5-10;last known art piece from artist stolen
+422-6-1;forged stolen art example
+422-7-1;stolen forged art theft fraud
+422-8-1;forged mona lisa
+422-8-2;stolen picasso
+422-8-3;forgery of oil paintings
+422-8-4;acrylic paintings stolen
+423-1-1;mirjana markovic
+423-1-2;mirjana markovic slobodan milosevic
+423-2-1;mirjana markovic
+423-2-2;mira markovic
+423-2-3;milosevic markovic wife
+423-3-1;serbian presidents wife mirjana markovic
+423-3-2;milosevics  wife mirjana markovic
+423-4-1;mirjana markovic
+423-4-2;serbian presidents wife mira
+423-4-3;president milosevics wife mirjana markovic or mira
+423-5-1;slobodan milosevic wife
+423-5-2;slobodan milosevic wife mira
+423-5-3;slobodan milosevic mirjana
+423-5-4;slobodan milosevic mirjana markovic
+423-5-5;slobodan milosevic significant other mirjana
+423-5-6;slobodan milosevic spouse mirjana
+423-5-7;slobodan milosevic spouse mira
+423-5-8;slobodan milosevic spouse mira occupation
+423-5-9;slobodan milosevic spouse mira age
+423-5-10;slobodan milosevic spouse mira lifestyle
+423-6-1;mirjana markovic mira
+423-6-2;mirjana markovic mira serbia
+423-6-3;mirjana markovic mira president
+423-6-4;milosevic wife mirjana mira
+423-7-1;mirjana markovic wife of serbian president mira
+423-8-1;mirjana markovic
+423-8-2;mira serbian president wife
+423-8-3;wife mira
+423-8-4;gathering mira markovic
+424-1-1;alleged suicide murder
+424-2-1;alleged suicide murder
+424-3-1;suspicious suicide
+424-4-1;disguised murder crime as suicide
+424-5-1;alleged suicide was actually murdered
+424-5-2;victim suicide was murdered
+424-5-3;alleged suicide was actually murdered secret sinister plot
+424-6-1;murder disguised suicide
+425-1-1;money counterfeiting
+425-2-1;currency counterfeiting
+425-3-1;counterfeiting
+425-4-1;counterfeit currency incidents
+425-5-1;counterfeiting money modern times
+425-5-2;fake money modern era methods of production
+425-5-3;fake money used in 21st century instances where used
+425-6-1;modern money currency counterfeit
+426-1-1;police dogs
+426-1-2;law enforcement dogs
+426-1-3;police dog training
+426-1-4;police dog handlers
+426-2-1;police dogs
+426-3-1;dogs use law enforcement
+426-3-2;police dogs
+426-4-1;law enforcement dogs
+426-4-2;police dogs training operations
+426-4-3;drug sniffing dogs training operations
+426-5-1;worldwide dog use law enforcement
+426-5-2;police operation dogs used justice
+426-5-3;countries using dogs in law enforcement
+426-5-4;dogs trained to help law enforcement
+426-5-5;canines recruited to help law enforcement
+426-5-6;sniffer dogs drug detection drug enforcement agency
+426-5-7;dogs trained to detect drugs law enforcement
+426-5-8;bomb detection dogs used by law enforcement
+426-5-9;worldwide use of canines in police operations
+426-5-10;dog training academy for police work
+426-6-1;law enforcement dog
+426-6-2;drug sniffer dog
+426-6-3;k9 dog police
+426-7-1;dogs in law enforcement training handlers canine
+426-8-1;law enforcement dog use worldwide
+426-8-2;canine law enforcement statistics
+426-8-3;training of canine for law enforcement
+427-1-1;uv damage eyes
+427-1-2;uv light harm eyes
+427-2-1;uv damage eyesight
+427-3-1;uv damage eyes
+427-4-1;eye problem caused by excessive exposure to sunlight
+427-4-2;uv light causes eye problems
+427-4-3;cataracts and ocular melanoma caused by sunlight
+427-5-1;uv damage to vision
+427-5-2;uv damage to the human eye
+427-5-3;ultraviolet damage to the human eye
+427-5-4;ultraviolet damage to vision
+427-5-5;sun exposure damage to the human eye
+427-5-6;diseases from uv exposure to eyes
+427-5-7;cataracts from uv exposure to eyes
+427-5-8;ocular melanoma from uv exposure to eyes
+427-5-9;diseases from ultraviolet exposure to eyes
+427-5-10;ocular melanoma from ultraviolet exposure to eyes
+427-6-1;uv ultra violet sun eye damage
+427-7-1;damage to eyes by ultraviolet uv light cataract exposure uv
+427-8-1;eye damage uv rays
+427-8-2;optic nerve uv exposure
+428-1-1;countries with declining birth rate
+428-2-1;countries with declining birth rates
+428-3-1;birth rate
+428-4-1;declining birth rate in europe
+428-4-2;declining birth rate in asia
+428-4-3;declining birth rate in developed countries
+428-5-1;countries with a declining birth rate in africa
+428-5-2;countries with a declining birth rate in europe
+428-5-3;countries with a declining birth rate in oceania
+428-6-1;countries with declining birthrate
+429-1-1;legionnaires disease outbreaks
+429-2-1;legionnaires disease outbreaks
+429-3-1;legionnaires outbreaks
+429-4-1;legionnaires disease outbreak
+429-5-1;legionnaires disease outbreak locations
+429-5-2;legionnaires disease outbreak building air conditioning locations
+429-5-3;legionnaires disease outbreak worldwide
+429-6-1;legionnaires disease outbreak
+429-7-1;legionnaires disease outbreak cases
+430-1-1;africanized killer bees human attacks
+430-2-1;africanized killer bee attacks humans
+430-3-1;africanized bee human attack
+430-4-1;killer bees human attack incidents
+430-5-1;killer bees attacks on humans
+430-5-2;africanized killer bee attacks on humans
+430-5-3;killer bees loss of human life
+430-5-4;killer bees unsafe to save victim
+430-6-1;africanized killer bee attack
+431-1-1;robotic technology developments
+431-2-1;robotics latest developments
+431-3-1;robotic
+431-4-1;new development robotic technology
+431-4-2;recent advances robotic technology
+431-5-1;robotic technology developments
+431-5-2;latest developments in robotic technology
+431-5-3;robotic technology recent trends developments
+431-6-1;robotic development application
+432-1-1;police profiling of motorists
+432-2-1;police profiling traffic stops
+432-3-1;motorist profiling
+432-4-1;police profiling motorists
+432-5-1;police stop motorists by race age sex gender
+432-5-2;police profiling to stop cars by race
+432-5-3;police profiling to stop cars by age
+432-5-4;police profiling to stop cars by sex gender
+432-5-5;police profiling to stop cars by suburb
+432-5-6;police profiling to stop cars by location
+432-6-1;police department profiling motorist racial
+433-1-1;stoicism interest
+433-1-2;contemporary stoicism
+433-2-1;modern day stoicism
+433-3-1;list greek philosophy stoicism
+433-4-1;greek stoicism philosophy
+433-5-1;contemporary interest in stoicism
+433-5-2;plays about greek stoicism philosophy
+433-5-3;productions about greek stoicism sage
+433-5-4;productions about greek stoicism philosophers
+433-5-5;stoicism in the modern age contemporary art
+433-5-6;repression of feelings and pain art play
+433-5-7;repression of feelings and pain movie
+433-5-8;repression of feelings and pain stoicism movie
+433-5-9;recent movies about greek stoicism philosophy
+433-5-10;recent interest in greek stoicism philosophy
+433-6-1;modern stoic greek philosophy
+433-7-1;greek philosophy of stoicism artistic production
+433-8-1;philosophers of greek stoic plays
+433-8-2;greek stoic plays contemporary
+434-1-1;estonia economy
+434-2-1;estonia economy
+434-3-1;estonia economy
+434-4-1;economy performance and issues in estonia
+434-5-1;estonia economy statistics
+434-5-2;estonia unions treaties
+434-5-3;estonia monetary performance
+434-6-1;estonia economy
+435-1-1;curbing population growth
+435-1-2;population control
+435-2-1;reducing population growth
+435-3-1;population control measures
+435-4-1;countries that enforce birth control policies
+435-4-2;effective population growth control
+435-5-1;reducing population growth strategies
+435-5-2;studies in reducing population growth
+435-5-3;stunting population growth intervention
+435-5-4;successful attempts to reduce population growth
+435-5-5;curbing population growth by country
+435-5-6;case studies in reducing population growth
+435-5-7;intentionally reducing population growth by country
+435-5-8;effective reduction in population growth
+435-5-9;economic measures introduced after curbing population growth
+435-5-10;societal measures introduced after curbing population growth
+435-6-1;population growth measures
+435-6-2;population growth reduction
+435-7-1;measures to curb control population growth contraception restriction birth control
+435-8-1;population growth control
+435-8-2;china single child policy
+436-1-1;railway accident causes
+436-1-2;train accident causes
+436-1-3;train accidents
+436-2-1;train crash causes
+436-3-1;world rail accident
+436-4-1;cause of railway accidents
+436-4-2;famous railway accidents
+436-5-1;railway accidents worldwide causes
+436-5-2;tram accidents worldwide causes
+436-5-3;trolley accidents worldwide causes
+436-5-4;locomotive accidents worldwide causes
+436-5-5;streetcar accidents worldwide causes
+436-5-6;truck railway accidents worldwide causes
+436-5-7;trailer railway fatalities worldwide causes
+436-5-8;level crossing railway fatalities worldwide causes
+436-5-9;pedestrian railway fatalities worldwide causes
+436-5-10;railway fatalities worldwide causes
+436-6-1;railway accident cause
+436-6-2;train crash cause
+436-6-3;rail accident fatal
+436-7-1;causes of railway accidents driver error signal fault locomotive derail
+436-8-1;railroad accident causes
+436-8-2;freight train collision
+436-8-3;truck derails locomotive
+436-8-4;rail crossing car accident
+436-8-5;signal faults rail accident
+437-1-1;deregulation gas electric impact customers
+437-2-1;gas and electric utility company deregulation
+437-3-1;deregulation gas electric
+437-4-1;deregulation of gas and electric utilities for residential customers
+437-5-1;deregulation of gas and electric utilities prices residential prices
+437-5-2;cost of living increasing deregulation of utilities gas electricity
+437-5-3;cost of living increasing deregulation of utilities gas electricity household pressure
+437-6-1;gas electricity deregulation implication result
+438-1-1;countries with increase in tourism
+438-2-1;increased tourism countries
+438-3-1;list countries booming tourism
+438-4-1;increased tourism in europe
+438-4-2;increased tourism in asia
+438-4-3;increased tourism in australia
+438-4-4;increased tourism in united states
+438-5-1;countries experiencing more tourism increase
+438-5-2;countries surge in tourists all over country
+438-5-3;nation experiencing more tourists tourism travellers backpackers
+438-6-1;countries increased tourism
+439-1-1;scientific discoveries 1990s
+439-2-1;post 1990 scientific invention discovery
+439-3-1;new scientific discoveries
+439-4-1;new or recent scientific discoveries
+439-4-2;recent advances in sciences
+439-5-1;new scientific inventions
+439-5-2;recent scientific inventions
+439-5-3;recent scientific inventions patentable
+439-5-4;new scientific inventions patent pending
+439-5-5;new scientific inventions 1990s
+439-5-6;new scientific inventions 2000s
+439-5-7;new scientific inventions 2010s
+439-5-8;recent inventions 1990s
+439-5-9;recent inventions 2000s
+439-5-10;recent inventions 2010s
+439-6-1;new inventions since 1990
+439-6-2;modern day inventions 21st
+439-7-1;recent inventions and scientific discoveries innovations invention patented
+439-8-1;recent scientific discovery patent
+439-8-2;patents from science 90s
+439-8-3;flavr savr tomato
+439-8-4;gps discovery science
+439-8-5;dolly the sheep
+439-8-6;gene therapy trials
+440-1-1;eliminate child labor
+440-2-1;child labor prevention
+440-3-1;child labor
+440-4-1;government regulation against abuse of child labor
+440-5-1;child labor abuse governments and corporations
+440-5-2;child labor government intervention
+440-5-3;child labor government intervention worldwide
+440-6-1;child abuse labor labour prevention government corporation ngo
+441-1-1;lyme disease treatment prevention
+441-2-1;lyme disease prevention
+441-3-1;lyme disease prevention
+441-3-2;lyme disease treatment
+441-4-1;lyme disease prevention and treatment
+441-5-1;lyme disease treatments
+441-5-2;preventing lyme disease
+441-5-3;lyme disease insect spray
+441-6-1;lyme disease prevention treatment
+442-1-1;selfless heroic acts
+442-1-2;altruistic acts
+442-1-3;heroism
+442-2-1;selfless heroic act
+442-3-1;heroic acts
+442-4-1;heroic act explanation
+442-4-2;selfless act that benefits others
+442-5-1;altruistic acts by small groups
+442-5-2;altruistic acts by small organisation
+442-5-3;altruistic acts by individuals
+442-5-4;heroic altruistic acts by individuals
+442-5-5;heroic altruistic acts by small groups
+442-5-6;heroic altruistic acts by small organizations
+442-5-7;heroic altruistic acts by startups
+442-5-8;heroic altruistic acts by small not for profit
+442-5-9;heroic altruistic acts by tiny not for profit
+442-5-10;heroic acts by tiny not for profit foundation
+442-6-1;heroic act
+442-6-2;selfless act example
+442-6-3;life saving selfless
+442-7-1;heroic act medal ceremony rewarded bravery recognized saved prevented
+442-8-1;in an act of heroism
+442-8-2;went back into the fire to save
+442-8-3;risked life to save others
+443-1-1;us investment sub saharan africa
+443-2-1;us investment africa
+443-3-1;north america assistance sub saharan africa
+443-4-1;united states investments in sub saharan africa
+443-5-1;sub saharan african united states investment
+443-5-2;sub saharan african us investment
+443-5-3;tanzania united states investment
+443-5-4;angola united states investment
+443-5-5;sudan united states investment
+443-5-6;kenya united states investment
+443-5-7;south africa united states investment
+443-5-8;johannesburg united states investment
+443-5-9;democratic republic of congo united states investment
+443-5-10;nigeria united states investment
+443-6-1;us united states investment sub saharan
+443-6-2;sub saharan usa investment
+443-7-1;us united states investment finance sub saharan africa support trade gift
+443-8-1;sub saharan africa us assistance
+443-8-2;usaid sub saharan africa
+444-1-1;supercritical fluids environmental protection measure
+444-2-1;supercritical fluids environmental protection measures
+444-3-1;supercritical fluids uses
+444-4-1;supercritical fluids pressurization for environmental protection
+444-5-1;supercritical fluids environmental protection
+444-5-2;pressurization producing supercritical fluid environmental protection
+444-5-3;supercritical fluids scfs epa
+444-6-1;supercritical fluid environment protect
+445-1-1;female clergy
+445-1-2;women clergy
+445-1-3;women pastors
+445-2-1;women clergy europe australia asia south america
+445-3-1;women clergy
+445-4-1;countries with women clergy
+445-4-2;women church pastor in europe
+445-4-3;women church pastor in australia
+445-4-4;women church pastor worldwide
+445-5-1;women approved as priests overseas
+445-5-2;women approved as church pastor
+445-5-3;women approved as clergy person
+445-5-4;considering approval of women as a pastor
+445-5-5;considering approval of women as a priest
+445-5-6;considering approval of women as a clergy person
+445-5-7;church women clergy person approval
+445-5-8;church woman pastor approval
+445-5-9;church woman priest approval
+445-5-10;woman priest equality approved
+445-6-1;women pastor by country
+445-6-2;countries with women pastor
+445-7-1;women clergy pastor priest ordination country
+445-8-1;clergy position women pastor europe
+445-8-2;clergy position women pastor rome
+445-8-3;approval of women as clergy persons ireland
+446-1-1;countries where tourists suffer bodily harm or death
+446-2-1;violence against tourists
+446-4-1;tourist death or bodily harm
+446-5-1;tourists likely to be violently attacked by country
+446-5-2;most likely to be violently attacked travelling to country
+446-5-3;countries most likely to physically harm tourists
+446-6-1;tourist violence harm death dangerous location
+446-7-1;tourist danger attack mugging theft violence risk danger spots
+447-1-1;stirling engine
+447-2-1;stirling engine stirling cycle applications developments
+447-4-1;applications of stirling engine or stirling cycle
+447-5-1;developments stirling engine
+447-5-2;stirling cycle developments
+447-5-3;developments stirling engine future environmentally friendly sustainable
+447-6-1;stirling engine development application cycle
+447-7-1;stirling cycle engine developments applications innovation
+448-1-1;ship loss weather
+448-2-1;shipwreck weather
+448-4-1;ship loss caused by tropical storms hurricane typhoon cyclone
+448-5-1;weather loss of a ship at sea
+448-5-2;weather reason for shipwreck vessel international waters
+448-5-3;weather reason for shipwreck vessel coastal waters
+448-6-1;weather cause ship loss sea
+448-7-1;weather causing loss of ship sinking storm waves
+449-1-1;antibiotics ineffective
+449-2-1;antibiotic resistance
+449-4-1;cause of resistance against antibiotics
+449-4-2;cause of ineffectiveness of antibiotics against infections
+449-4-3;new drug tests antibiotics effectiveness
+449-5-1;ineffectiveness antibiotics against infections cause
+449-5-2;agriculture causing ineffectiveness of antibiotics
+449-5-3;farm animals fed antibiotics causes ineffectiveness
+449-6-1;antibiotic not effective why new drug
+450-1-1;jordan king hussein middle east peace
+450-2-1;jordan king hussein peace
+450-4-1;jordan king hussein peace in middle east
+450-5-1;jordanian king hussein peace middle east
+450-5-2;jordanian king hussein israel efforts peace process
+450-5-3;jordanian king hussein israel jordan peace treaty
+450-6-1;jordan king hussein peace middle east israel
+450-7-1;king hussein jordan middle east peace process broker israel assist summit
+601-1-1;turkey river control iraq water resources
+601-2-1;turkish river control projects iraqi
+601-4-1;turkish river control projects iraq water resource
+601-4-2;water resource issues turkey and iraq
+601-5-1;turkish river control projects iraq water resources
+601-5-2;river control issues between turkey and iraq
+601-5-3;turkish river border control projects iraq water resources transboundary cooperation
+601-6-1;turkish river control project iraq water source impact
+602-1-1;separation czech republic slovak republic czechoslovakia
+602-2-1;czechoslovakia establish sovereign countries czech slovak
+602-4-1;czech and slovakia process of separation
+602-4-2;czech and slovakia break up
+602-5-1;czech slovak republics separate sovereign countries process
+602-5-2;czechoslovakia czech slovak republics separation process
+602-5-3;czechoslovakia czech slovak republics dissolution
+602-6-1;czech slovak czechoslovakia separation process
+603-1-1;us lawsuits against tobacco industry
+603-2-1;us lawsuits against tobacco industry
+603-4-1;united states lawsuits against tobacco industry cigarette health problems
+603-5-1;united states lawsuits tobacco industry death from cigarettes smokes
+603-5-2;us united states lawsuits tobacco health problems smoking
+603-5-3;us united states lawsuits tobacco health problems nicotine spiking
+603-6-1;usa us united states lawsuit tobacco industry health problem death
+603-7-1;cigarette tobacco lobby litigation health cancer alleged lawsuit jury trial outcome settlement
+604-1-1;lyme disease arthritis
+604-2-1;lyme disease arthritis
+604-4-1;tick borne lyme disease arthritis
+604-5-1;lyme disease arthritis link
+604-5-2;lyme disease inflammatory joint disorder arthritis
+604-5-3;lyme arthritis evidence study infection
+604-6-1;arthritis lyme disease link
+604-7-1;arthritis tick lyme disease scientific inflammatory joint disorder pain painful
+605-1-1;universal health care uk pros cons
+605-2-1;uk universal health care system
+605-2-2;great britain universal health care system
+605-2-3;england universal health care system
+605-4-1;pros and cons of united kingdom health care system
+605-5-1;britain universal health care system pros and cons
+605-5-2;britain universal health care system criticism
+605-5-3;britain universal health care system recommendations
+605-6-1;uk universal health pros cons positive negative
+606-1-1;banning leg traps
+606-2-1;animal trap bans
+606-4-1;banning leg traps
+606-4-2;banning steel jawed traps
+606-5-1;leg trap capturing animals bans prohibited
+606-5-2;steel jawed traps capturing animals bans prohibited
+606-5-3;steel jawed traps capturing animals bans prohibited sale of fur market
+606-6-1;animal leg trap ban
+607-1-1;human genetic code map milestones
+607-2-1;human genome mapping milestones
+607-4-1;human genome project milestones
+607-4-2;human genome sequencing mapping achievements
+607-5-1;human genome sequencing important milestones
+607-5-2;mapping human genome study important key milestones breakthroughs
+607-5-3;mapping human genome study achievements milestones timeline
+607-6-1;map sequence human genome milestones
+608-1-1;us social security benefits tax pros cons
+608-2-1;taxes us social security benefits
+608-4-1;pros and cons united states social security benefits income tax
+608-5-1;social security benefits taxing us united states debate
+608-5-2;us united states social security tax debate
+608-5-3;us united states social security tax debate deficit reduction
+608-6-1;usa united states us social security tax pros cons
+608-7-1;pros and cons advantages disadvantages taxing us united states welfare benefits
+609-1-1;per capita alcohol consumption by country state province
+609-2-1;international alcohol consumption comparison
+609-4-1;per capita alcohol consumption across european countries
+609-4-2;per capita alcohol consumption in united states
+609-4-3;per capita alcohol consumption in australia
+609-4-4;per capita alcohol consumption in asian countries
+609-5-1;per capita person consumption of alcohol worldwide
+609-5-2;per capita person consumption of alcohol countries
+609-5-3;per capita person consumption of alcohol states
+609-5-4;per capita person consumption of alcohol provinces
+609-5-5;per capita person consumption of alcohol suburbs
+609-5-6;per capita person consumption of alcohol worldwide beer
+609-5-7;per capita person consumption of alcohol worldwide wine
+609-5-8;per capita person consumption of alcohol worldwide spirits
+609-5-9;per capita person consumption of alcohol states beer
+609-5-10;per capita person consumption of alcohol states wine
+609-6-1;alcohol consumption per capita
+610-1-1;us small business negative impact raise minimum wage
+610-2-1;problems with raising minimum wage on businesses
+610-4-1;impact of united states raise of minimum wage
+610-5-1;raising the minimum wage negative effects on business united states us
+610-5-2;increasing minimum wage hurts small business united states us
+610-5-3;reasons small businesses opposed to increase in minimum wage us united states
+610-6-1;negative impact minimum wage increase usa united states small business
+610-7-1;impact effect on us united states small business minimum wage increase oppose object
+611-1-1;violent kurds germany
+611-2-1;violence kurds in germany
+611-4-1;kurds violent activities in germany pkk workers party of kurdistan
+611-5-1;pkk kurds violence against germany
+611-5-2;destructive activities perpetrated by kurds workers part of kurdistan pkk germany
+611-5-3;terrorist activities perpetrated by kurds workers part of kurdistan pkk germany
+611-5-4;violent activities perpetrated by kurds workers part of kurdistan pkk germany
+611-5-5;burning arson activities perpetrated by kurds workers part of kurdistan pkk germany
+611-5-6;rioting activities perpetrated by kurds workers part of kurdistan pkk germany
+611-6-1;kurds pkk violence germany
+612-1-1;pro independence protesters tibet arrested by chinese
+612-2-1;tibet independence protest
+612-4-1;tibet independence protester arrested in china
+612-5-1;independence protesters tibet arrested by china what happened to them
+612-5-2;legal sentencing of pro independence protesters in tibet
+612-5-3;anti chinese anti chinese pro independence pro independence protesters in tibet
+612-5-4;releasing freedom of pro independence protesters in tibet
+612-5-5;treatment of pro independence protesters in tibet
+612-6-1;tibet arrest chinese independence protest outcome
+613-1-1;disposing of berlin wall
+613-2-1;berlin wall disposal
+613-4-1;dismantle and disposal of berlin wall pieces bricks
+613-4-2;berlin wall pieces souvenirs
+613-4-3;berlin wall pieces monuments
+613-5-1;berlin wall disposed of after removal
+613-5-2;disposal pieces of berlin wall museum
+613-5-3;disposal pieces of berlin wall pieces souvenirs
+613-5-4;disposal pieces of berlin wall monuments
+613-6-1;berlin wall souvenir disposal
+613-7-1;berlin wall disposal souvenirs memento monument
+614-1-1;flavr savr
+614-2-1;flavr savr tomato calgene
+614-3-1;genetically modified flavor saver
+614-4-1;flavr savr tomato by calgene
+614-4-2;flavr savr tomato by calgene
+614-4-3;genetic modified food flavr savr tomato
+614-5-1;flavr savr information calgene genetically modified
+614-5-2;flavor saver information calgene genetically modified
+614-5-3;flavor saver information calgene genetically modified tomato
+614-5-4;flavr savr information calgene genetically modified tomato
+614-5-5;first genetically modified food product tomato
+614-5-6;first genetically modified food product sold tomato
+614-5-7;first genetically modified food product tomato calgene
+614-5-8;first genetically modified food product breed of tomato
+614-5-9;first genetically modified food product color of tomato
+614-5-10;first genetically modified food product taste of tomato
+614-6-1;calgene tomato flavr savr flavor saver genetically modified
+614-7-1;flavr savr flavor saver tomato calgene genetically modified gmo
+614-8-1;flavr savr tomato
+614-8-2;flavr savr tomato
+614-8-3;ge food flavr savr
+614-8-4;genetically engineered food tomato
+615-1-1;us raw timber exports asia
+615-2-1;us timber exports to asia
+615-4-1;united states raw timber exports to asia lumber industry
+615-4-2;environmental issues timber exports to asia united states
+615-5-1;raw timber exports to asia united states us
+615-5-2;economic concerns export of raw timber asia from united states us
+615-5-3;environmental concerns export of raw timber asia from united states us
+615-6-1;usa united states us raw timber export asia impact
+616-1-1;volkswagen production mexico
+616-2-1;volkswagen production in mexico
+616-4-1;volkswagen mexico production history
+616-5-1;volkswagen production in mexico
+616-5-2;volkswagen production in mexico history
+616-5-3;amount of volkswagen automobile cars automotive vehicles produced mexico
+616-6-1;mexico volkswagen production history
+616-7-1;volkswagen production in mexico manufacture automotive history number cars
+617-1-1;cuban economy reduced russian support
+617-2-1;reduction russian support on cuban economy effects
+617-4-1;reduction of russian support cuban economy
+617-5-1;russian less reduced support cuban economy
+617-5-2;russian less reduced support cuban economy assistance relations
+617-5-3;cuba soviet union relations reduced support economic decline
+617-6-1;russian support reduction cuba economic impact
+617-7-1;russian support cuban economy aid reduced affect effect
+618-1-1;iran ayatollah khomeini death ramifications
+618-2-1;president ayatollah khomeini death iran effects
+618-4-1;death of iranian president ayatollah khomeini
+618-5-1;iranian president ayatollah khomeini death
+618-5-2;iran president ayatollah khomeini ramifications aftermath of death
+618-5-3;iran president ayatollah khomeini successor
+618-6-1;ayatollah khomeini death impact ramifications implications
+618-7-1;iranian president ayatollah khomeini death consequences following after
+619-1-1;winnie mandela kidnapping south africa 1988
+619-2-1;winnie mandela kidnapping scandal
+619-2-2;winnie mandela murder scandal
+619-2-3;winnie mandela scandal december 1988 january 1989
+619-4-1;winnie mandela kidnapping scandal south africa
+619-5-1;winnie mandela kidnapping
+619-5-2;winnie mandela role in kidnapping murder
+619-5-3;winnie mandela personal involvement in kidnapping
+619-5-4;winnie mandela personal involvement in kidnapping charges conviction scandal
+619-6-1;winnie mandela kidnapping scandal south africa
+620-1-1;south pacific nuclear testing protests france
+620-2-1;french protest nuclear testing
+620-3-1;french response south pacific nuclear testing protest
+620-4-1;france respond to protest against nuclear testing in the south pacific
+620-5-1;french government response nuclear testing protest
+620-5-2;france response to protest nuclear testing south pacific
+620-5-3;france response to protest nuclear testing
+620-5-4;condemnation of french nuclear testing response
+620-5-5;french reply to protests nuclear testing
+620-5-6;france nuclear testing protests media conference
+620-5-7;french answers to protesters about nuclear testing
+620-5-8;nuclear testing 1960s french government protest response
+620-5-9;charles de gaulle french government nuclear testing protest response
+620-5-10;charles de gaulle french government protest response
+620-6-1;france protest nuclear south pacific
+620-6-2;france protest nuclear south pacific french
+620-7-1;france response protest nuclear testing rainbow warrior mururoa response new zealand
+620-8-1;france reaction protest nuclear testing
+620-8-2;south pacific nuclear test france response
+621-1-1;women ordained priests uk
+621-2-1;church of england women ordained priests
+621-4-1;great britain women ordained as church of england priests
+621-5-1;britain approval of women ordained as church of england priests
+621-5-2;britain approval of women ordained as church of england priests voting church officials
+621-5-3;britain approval of women ordained as church of england priests voting british parliament
+621-6-1;uk approval woman ordained priest
+621-7-1;women priests great britain uk united kingdom england church ordained female synod parliament
+622-1-1;price fixing companies corporations indicted
+622-2-1;price fixing accusation
+622-4-1;corporation price fixing scandal
+622-5-1;price fixing companies corporations
+622-5-2;companies corporations accused indicted price fixing products
+622-5-3;companies corporations accused indicted price fixing dram ram random access memory
+622-5-4;lysine price fixing conspiracy accused indicted price fixing
+622-5-5;aluminium metal price fixing conspiracy accused indicted price fixing
+622-5-6;music cd compact discs price fixing conspiracy accused indicted price fixing
+622-6-1;price fixing company example
+622-7-1;price fixing accused indicted product cartel monopoly
+623-1-1;ricin sarin soman anthrax weapon
+623-2-1;ricin sarin soman or anthrax chemical weapon
+623-4-1;ricin sarin soman anthrax biomedical weapon
+623-4-2;toxic chemical weapon
+623-5-1;toxic chemical weapons
+623-5-2;anthrax chemical weapon
+623-5-3;ricin chemical weapon
+623-5-4;sarin nerve agent chemical weapon
+623-5-5;soman chemical weapon
+623-6-1;ricin sarin soman anthrax chemical weapon use
+623-7-1;chemical weapon ricin sarin soman anthrax biological
+624-1-1;strategic defense initiative sdi star wars pros cons
+624-2-1;star wars strategic defense initiative
+624-4-1;strategic defense initiative sdi pros and cons
+624-4-2;sdi star wars united states defense strategy
+624-5-1;strategic defense initiative star wars sdi technical details
+624-5-2;strategic defense initiative star wars sdi details industry countries
+624-5-3;strategic defense initiative star wars sdi details countries mad nuclear weapons
+624-5-4;strategic defense initiative star wars sdi details mutual assured destruction
+624-6-1;strategic defense initiative sdi star wars development pro con advantage disadvantage
+625-1-1;world trade center bombers 1993
+625-2-1;world trade center  1993 bombers arrest convicted
+625-4-1;arrest conviction world trade center wtc bomber
+625-5-1;world trade center february 1993 bombing arrests conviction bombers
+625-5-2;world trade center february 1993 bombing legal process arrest held in custody
+625-5-3;world trade center february 1993 bombing legal process arrest held in custody counter terrorism palestine
+625-6-1;wtc bomber 1993 arrest conviction world trade center
+625-7-1;world trade center bombing 1993 arrest conviction guilty
+626-1-1;human stampede deaths
+626-2-1;human stampede multiple deaths
+626-3-1;list human stampede
+626-4-1;human stampedes in sports events
+626-4-2;human stampedes many deaths
+626-5-1;human stampedes resulting in mass deaths toll
+626-5-2;human stampedes killing over 20 people toll
+626-5-3;human stampedes huge loss of life death toll
+626-5-4;human crush deaths sporting events death toll
+626-5-5;human stampede huge loss of life at festivals death toll
+626-5-6;human stampede death of over 30 people death toll
+626-5-7;worst human stampede incident death toll
+626-5-8;worst incidents of crush events in history death toll
+626-5-9;human stampede massive loss of life death toll
+626-5-10;worst incidents of human stampedes in history death toll
+626-6-1;human stampede multiple fatalities killed dead
+626-7-1;death stampede crush riot tragedy multiple human people
+626-8-1;human stampede 50 dead
+626-8-2;crowd stampede fatalities
+627-1-1;post-soviet russia food crisis us support
+627-2-1;usaid food crisis collapse soviet union ussr
+627-4-1;russia food crisis post-soviet united states support
+627-5-1;us united states usaid russia soviet union
+627-5-2;food shortages russia soviet union collapse us united states foreign aid crisis
+627-5-3;food shortages russia soviet union collapse us united states foreign aid crisis acute poverty
+627-6-1;us united states usa soviet union food crisis russia
+627-7-1;us united states russia wheat food soviet union collapse shortage
+628-1-1;justification us invade panama
+628-2-1;us invasion panama justification
+628-4-1;united states government record panama invasion
+628-5-1;us united states panama invasion reason
+628-5-2;united states panama invasion reason justification government
+628-5-3;us united states panama invasion war on drugs
+628-5-4;us united states panama invasion money laundering
+628-5-5;us united states panama invasion marine killed
+628-5-6;us united states panama invasion 35000 living there protection
+628-6-1;usa us united states government panama invasion reason
+629-1-1;incidence of violent attacks on abortion clinics
+629-2-1;abortion clinic acts of violence
+629-2-2;abortion clinic bombing
+629-2-3;abortion clinic arson
+629-4-1;bombing shooting attacks on abortion clinics doctors staff
+629-5-1;violent attacks on abortion clinics
+629-5-2;bombings on abortion clinics
+629-5-3;arson on abortion clinics
+629-5-4;doctors and staff violent attacks on abortion clinics
+629-6-1;abortion clinic attack violent anti protest
+630-1-1;gulf war syndrome symptoms
+630-2-1;gulf war syndrome symptoms
+630-4-1;symptoms of gulf war syndrome
+630-4-2;illness of gulf war veterans
+630-4-3;symptoms of desert storm syndrome
+630-5-1;gulf war syndrome symptoms
+630-5-2;gulf war syndrome symptoms lawsuits
+630-5-3;gulf war syndrome symptoms lawsuits desert storm syndrome
+630-6-1;gulf war syndrome illness symptoms
+630-7-1;gulf war syndrome ptsd desert storm veteran illness
+631-1-1;nelson mandela election south africa
+631-2-1;nelson mandela elected president
+631-4-1;nelson mandela elected president of south africa
+631-5-1;nelson mandela elected president republic of south africa
+631-5-2;nelson mandela election campaign republic of south africa
+631-5-3;nelson mandela election policies republic of south africa
+631-6-1;nelson mandela rsa south africa president election
+631-7-1;nelson mandela elected president south africa
+632-1-1;tin mining asia
+632-2-1;tin mining asia
+632-2-2;tin mining china malaysia indonesia vietnam burma thailand laos
+632-4-1;tin mining countries in southeast asia
+632-4-2;tin mining in china malaysia indonesia vietnam burma thailand laos
+632-5-1;major tin mining countries southeast asia
+632-5-2;major tin mining countries china
+632-5-3;major tin mining countries malaysia
+632-5-4;major tin mining countries indonesia
+632-5-5;major tin mining countries vietnam
+632-5-6;major tin mining countries burma
+632-5-7;major tin mining countries thailand
+632-5-8;major tin mining countries laos
+632-6-1;tin mining south east asia southeast
+633-1-1;welsh devolution movement
+633-2-1;welsh devolution movement history
+633-4-1;welsh devolution movement historical record
+633-5-1;welsh devolution movement
+633-5-2;welsh devolution movement historical facts
+633-5-3;welsh devolution movement caused by
+633-5-4;welsh devolution movement history
+633-6-1;welsh devolution history
+633-7-1;history of the welsh devolution movement wales background
+634-1-1;l tryptophan dietary supplement deaths
+634-2-1;l tryptophan dietary supplement deaths
+634-2-2;tainted l tryptophan dietary supplement deaths
+634-4-1;number of deaths tainted l tryptophan dietary supplements
+634-5-1;l tryptophan dietary supplements deaths death toll
+634-5-2;l tryptophan ltryptophan tainted fatalities deaths dietary supplements death toll
+634-5-3;l tryptophan ems disaster of 1989 was gmo products death count toll
+634-6-1;l tryptophan l tryptophan death tainted
+635-1-1;assisted suicide us
+635-2-1;doctor assisted suicide us
+635-2-2;us euthanasia
+635-4-1;debates and arguments doctor assisted suicide in united states
+635-5-1;doctor assisted suicide in the us united states debate
+635-5-2;united states doctor assisted suicide euthanasia us united states debate
+635-5-3;united states doctor assisted suicide euthanasia us united states doctor opinion
+635-6-1;doctor assisted suicide euthanasia united states usa america
+636-1-1;jury service exemption
+636-2-1;jury exemption reasons
+636-4-1;jury duty exemption
+636-4-2;occupations likely exempted from jury duty
+636-5-1;exempted serving jury reasons
+636-5-2;occupations exempting workers from jury duty
+636-5-3;conflict of interest exempting workers from jury duty
+636-6-1;jury duty exemption list
+637-1-1;human growth hormone hgh pros cons
+637-2-1;human growth hormone adults effects
+637-4-1;pros and cons human growth hormone hgh for adults
+637-5-1;human growth hormone hgh debate adults
+637-5-2;human growth hormone hgh debate contentious adults
+637-5-3;human growth hormone hgh debate adults applications
+637-6-1;hgh human growth hormone adult use
+637-7-1;pros cons for against advantages disadvantage human growth hormone hgh adults
+638-1-1;prisoner freed faulty forensic evidence false testimony poor police work
+638-2-1;wrongful conviction prisoner freed
+638-4-1;prisoner wrongly convicted due to faulty forensic evidence false testimony
+638-4-2;freed or pardoned political prisoners prosecution
+638-5-1;freed prisoners wrongfully convicted
+638-5-2;incorrect forensic evidence freed prisoners discharged wrongfully convicted
+638-5-3;bad police work freed prisoners discharged wrongfully convicted
+638-5-4;corruption police freed prisoners discharged wrongfully convicted
+638-5-5;false testimony freed prisoners discharged wrongfully convicted
+638-6-1;wrongful conviction faulty forensic false testimony error
+639-1-1;online shopping growth
+639-2-1;online shopping growth factors
+639-4-1;online shopping growth factor and statistics
+639-5-1;growth of internet shopping factors
+639-5-2;increase in online shopping statistics growth factors reasons
+639-5-3;increase in online shopping statistics growth factors variety value
+639-5-4;increase in online shopping statistics growth factors education technology literacy
+639-5-5;increase in online shopping statistics growth factors mobile phone ownership increases
+639-6-1;growth of online shopping why
+640-1-1;government maternity leave policies
+640-2-1;maternity leave government policy
+640-4-1;maternity leave policy in united states
+640-4-2;maternity leave policy in europe
+640-5-1;maternity leave policies governments
+640-5-2;maternity leave policies governments passed legislation
+640-5-3;maternity leave policies governments benefits not provided unaccounted for
+640-6-1;maternity leave policy government
+641-1-1;exxon valdez oil spill marine life wildlife
+641-2-1;exxon valdez oil spill marine life wildlife
+641-4-1;exxon valdez oil spill impact on marine life
+641-5-1;exxon valdez oil spill marine wildlife
+641-5-2;exxon valdez oil spill problems issues challenges
+641-5-3;exxon valdez oil spill animals rescued saved dead died death
+641-6-1;exxon valdez oil spill impact environment
+641-7-1;exxon valdez disaster impact environmental damage wildlife marine
+642-1-1;tiananmen square protests 1989
+642-2-1;tiananmen square  protest arrests where are they now
+642-4-1;tiananmen square demonstration arrest beijing 1989
+642-4-2;tiananmen square protest arrest beijing 1989
+642-5-1;tiananmen square protest what happened
+642-5-2;tiananmen square protesters arrested aftermath outcome
+642-5-3;tiananmen square protesters arrested legal process charged imprisoned fined
+642-6-1;tiananmen square arrest
+643-1-1;power dams salmon fisheries
+643-2-1;dams harm salmon fisheries us pacific northwest
+643-4-1;impact of power dam in pacific northwest on salmon fisheries
+643-4-2;impact of dam on salmon population in united states pacific northwest
+643-5-1;power dams pacific northwest salmon fisheries harm united states
+643-5-2;power dams pacific negative impact salmon population us united states
+643-5-3;power dams pacific negative impact salmon population us united states environmental issues
+643-6-1;pacific northwest north west power dam salmon harm
+644-1-1;exotic animal imports us uk
+644-2-1;exotic species imported us uk britain
+644-4-1;bird or exotic animals importation to united states
+644-4-2;bird or exotic animals importation to united kingdom
+644-5-1;exotic species of animals imported britain and us
+644-5-2;importing rare birds from britain uk to united states us
+644-5-3;importing rare animals from britain uk to united states us
+644-6-1;united states america usa us united kingdom uk exotic animal import
+645-1-1;software piracy impacts
+645-2-1;software piracy financial impact
+645-4-1;financial impact of software piracy on industry
+645-4-2;financial impact of video and music piracy on industry
+645-5-1;financial impact of software piracy
+645-5-2;software piracy cost to businesses annually
+645-5-3;net loss incurred piracy pirates software companies statistics
+645-6-1;software piracy financial impact
+645-7-1;software piracy cost impact economic intellectual property
+646-1-1;food stamp benefits increase
+646-2-1;food stamp recipient increases
+646-3-1;rate food stamp benefits
+646-4-1;increasing number of food stamp recipients
+646-4-2;food stamp policies
+646-5-1;food stamp eligibility increased
+646-5-2;food stamp eligibility more people
+646-5-3;food stamp eligibility by immigrants
+646-5-4;food stamp increased dependence by race
+646-5-5;food stamp increased dependence by gender
+646-5-6;food stamp increased dependence by group
+646-5-7;food stamp increased dependence by state
+646-5-8;food stamp increased dependence by city
+646-5-9;food stamp increased dependence by income
+646-5-10;food stamp more families allowed
+646-6-1;increase food stamp why
+646-6-2;food stamp recipient percentage
+646-7-1;food stamp benefits increase take up receive eligible immigrants poverty line
+646-8-1;food stamp benefits increased
+646-8-2;eligible food stamp increase
+647-1-1;windmill electricity production costs
+647-2-1;wind power electricity economics
+647-4-1;is windmill generate electricity economically productive
+647-4-2;cost of electricity generating windmills
+647-5-1;wind turbine electricity productivity
+647-5-2;windmill technology generate electricity cost benefit analysis
+647-5-3;wind farm economically productive generation electricity
+647-6-1;windmill electricity generation economically viable productive
+648-1-1;family leave law
+648-2-1;family leave laws
+648-4-1;family and medical leave act qualification
+648-4-2;family leave law qualification
+648-5-1;family leave law compensation how long
+648-5-2;family leave law compensation time duration reasons health condition
+648-5-3;family leave law compensation time duration reasons medical certificate
+648-6-1;family leave law example time compensation
+649-1-1;computer virus infection
+649-2-1;computer viruses how
+649-4-1;computer virus infection strategy
+649-5-1;computer virus transmission spreading
+649-5-2;computer virus outdated old insecure software exploits mail worm
+649-5-3;computer virus trusting executable attachments in email
+649-5-4;computer virus boot sector transmission removable media
+649-5-5;computer virus code execution buffer overflow
+649-6-1;computer virus how infected
+650-1-1;serious tax evasion us uk
+650-2-1;large scale tax evasion indictment
+650-4-1;tax evasion united states or united kingdom more than two million dollars
+650-5-1;individuals corporations charges of tax evasion two million dollars britain us
+650-5-2;corporations avoiding tax us uk united states united kingdom britain fraud
+650-5-3;corporations avoiding tax us uk united states united kingdom britain fraud money lost
+650-6-1;usa us united states america united kingdom uk tax evasion corporation
+650-7-1;tax evasion us uk england britain million dollars large scale massive fraud united states
+651-1-1;changes in ethnic composition us population
+651-2-1;us population ethnicity
+651-4-1;united states population shift in ethnic group make up
+651-5-1;us united states population demographics race ethnicity
+651-5-2;us united states population race ethnicity genetic makeup breeding interracial
+651-5-3;us united states population demographics race diversity increasing
+651-6-1;usa united states ethnic shift america
+651-7-1;ethnic makeup us united states population latino black caucasian
+652-1-1;oic balkans 1990
+652-2-1;organization of islamic cooperation oic balkan islands
+652-4-1;oic balkan region
+652-5-1;oic involvement balkans 1990 1994
+652-5-2;oic balkan nations groups positions debate deliberation involvement
+652-5-3;organisation of islamic conference oic balkans 1990 1994
+652-6-1;oic balkans 1990 1991 1992 1993 1994 1990 1994
+652-7-1;oic involvement in balkans
+653-1-1;eta activities basque spain
+653-2-1;eta basque terrorist organization
+653-4-1;eta basque terrorist in spain
+653-5-1;eta basque terrorist organization spain
+653-5-2;eta basque activities in spain illegal
+653-5-3;eta basque leftist movement separatist group
+653-6-1;eta basque terrorist spain activities
+653-7-1;eta basque terrorist separatist fighter spain civil
+654-1-1;same sex schools advantages disadvantages
+654-2-1;same sex schools pros and cons
+654-4-1;same sex school pros and cons
+654-4-2;same sex school advantages and disadvantages
+654-5-1;same sex schools advantages disadvantages
+654-5-2;benefits advantages debate for all girls schools girls only
+654-5-3;benefits advantages debate for all boys schools boys only
+654-5-4;socialization issues for girls attending all girls school
+654-5-5;socialization issues for boys attending all boys school
+654-6-1;same sex schooling pros cons advantage disadvantage
+654-7-1;girls only boys only same sex school advantages and disadvantages
+655-1-1;attention deficit disorder children diagnosis treatment
+655-2-1;attention deficit disorder add diagnosis treatment
+655-4-1;attention deficit disorder diagnosis young children
+655-4-2;adhd diagnosis and treatment for young children
+655-5-1;add attention deficit disorder diagnosis young children
+655-5-2;add attention deficit disorder symptoms early warning signs young children
+655-5-3;add attention deficit disorder treatment young children
+655-6-1;add attention deficit disorder adhd treatment diagnosis
+656-1-1;lead poisoning paint water pipes children
+656-2-1;child protection lead poisoning paint water pipes
+656-4-1;paint and water pipe poisoning protection for children
+656-4-2;paint and water pipe poisoning lawsuit
+656-5-1;young children lead poisoning protection paint water pipes
+656-5-2;young children lead poisoning protection paint water pipes legal issues lawsuits law suits
+656-5-3;young children lead poisoning abatement reduction projects
+656-6-1;child lead poisoning pipes paint protection prevention
+657-1-1;prayer ban us schools
+657-2-1;us school prayer ban
+657-4-1;prayer ban in united states schools
+657-5-1;prayer religion us united states public schools banned
+657-5-2;prayer religion us united states christian private schools allowed
+657-5-3;prayer religion us united states public schools allowed
+657-6-1;us united states america prayer pray school ban
+657-7-1;prayer bans us united states schools court rulings
+658-1-1;teenage pregnancy us
+658-2-1;us teenage pregnancy
+658-2-2;birth rate for teenage mothers
+658-2-3;causes and results of teenage pregnancies
+658-2-4;teenage pregnancy reduction
+658-2-5;teenage abortions
+658-4-1;teenage pregnancy in united states
+658-4-2;teenage abortion in united states
+658-5-1;teenage pregnancy in the united states us
+658-5-2;birth rate for teenage mothers in the united states us
+658-5-3;causes of teenage pregnancy mothers united states us
+658-5-4;reduction of teenage pregnancies united states us
+658-6-1;usa united states america teenage pregnancy
+658-7-1;teenage pregnancy united states birth rate single parents contraception education
+659-1-1;cruise ships health safety maintenance standards
+659-2-1;cruise ship health and safety maintenance
+659-4-1;cruise ship safety maintenance standard and guidelines
+659-5-1;cruise ships health and safety maintenance
+659-5-2;recreational cruise ship health and safety practices
+659-5-3;recreational cruise ship health and safety resort management practices
+659-6-1;cruise ship liner health and safety standard
+659-7-1;health and safety of passenger cruise ships illness accident boat marine sea ocean
+660-1-1;whale watching california
+660-2-1;whale watching california coast
+660-4-1;whale watching sites in california
+660-4-2;whale watching guide service in california
+660-5-1;whale watching coast of california
+660-5-2;whale watching coast of california guide service watching whales
+660-5-3;watching coast of california guide service location booking times
+660-6-1;california whale watching
+661-1-1;melanoma causes treatments
+661-2-1;melanoma treatment causes diagnosis
+661-4-1;causes and treatments for melanoma
+661-4-2;research about causes and diagnosis of melanoma
+661-5-1;melanoma skin cancer treatments
+661-5-2;melanoma skin cancer causes reasons
+661-5-3;melanoma skin cancer sun protection
+661-6-1;melanoma cause treatment prognosis
+662-1-1;protect against telemarketer
+662-2-1;telemarketer legislation regulations strategies protect consumers
+662-4-1;legislation or regulations against telemarketing scams
+662-5-1;telemarketer consumer protection unwanted interruptions
+662-5-2;telemarketer spam filter consumers strategies
+662-5-3;telemarketer legislation protecting consumers regulations
+662-5-4;telemarketer consumer protection scams
+662-6-1;telemarketing scam protection legislation regulation
+662-7-1;telemarketers legislation do not call scam
+663-1-1;agent orange health effects
+663-2-1;agent orange health vietnam veteran
+663-4-1;vietnam veterans united states agent orange
+663-5-1;health effects agent orange vietnam veterans united states us study
+663-5-2;health effects agent orange vietnam veterans united states us study medical journal research medicine
+663-5-3;health effects agent orange vietnam veterans united states us study university publication
+663-6-1;agent orange us united states veteran impact health issue
+663-7-1;health effects danger illness long term agent orange vietnam veteran va affairs
+664-1-1;national museum of the american indian
+664-2-1;national museum of the american indian
+664-4-1;national museum of the american indian location
+664-4-2;collections at national museum of the american indian
+664-5-1;national museum of the american indian location
+664-5-2;national museum of the american indian collection of art pieces works culture
+664-5-3;national museum of the american indian similarities with other museum exhibitions
+664-6-1;national museum of the american indian collection location
+665-1-1;poverty extent sub saharan africa
+665-2-1;sub saharan africa poverty
+665-4-1;poverty in sub saharan africa
+665-5-1;sub saharan africa poverty rampant widespread
+665-5-2;sub saharan africa poverty extensiveness
+665-5-3;sub saharan africa poverty decreasing improving
+665-5-4;sub saharan africa poverty increasing getting worse
+665-6-1;sub saharan poverty conditions africa
+665-7-1;poverty in sub saharan africa facts figures dollar per day subsistence
+666-1-1;margaret thatcher resignation us uk relations
+666-2-1;margaret thatcher resignation impact us uk relations
+666-2-2;margaret thatcher resignation impact us british relations
+666-4-1;prime minister margaret thatchers resignation united states relations
+666-4-2;prime minister thatchers resignation united states relations
+666-5-1;prime minister margaret thatchers resignation us uk relations
+666-5-2;prime minister margaret thatchers resignation us uk relations historic event
+666-5-3;prime minister margaret thatchers resignation us uk relations negative
+666-6-1;margaret thatcher united states america uk united kingdom relationship relations impact
+667-1-1;increasing unmarried partner households us
+667-2-1;unmarried households us
+667-4-1;unmarried partner household united states
+667-4-2;same sex household united states
+667-5-1;increasing trend unmarried partner households
+667-5-2;increasing trend same sex partner households
+667-5-3;increasing trend same sex partner households laws legal issues
+667-5-4;increasing trend same sex partner households child adoption legal issues custody ivf in vitro fertilization
+667-5-5;increasing trend unmarried lifestyle marriage outdated religious concept
+667-6-1;unmarried partner household america trend usa
+668-1-1;relationship poverty disease
+668-2-1;poverty disease connections
+668-4-1;relation between poverty and diseases
+668-4-2;poverty and health care issues
+668-5-1;poverty disease relationship
+668-5-2;poverty healthcare relationship
+668-5-3;poverty disease healthcare relationship
+668-6-1;poverty disease correlation
+669-1-1;islamic revolution relations us
+669-2-1;islamic revolution reason
+669-4-1;relation between islamic nations and united states
+669-4-2;islamic revolution and united states
+669-5-1;islamic revolution causes us united states relations
+669-5-2;deterioration islamic nation relationship with united states us
+669-5-3;deterioration islamic nation relationship with united states us consequences wrongdoing
+669-5-4;deterioration islamic nation relationship with united states us extremism imperialism
+669-5-5;deterioration islamic nation relationship with united states us oil exploration
+669-6-1;islamic revolution causes united states america usa us
+670-1-1;us election apathy low turnout
+670-2-1;us election apathy
+670-4-1;united states elections turnout
+670-5-1;apathy us united states us elections politics
+670-5-2;poor voter turnout united states us elections politics
+670-5-3;apathy united states us polling booths inaccessible hard to get to
+670-5-4;apathy united states us democracy political parties
+670-5-5;apathy united states us democracy political party representation
+670-5-6;apathy united states us democracy jaded politicians hypocritical liars corruption thieves
+670-5-7;apathy united states us democracy jaded corruption lobbyists lobbying
+670-6-1;us united states of america election numbers low turnout
+670-7-1;apathy voting us united states election voter turnout adapt dont care
+671-1-1;salvation army benefits
+671-2-1;salvation army help
+671-4-1;salvation army work and achievements
+671-5-1;benefits salvation army provides poverty homelessness
+671-5-2;benefits salvation army provides soup kitchens food
+671-5-3;benefits salvation army provides shelter domestic violence safety security
+671-6-1;salvation army benefits provided
+671-7-1;salvation army homeless needy poverty assistance aid help
+672-1-1;national rifle association nra membership profile
+672-2-1;membership profile of the national rifle association
+672-4-1;national rifle association member profile
+672-4-2;nra member profile
+672-5-1;national rifle association age race personality
+672-5-2;national rifle association personality profile
+672-5-3;national rifle association political representation views personality
+672-6-1;nra national rifle association member detail
+672-7-1;membership profile of the national rifle association nra demographic
+673-1-1;withdrawal soviet troops afghanistan
+673-2-1;withdrawal of soviet union from afghanistan
+673-2-2;withdrawal of ussr from afghanistan
+673-4-1;soviet russia withdraw troops from afghanistan
+673-5-1;withdrawal of soviet union troops soldiers from afghanistan
+673-5-2;factors leading to withdrawal of soviet union soldiers troops afghanistan
+673-5-3;withdrawal of soviet union troops soldiers from afghanistan reconciliation
+673-6-1;soviet withdrawal afghanistan why reasons
+674-1-1;greenpeace prosecuted arrested
+674-2-1;greenpeace arrest
+674-4-1;greenpeace member arrest
+674-4-2;greenpeace member prosecution
+674-5-1;greenpeace prosecuted members affiliated
+674-5-2;greenpeace arrested members prosecution individual organization
+674-5-3;greenpeace members criminal records
+674-6-1;greenpeace prosecuted member
+675-1-1;training olympic swim meets
+675-2-1;olympic swimming training
+675-4-1;olympic swim meets training
+675-4-2;olympic swim meets training requirements
+675-5-1;olympic swimming training
+675-5-2;training conditions sites requirements olympic swimming preparation
+675-5-3;training conditions temperatures exercises olympic swimming preparation
+675-6-1;olympic swimming training conditions requirement
+676-1-1;poppy cultivation export worldwide
+676-2-1;poppy cultivation and export
+676-4-1;poppy cultivation and exportation report
+676-5-1;cultivation poppy export morphine heroin opiate illegal narcotics
+676-5-2;cultivation poppy export morphine heroin opiate illegal narcotics worldwide distribution networks criminal
+676-5-3;cultivation poppy export morphine heroin opiate illegal narcotics history development early days
+676-6-1;poppy cultivation and export
+676-7-1;poppy cultivation export industry illegal
+677-1-1;leaning tower of pisa stabilization
+677-2-1;leaning tower of pisa restoration
+677-3-1;effort stabilize learning tower pisa
+677-4-1;leaning tower of pisa current status
+677-4-2;reinforcing or stabilizing leaning tower of pisa
+677-5-1;stabilizing the leaning tower of pisa
+677-5-2;fixing the lean on the leaning tower of pisa
+677-5-3;current state of the leaning tower of pisa
+677-5-4;reinforcement of the leaning tower of pisa
+677-5-5;is the leaning tower of pisa structurally sound
+677-5-6;leaning tower of pisa structural stability
+677-5-7;leaning tower of pisa efforts to stabilize
+677-5-8;leaning tower of pisa current condition
+677-5-9;leaning tower of pisa changes in angle
+677-5-10;leaning tower of pisa falling over
+677-6-1;leaning tower of pisa stabilized
+677-6-2;leaning tower of pisa reinforce
+677-7-1;leaning tower pisa stabilize collapse prevent secure
+677-8-1;leaning tower of pisa support stable
+677-8-2;leaning tower of pisa reinforcement shift
+678-1-1;joint shared custody impact on children
+678-2-1;shared custody divorce children pros and cons
+678-4-1;joint custody impact on children
+678-4-2;shared custody impact on children
+678-5-1;shared custody impact on child
+678-5-2;economic effects of shared custody on child
+678-5-3;social effects of shared custody on child
+678-5-4;emotional effects of shared custody on child
+678-6-1;shared custody child impact
+679-1-1;us open sealed adoption records
+679-2-1;us debate sealed adoption court records
+679-4-1;open sealed adoption records court order
+679-5-1;sealed adoption records to adoptees debate united states us court sanctioned
+679-5-2;interests of birth parents adoptees debate united states us court sanctioned
+679-5-3;access to adoption records adoptees debate united states us court sanctioned
+679-5-4;open adoption records adoptees debate united states us court sanctioned
+679-6-1;usa united states america debate sealed adoption records
+680-1-1;spanish in us schools improve lives of mexican immigrants
+680-2-1;spanish in us education improve mexican immigration
+680-4-1;mexican immigrants spanish speaking at school united states
+680-5-1;spanish united states us schools mexican immigrants
+680-5-2;spanish language united states us mexican immigrants improve quality of life students
+680-5-3;spanish language united states us mexican immigrants improve quality of life families
+680-6-1;mexican spanish american schools
+680-7-1;spanish speaker native mexican immigrant school mother tongue
+681-1-1;wind power installation location
+681-2-1;wind power locations
+681-4-1;location of wind power stations
+681-5-1;wind power installation location
+681-5-2;wind turbine installation location
+681-5-3;wind farm installations worldwide
+681-6-1;wind farm location
+681-7-1;wind farm locations site ridge ocean
+682-1-1;teaching english to immigrants
+682-2-1;english education adult immigrants
+682-4-1;immigrant english learning program for adults
+682-5-1;english teaching adult immigrants pedagogy
+682-5-2;english teaching adult immigrants program information session
+682-5-3;english teaching adults recent immigrants immigration
+682-6-1;adult immigrant english language teaching program
+682-7-1;teaching english to recent migrants
+683-1-1;break up czechoslovakia social political impact
+683-2-1;break up czechoslovakia czech republic slovakia
+683-4-1;czechoslovakia break up
+683-4-2;czech republic and slovakia break up
+683-5-1;czechoslovakia czech republic and slovakia break up political impact
+683-5-2;czechoslovakia czech republic and slovakia break up social emotional impact
+683-5-3;czechoslovakia czech republic and slovakia split impact
+683-6-1;czech republic slovakia czechoslovakia impact social political
+684-1-1;medical benefits for part time workers
+684-2-1;part time work provide medical benefits
+684-4-1;health care benefits for part time workers
+684-5-1;businesses government medical benefits part time workers
+684-5-2;medical benefits part time workers overseas parliament government
+684-5-3;medical benefits part time workers overseas businesses companies organizations
+684-6-1;part time worker medical  benefit which business
+684-7-1;medical health benefits part time fractional casual workers employees
+685-1-1;oscar winners voting process
+685-2-1;how are oscar winners selected
+685-4-1;academy award nomination and selection criteria
+685-4-2;oscar award nomination and selection criteria 
+685-5-1;oscar winners award selection nomination process
+685-5-2;how to vote in oscar awards democratic
+685-5-3;number amount of eligible voters for oscar awards
+685-6-1;oscar winner selection process
+685-7-1;oscar academy award selection voting choice winner
+686-1-1;negative impacts argentina pegging peso to dollar
+686-2-1;argentine peso us dollar problems
+686-4-1;problems and issues with pegging argentina peso to us dollar
+686-5-1;argentina pegging peso to us united states us dollar negative effects
+686-5-2;argentina pegging peso to us united states us dollar reason for economic slump downturn recession
+686-5-3;argentina pegging peso to us united states us dollar negative effects fixed exchange rate
+686-6-1;argentina peso usd us dollar pegging problem
+686-7-1;pros cons advantages disadvantage argentinian currency peso fixed pegged us united states dollar
+687-1-1;northern ireland economy industries business
+687-2-1;northern ireland business industry
+687-4-1;major industry in northern ireland
+687-5-1;economy northern ireland industries and businesses
+687-5-2;macroeconomic activity northern ireland industries businesses
+687-5-3;northern ireland major important export gdp gross domestic product economy
+687-6-1;northern ireland economy industry
+687-7-1;industry and economy of northern ireland major employer
+688-1-1;media bias outside us
+688-1-2;international media bias
+688-2-1;international media bias
+688-4-1;media bias in europe
+688-4-2;media bias in australia
+688-4-3;media bias asian countries
+688-4-4;media bias in canada
+688-4-5;media bias in britain
+688-5-1;bias exists media worldwide outside of united states us
+688-5-2;allegations bias exists media worldwide outside of united states us
+688-5-3;evidence bias exists media worldwide outside of united states us
+688-5-4;worldwide criticism media bias against race united states us
+688-5-5;worldwide criticism media bias against sex united states us
+688-5-6;worldwide criticism media bias against gender united states us
+688-5-7;worldwide criticism media bias discrimination united states us
+688-6-1;media bias examples worldwide
+689-1-1;usaid family planning support
+689-2-1;usaid family planning
+689-4-1;countries that received aid for family planning from united states
+689-4-2;united states denied aid for family planning
+689-4-3;limited family planning support from united states
+689-5-1;united states us global financial aid recipients family planning by country
+689-5-2;united states us global financial aid recipients family planning by country refused limited support
+689-5-3;united states us global financial aid recipients pregnancy by country refused limited support
+689-5-4;united states us global financial aid recipients pregnancy by country
+689-6-1;us usa united states family planning support
+689-7-1;us united states foreign aid family planning contraception support education clinic
+690-1-1;college graduate increased income
+690-1-2;university graduate increased income
+690-1-3;hiring potential college graduate
+690-2-1;us college education improves job opportunities
+690-3-1;graduates hiring potential north america
+690-4-1;college education improves job seeking
+690-4-2;advantage of college education in united states
+690-5-1;advantages of a college education for job opportunities
+690-5-2;increased hiring potential for university graduates
+690-5-3;increased hiring potential for masters increased job opportunities for university graduates
+690-5-4;increased hiring potential for phds
+690-5-5;increased hiring potential for doctorates
+690-5-6;increased job prospects for college graduates
+690-5-7;increased job prospects for community college graduates
+690-5-8;increased job opportunities for university students
+690-5-9;increased job opportunities for university graduates
+690-5-10;increased job opportunities for college graduates
+690-6-1;usa us united states graduate income increase
+690-7-1;benefit of hiring graduate college us united states
+690-8-1;median graduate income increase us college
+691-1-1;clear cutting objections
+691-2-1;clear cutting forest protest
+691-4-1;objections to clear cutting forests
+691-4-2;arguments against clear cutting forests
+691-5-1;clear cutting clear cutting old forests objections
+691-5-2;clear cutting clear cutting old forests debate resistance
+691-5-3;clear cutting clearcutting controversy environment activism
+691-6-1;clear cutting forestry logging objection
+691-7-1;forest clear cutting disadvantage protest protest resistance timber tree logging
+692-1-1;prostate cancer detection treatment
+692-2-1;prostate cancer detection and treatment
+692-4-1;prostate cancer general treatment
+692-4-2;prostate cancer early detection
+692-5-1;prostate cancer detection
+692-5-2;prostate cancer treatments available
+692-5-3;prostate cancer treatments for different stages of development
+692-6-1;prostate cancer detection treatment
+693-1-1;electronic media newspaper industry
+693-2-1;effects of electronic media on newspapers
+693-4-1;impact of electronic media on newspaper industry
+693-5-1;electronic media newspaper industry print is dead
+693-5-2;internet destroying print industry newspaper media dead
+693-5-3;reading news online instead of print destroying newspaper industry
+693-6-1;newspaper industry decline electronic technology media
+693-7-1;electronic media newspaper print advertisement industry readership decline circulation
+694-1-1;how to make a compost pile
+694-2-1;composting how to
+694-4-1;making a compost pile
+694-4-2;procedures to make a compost pile
+694-5-1;compost pile construction
+694-5-2;dimensions of a compost pile
+694-5-3;size of a compost pile
+694-5-4;depth of a compost pile
+694-5-5;what to add to a compost pile fruits vegetables eggs teabags
+694-6-1;compost pile how to
+694-7-1;compost pile waste scraps food vegetable worm turn over
+695-1-1;white collar crime sentence duration
+695-2-1;white collar crime average sentence
+695-4-1;length of sentence for white collar crimes
+695-5-1;white collar crimes sentencing legal
+695-5-2;judges bias white collar crimes sentencing legal
+695-5-3;white collar crimes fraud sentencing
+695-6-1;white collar crime sentence
+695-8-1;white collar crime sentence
+696-1-1;cosmetic plastic surgery hazards risks safety
+696-2-1;cosmetic plastic surgery safety
+696-4-1;cosmetic plastic surgery safety concerns
+696-4-2;risk of plastic surgery
+696-5-1;safety cosmetic plastic surgery
+696-5-2;heart condition cosmetic plastic surgery safety issues
+696-5-3;health safety enhancement body plastic surgery
+696-6-1;plastic surgery cosmetic safety
+696-8-1;hazards of cosmetic plastic surgery
+696-8-2;safety of cosmetic plastic surgery
+697-1-1;working conditions us air traffic controllers
+697-2-1;us air traffic controller working conditions
+697-4-1;working condition and salary level of united states air traffic controllers
+697-4-2;air traffic controller pay scale in united states
+697-5-1;working conditions united states us air traffic controllers
+697-5-2;pay income united states us air traffic controllers
+697-5-3;breaks shifts hours worked united states us air traffic controllers
+697-6-1;usa us united states air traffic controller working conditions salary
+697-7-1;pay and conditions air traffic controllers us united states
+697-8-1;american controllers air traffic work conditions
+698-1-1;literacy rates african countries
+698-2-1;african literacy rates
+698-4-1;literacy rate in africa
+698-5-1;literacy rates africa
+698-5-2;literacy rates sudan
+698-5-3;literacy rates south africa
+698-6-1;african country literacy rate list
+698-8-1;literacy rates africa
+699-1-1;term limits pros cons
+699-2-1;term limits pros cons
+699-4-1;pros and cons of term limits
+699-4-2;term limits legislative study
+699-5-1;debate term limit legislation pros cons positives negatives government
+699-5-2;term limit legislation opinions criticisms government
+699-5-3;term limits great improvement positive united states us government
+699-6-1;term limit pros and cons
+699-8-1;term limits value advantage
+699-8-2;term limits value disadvantage
+700-1-1;increase gasoline tax us
+700-2-1;gasoline taxes pros and cons
+700-4-1;gasoline tax in united states
+700-5-1;gasoline tax increases us united states positives and negatives
+700-5-2;gasoline tax hike increases criticism debate united states us
+700-5-3;gasoline tax hike positive improvements great wonderful united states us
+700-6-1;us usa united states gasoline tax increase argument reason
+700-7-1;pro con advantage disadvantage cost benefit gasoline tax increase us united states
+700-8-1;gasoline taxes survey

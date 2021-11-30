@@ -1,0 +1,22 @@
+NAME: 'default'
+PATH_IDX: '/anserini/indexes/lucene-index.core17'
+QREL: 'data/qrels/core17.txt'
+BM: 'data/lm/background.csv'
+TOPIC_MODELS: 'data/lm/cqg.json'
+COLLECTION: 'core17'
+TOPIC: 336
+LAMBDA: 0.4
+TRECTOPIC:
+    STRATEGY: 's1'
+KNOWNITEM:
+    STRATEGY: 's1'
+QCMCQG:
+    OFFSET_TERMS: 0
+    NUM_TERMS: 10
+    MIN_LENGTH: 3
+    MAX_LENGTH: 5
+    ALPHA: 2.2          # reward theme terms
+    BETA:  1.8          # penalize added topic terms
+    EPSILON: 0.07       # reward added terms
+    DELTA: 0.4          # penalize removed terms
+    INCLUDE_TOPIC: False
